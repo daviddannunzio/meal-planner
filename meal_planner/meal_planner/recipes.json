@@ -1,0 +1,240 @@
+[
+    {
+        "name" : "The Simple Chickpea Salad I'm Losing My Mind Over",
+        "meat" : "V",
+        "website" : "http://www.howsweeteats.com/2014/06/the-simple-chickpea-salad-im-losing-my-mind-over/",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : "In a large bowl, combine the chickpeas, onions, corn, tomatoes, basil and chives. Toss well with the salt and pepper."
+            },
+            {
+                "step_number" : 2,
+                "step_description" : "In a small saucepan, add the oil, vinegar, honey, garlic, lime juice and zest. Heat over low heat and whisk until the mixture is warm and garlic cloves are sizzling a bit."
+            },
+            {
+                "step_number" : 3,
+                "step_description" : "Pour the liquid over the chickpeas and and toss well to coat. Cover with a piece of plastic wrap and refrigerate for at least 30 minutes before serving."
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "Chickpeas",
+                "amount": 2,
+                "unit": "Cans",
+                "preparation": "Rinsed"
+            },
+            {
+                "name": "Green Onions",
+                "amount": 4,
+                "unit": "",
+                "preparation": "Sliced"
+            },
+            {
+                "name": "Corn",
+                "amount": 2,
+                "unit": "Ears",
+                "preparation": "Grilled"
+            },
+            {
+                "name": "Cherry Tomatoes",
+                "amount": 1,
+                "unit": "Pint",
+                "preparation": "Quartered"
+            },
+            {
+                "name": "Basil",
+                "amount": 3,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Chives",
+                "amount": 2,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Salt",
+                "amount": 0.25,
+                "unit": "tsp",
+                "preparation": ""
+            },
+            {
+                "name": "Pepper",
+                "amount": 0.25,
+                "unit": "tsp",
+                "preparation": ""
+            },
+            {
+                "name": "Olive Oil",
+                "amount": 3,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Red Wine Vinegar",
+                "amount": 2,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Honey",
+                "amount": 1.5,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Garlic",
+                "amount": 3,
+                "unit": "Cloves",
+                "preparation": "Minced or pressed"
+            }
+        ]
+    },
+    {
+        "name" : "Easy Cream of Mushroom Chicken",
+        "meat" : "C",
+        "website" : "http://housewifeglamour.com/chicken/easy-cream-of-mushroom-chicken/",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : "Heat oil in a medium skillet and slice mushrooms."
+            },
+            {
+                "step_number" : 2,
+                "step_description" : "Add chicken to skillet and brown both sides for 5 minutes each over medium heat. Make sure both sides brown equally."
+            },
+            {
+                "step_number" : 3,
+                "step_description" : "Add mushrooms and cook for 2 more minutes.  Add salt and pepper to taste."
+            },
+            {
+                "step_number" : 4,
+                "step_description" : "Add can of cream of mushroom soup.  DO NOT add water! Stir until chicken and mushrooms are well coated."
+            },
+            {
+                "step_number" : 5,
+                "step_description" : "Cover and simmer for 10 minutes (or until chicken is no longer pink,) stirring once or twice."
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "Olive Oil",
+                "amount": 21,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Mushrooms",
+                "amount": 1,
+                "unit": "Cup",
+                "preparation": "Sliced"
+            },
+            {
+                "name": "Chicken",
+                "amount": 4,
+                "unit": "Breasts",
+                "preparation": ""
+            },
+            {
+                "name": "Mushroom Soup",
+                "amount": 1,
+                "unit": "10oz Can",
+                "preparation": ""
+            }
+        ]
+    },
+    {
+        "name" : "Broccoli and Sausage Frittata",
+        "meat" : "P",
+        "website" : "http://oneperfectbite.blogspot.com/2012/03/baked-broccoli-and-sausage-frittata.html#.Um1L1ZTm1Zg",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : "Preheat oven to 350 degrees. Liberally grease a 9 x 13-inch pan with oil."
+            },
+            {
+                "step_number" : 2,
+                "step_description" : "Saute onion in oil over medium-high heat until soft and translucent, about 5 minutes. Lightly season with salt and pepper. Add sausage to pan and cook until lightly brown, about 5 minutes.Add broccoli to pan and cook for 2 minutes. Stir in garlic and jalapeno and cook until fragrant, about 1 minute longer. Scrape mixture into prepared baking pan and set aside."
+            },
+            {
+                "step_number" : 3,
+                "step_description" : "Add milk, 1/2 teaspoon salt and 1/2 teaspoon pepper to eggs and whisk vigorously until smooth. Pour eggs over mixture in baking pan."
+            },
+            {
+                "step_number" : 4,
+                "step_description" : "Bake, uncovered, until eggs are set, about 25 to 30 minutes.Remove from oven and serve immediately."
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "Vegetable Oil",
+                "amount": 2,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "Cup",
+                "preparation": "Chopped"
+            },
+            {
+                "name": "Breakfast Sausage",
+                "amount": 1,
+                "unit": "lb",
+                "preparation": ""
+            },
+            {
+                "name": "Garlic",
+                "amount": 2,
+                "unit": "tsp",
+                "preparation": "Minced"
+            },
+            {
+                "name": "Jalapeño",
+                "amount": 1,
+                "unit": "",
+                "preparation": "Minced"
+            },
+            {
+                "name": "Broccoli",
+                "amount": 1,
+                "unit": "12 oz Bag",
+                "preparation": ""
+            },
+            {
+                "name": "Eggs",
+                "amount": 10,
+                "unit": "",
+                "preparation": ""
+            },
+            {
+                "name": "Milk",
+                "amount": 3,
+                "unit": "Tbs",
+                "preparation": ""
+            }
+        ]
+    },
+    {
+        "name" : "",
+        "meat" : "",
+        "website" : "",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : ""
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "",
+                "amount": 1,
+                "unit": "",
+                "preparation": ""
+            }
+        ]
+    }
+]

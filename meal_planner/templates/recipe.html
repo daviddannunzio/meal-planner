@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Recipe Info
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <a href="/index/">Back To Search</a>
+
+        <h3>{{ recipe.name }}</h3>
+        <ul>
+            {% for step in recipe.recipestep_set.all %}
+            <li>{{ step.step_number }}: {{ step.step_description }}</li>
+            {% endfor %}
+        </ul>
+
+        <h3>Ingredients</h3>
+        <table class="table table-striped">
+            {% for ingredient in recipe.ingredients_set.all %}
+            <tr>
+                <td class="col-md-2">{{ ingredient.name }}:</td>
+                <td class="col-md-1">{{ ingredient.amount }}</td>
+                <td class="col-md-1">{{ ingredient.unit }}</td>
+                <td class="col-md-1">{{ ingredient.preparation }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
+        </br>
+        <a href="{{ recipe.website }}">Original Site</a>
+    </div>
+{% endblock %}
