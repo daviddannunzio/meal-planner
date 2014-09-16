@@ -13,7 +13,5 @@ urlpatterns = patterns('',
 
     #url(r'^admin/', include(admin.site.urls)),
     url(r'^index/$', index),
-    url(r'^recipes/$', views.search_form),
-    url(r'^search/$', views.search),
     url(r'^recipe/$', recipe),
 )

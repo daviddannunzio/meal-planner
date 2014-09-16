@@ -1,6 +1,7 @@
 from meals.models import Recipe
 import json
 
+
 def load():
     # Clear the DB
     Recipe.objects.all().delete()

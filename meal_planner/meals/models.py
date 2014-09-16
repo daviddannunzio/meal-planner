@@ -9,6 +9,7 @@ MEAT = (
     ('P', 'Pork'),
 )
 
+
 class Recipe(models.Model):
     name = models.CharField(max_length=50)
     website = models.URLField()

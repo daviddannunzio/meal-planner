@@ -4,6 +4,7 @@ from meals.models import Recipe
 from on_startup import load
 from forms import RecipeForm
 
+
 def index(request):
     if request.method == 'POST':
         form = RecipeForm(request.POST)
