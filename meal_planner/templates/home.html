@@ -7,24 +7,26 @@
 {% block content %}
     <div class="container" style="margin-left: 20px">
         <div class="col-md-3">
-            <form action="/index/" method="get">
-                <input type="text" name="q">
-                <input type="submit" value="Search">
-            </form>
-            <br/>
-            <form action="/index/" method="get">
-                <select name="q">
-                    <option value="V">Veggie</option>
-                    <option value="T">Tofu</option>
-                    <option value="C">Chicken</option>
-                    <option value="B">Beef</option>
-                    <option value="F">Fish</option>
-                </select>
-                <input type="submit" value="Submit">
+{#            <form action="/index/" method="get">#}
+{#                <select name="meat">#}
+{#                    <option value="ALL">All</option>#}
+{#                    <option value="V">Veggie</option>#}
+{#                    <option value="T">Tofu</option>#}
+{#                    <option value="C">Chicken</option>#}
+{#                    <option value="B">Beef</option>#}
+{#                    <option value="F">Fish</option>#}
+{#                    <option value="P">Pork</option>#}
+{#                </select>#}
+{#                <input type="submit" value="Submit">#}
+{#            </form>#}
+            <form method='post'>
+                {{ form.as_p }}
+                <input type='submit' value='Submit'>
             </form>
         </div>
 
         <div class="col-md-9">
+            <h2>Recipes</h2>
             <ul>
             {% for recipe in recipe_list %}
                 <li>

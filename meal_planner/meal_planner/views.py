@@ -1,20 +1,28 @@
-from django.shortcuts import render
+from django.shortcuts import render, render_to_response
+from django.template import RequestContext
 from meals.models import Recipe
 from on_startup import load
-
+from forms import RecipeForm
 
 def index(request):
-    if 'q' in request.GET and request.GET['q']:
-        q = request.GET['q']
+    if request.method == 'POST':
+        form = RecipeForm(request.POST)
+        if form.is_valid():
+            meat = form.cleaned_data.get('meat')
 
-        recipes = Recipe.objects.filter(meat=q)
+            if not meat:
+                return render(request, 'home.html', {'form': form, 'recipe_list': Recipe.objects.all().order_by("name")})
 
-        # recipes = Recipe.objects.filter(name__icontains=q)
-        return render(request, 'home.html',
-            {'recipe_list': recipes})
+            recipes = Recipe.objects.filter(meat__in=meat)
+
+            return render(request, 'home.html', {'form': form, 'recipe_list': recipes})
+
     else:
         load()
-        return render(request, 'home.html', {'recipe_list': Recipe.objects.all().order_by("name")})
+        form = RecipeForm
+
+    return render_to_response('home.html', {'form': form, 'recipe_list': Recipe.objects.all().order_by("name")},
+                              context_instance=RequestContext(request))
 
 
 def recipe(request):

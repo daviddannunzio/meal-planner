@@ -27,18 +27,6 @@ def load():
 
     # Load all recipes so far
     '''
-    Recipe.objects.create(name="Simple Red Split Lentils",
-                          meat="V",
-                          website="http://www.wikihow.com/Cook-Red-Split-Lentils")
-    Recipe.objects.create(name="The Best Roasted Vegetables Ever",
-                          meat="V",
-                          website="http://www.thewednesdaychef.com/the_wednesday_chef/2013/07/the-best-roasted-vegetables-ever.html")
-    Recipe.objects.create(name="Potato Frittata",
-                          meat="V",
-                          website="http://www.bhg.com/recipe/potato-frittata/")
-    Recipe.objects.create(name="Cast Iron Skillet Spinach Mushroom Frittata",
-                          meat="V",
-                          website="http://www.honeywhatscooking.com/2013/02/cast-iron-skillet-spinach-mushroom.html")
     Recipe.objects.create(name="Simple Black Bean Burgers",
                           meat="V",
                           website="http://www.foodnetwork.com/recipes/sandra-lee/black-bean-burgers-recipe.html")
