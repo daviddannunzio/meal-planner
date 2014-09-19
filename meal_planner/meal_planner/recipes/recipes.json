@@ -1,0 +1,19 @@
+{
+    "name" : "",
+    "meat" : "",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : ""
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}

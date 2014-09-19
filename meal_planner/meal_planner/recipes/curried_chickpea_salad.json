@@ -1,0 +1,99 @@
+{
+    "name" : "Curried Chickpea Salad",
+    "meat" : "V",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "In a large bowl, whisk together vinegar, lime juice, olive oil, curry powder, maple syrup and salt."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add raisins, cumin, chickpeas, bell pepper, onion and cilantro and toss to combine."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Spoon chickpea salad over salad greens and serve with pita chips on the side, if you like."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Apple Cider Vinegar",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Curry Powder",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Maple Syrup",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Seedless Raisins",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin Seeds",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": "Toasted"
+        },
+        {
+            "name": "Chickpeas",
+            "amount": 2,
+            "unit": "15 oz cans",
+            "preparation": "Rinsed and Drained"
+        },
+        {
+            "name": "Red Bell Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Cored, Seeded and Chopped"
+        },
+        {
+            "name": "Red Onion",
+            "amount": 0.66,
+            "unit": "Cup",
+            "preparation": "Finely Chopped"
+        },
+        {
+            "name": "Parsley (or Cilantro)",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Mixed Greens (optional)",
+            "amount": 8,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Pita Chips (optional)",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}

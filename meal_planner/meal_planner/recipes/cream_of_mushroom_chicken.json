@@ -1,0 +1,53 @@
+{
+    "name" : "Easy Cream of Mushroom Chicken",
+    "meat" : "C",
+    "website" : "http://housewifeglamour.com/chicken/easy-cream-of-mushroom-chicken/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Heat oil in a medium skillet and slice mushrooms."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add chicken to skillet and brown both sides for 5 minutes each over medium heat. Make sure both sides brown equally."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add mushrooms and cook for 2 more minutes.  Add salt and pepper to taste."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add can of cream of mushroom soup.  DO NOT add water! Stir until chicken and mushrooms are well coated."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Cover and simmer for 10 minutes (or until chicken is no longer pink,) stirring once or twice."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Olive Oil",
+            "amount": 21,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Mushrooms",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Chicken",
+            "amount": 4,
+            "unit": "Breasts",
+            "preparation": ""
+        },
+        {
+            "name": "Mushroom Soup",
+            "amount": 1,
+            "unit": "10oz Can",
+            "preparation": ""
+        }
+    ]
+}

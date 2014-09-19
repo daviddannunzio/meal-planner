@@ -1,0 +1,71 @@
+{
+    "name" : "Black Bean Salad with Avocado-Lime Dressing",
+    "meat" : "V",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "In a large bowl, whisk together avocado, cilantro and lime juice until blended."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add beans, lettuce, tomatoes, corn, pepper, pumpkin seeds and toss until evenly coated."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Avocado",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Mashed"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Black Beans",
+            "amount": 2,
+            "unit": "15 oz cans",
+            "preparation": "Rinsed and Drained"
+        },
+        {
+            "name": "Lettuce",
+            "amount": 4,
+            "unit": "Cups",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Grape Tomatoes",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Halved"
+        },
+        {
+            "name": "Corn",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Red Bell Pepper",
+            "amount": 1,
+            "unit": "Small",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Pumpkin Seeds",
+            "amount": 0.5,
+            "unit": "Cups",
+            "preparation": "Toasted"
+        }
+    ]
+}

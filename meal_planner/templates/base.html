@@ -1,9 +1,24 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html lang="en">
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-
 <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $(".glyphicon").click(function(){
+                $("table").toggle('slow');
+
+                var tableglyph = $("#tableglyph");
+                if (tableglyph.attr("class") == "glyphicon glyphicon-chevron-down") {
+                    tableglyph.attr("class", "glyphicon glyphicon-chevron-right");
+                }
+                else {
+                    tableglyph.attr("class", "glyphicon glyphicon-chevron-down");
+                }
+            });
+        });
+    </script>
     <title>{% block title %}Recipe Finder{% endblock %}</title>
 </head>
 <body>

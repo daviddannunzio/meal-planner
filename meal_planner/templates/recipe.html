@@ -15,8 +15,8 @@
             {% endfor %}
         </ul>
 
-        <h3>Ingredients</h3>
-        <table class="table table-striped">
+        <h3 class="ingredients">Ingredients</h3><span id="tableglyph" class="glyphicon glyphicon-chevron-down"></span>
+        <table id="tin" class="table table-striped">
             {% for ingredient in recipe.ingredients_set.all %}
             <tr>
                 <td class="col-md-2">{{ ingredient.name }}:</td>
@@ -28,6 +28,13 @@
         </table>
 
         <br>
-        <a href="{{ recipe.website }}">Original Site</a>
+        {% if recipe.website %}
+            <a href="{{ recipe.website }}">Original Site</a>
+        {% else %}
+            <p>Not From The Web</p>
+        {% endif %}
+
+        <br>
+        <a href="/recipe/export/?id={{ recipe.id }}" style="color: #47A3FF">EXPORT</a>
     </div>
 {% endblock %}

@@ -1,0 +1,51 @@
+{
+    "name" : "Sweet Mustard Chicken Thighs",
+    "meat" : "C",
+    "website" : "http://www.myrecipes.com/recipe/sweet-mustard-chicken-thighs-10000001896116/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Prepare grill."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Combine first 4 ingredients in a small bowl, stirring well. Reserve and set aside 1/4 cup sauce mixture."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Place chicken on grill rack coated with cooking spray. Brush half of remaining 1/2 cup sauce mixture over one side of chicken. Grill chicken 3 to 4 minutes. Turn chicken over; brush with remaining half of sauce mixture. Cook 3 to 4 minutes or until done. Place chicken on a serving platter; drizzle with reserved 1/4 cup sauce mixture."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Mustard",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Dark Brown Sugar",
+            "amount": 0.66,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Allspice",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Crushed Red Pepper",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chicken",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": ""
+        }
+    ]
+}

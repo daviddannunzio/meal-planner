@@ -3,7 +3,7 @@ from django.conf.urls import patterns, include, url
 from django.contrib import admin
 admin.autodiscover()
 
-from meal_planner.views import index, recipe
+from meal_planner.views import index, recipe, export
 from meals import views
 
 urlpatterns = patterns('',
@@ -14,4 +14,5 @@ urlpatterns = patterns('',
     #url(r'^admin/', include(admin.site.urls)),
     url(r'^index/$', index),
     url(r'^recipe/$', recipe),
+    url(r'^recipe/export/$', export),
 )
