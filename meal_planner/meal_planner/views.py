@@ -1,6 +1,6 @@
 from django.shortcuts import render, render_to_response, redirect
 from django.template import RequestContext
-from meals.models import Recipe, Ingredients
+from meals.models import Recipe, Ingredients, RecipeStep
 from on_startup import load
 from forms import RecipeForm
 
@@ -27,7 +27,39 @@ def determine_max_ingredients(form, recipes):
 
     return recipes
 
-FILTER_METHODS = [determine_meat, determine_max_ingredients]
+
+def text_search(form, recipes):
+    text_to_search = form.cleaned_data.get('text_search')
+
+    if not text_to_search:
+        return recipes
+
+    recipes_with_text = []
+
+    for recipe_obj in recipes:
+        if text_to_search.lower() in recipe_obj.name.lower():
+            recipes_with_text.append(recipe_obj.id)
+            continue
+
+        ingredients = Ingredients.objects.filter(recipe__id=recipe_obj.id)
+
+        for ingredient in ingredients:
+            if text_to_search.lower() in ingredient.name.lower():
+                recipes_with_text.append(recipe_obj.id)
+                break
+
+        steps = RecipeStep.objects.filter(recipe__id=recipe_obj.id)
+
+        for step in steps:
+            if text_to_search.lower() in step.step_description.lower():
+                recipes_with_text.append(recipe_obj.id)
+                break
+
+    excluded_recipes = recipes.exclude(id__in=recipes_with_text)
+
+    return list(set(recipes) - set(excluded_recipes))
+
+FILTER_METHODS = [determine_meat, determine_max_ingredients, text_search]
 
 
 def index(request):
@@ -40,7 +72,6 @@ def index(request):
                 recipes = filter_method(form, recipes)
 
             return render(request, 'home.html', {'form': form, 'recipe_list': recipes})
-
     else:
         load()
         form = RecipeForm

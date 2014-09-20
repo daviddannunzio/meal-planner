@@ -6,8 +6,13 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function(){
-            $(".glyphicon").click(function(){
-                $("table").toggle('slow');
+            console.log($("li"));
+            for (item in $("li")) {
+                console.log(item);
+            }
+
+            $("#tableglyph").click(function(){
+                $("#slide-table").slideToggle();
 
                 var tableglyph = $("#tableglyph");
                 if (tableglyph.attr("class") == "glyphicon glyphicon-chevron-down") {
@@ -25,9 +30,7 @@
 
     <nav class="navbar navbar-inverse" role="navigation">
         <h2 class="navbar-text">
-            <span class="glyphicon glyphicon-glass"></span>
-                Recipe Finder
-            <span class="glyphicon glyphicon-glass"></span>
+            <span class="glyphicon glyphicon-search"></span> Recipe Finder
         </h2>
     </nav>
 

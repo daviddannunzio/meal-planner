@@ -33,21 +33,6 @@ def load():
 
     # Load all recipes so far
     '''
-    Recipe.objects.create(name="Thai Style Halibut with Coconut Curry Broth",
-                          meat="F",
-                          website="http://www.foodnetwork.com/recipes/ellie-krieger/thai-style-halibut-with-coconut-curry-broth-recipe.html")
-    Recipe.objects.create(name="Moroccan Spiced Chickpea Carrot Soup",
-                          meat="V",
-                          website="http://cookbakenibble.com/2011/03/02/moroccan-spiced-chickpea-carrot-soup/")
-    Recipe.objects.create(name="Beef Stuffed Sweet Potato",
-                          meat="B",
-                          website="http://www.foodnetwork.com/recipes/food-network-kitchens/beefy-stuffed-sweet-potato.html")
-    Recipe.objects.create(name="Fall Veggie and Quinoa Hash Poached Eggs",
-                          meat="V",
-                          website="http://www.wholeliving.com/132622/fall-vegetable-and-quinoa-hash-poached-eggs")
-    Recipe.objects.create(name="Sage and Garlic Roasted Chicken, Pomegranate Glaze",
-                          meat="C",
-                          website="http://www.insockmonkeyslippers.com/sage-and-garlic-roasted-chicken-with-pomegranate-and-black-pepper-glaze")
     Recipe.objects.create(name="Lentils and Sausage braised in Red Wine",
                           meat="P",
                           website="http://www.biggirlssmallkitchen.com/2013/01/lentils-and-sausage-braised-in-red-wine.html")
@@ -57,9 +42,6 @@ def load():
     Recipe.objects.create(name="Squash Coconut Curry",
                           meat="V",
                           website="http://pinchofyum.com/30-minute-squash-coconut-curry")
-    Recipe.objects.create(name="Farfalle with Mushrooms and Spinach",
-                          meat="V",
-                          website="http://www.bhg.com/recipe/pasta/farfalle-with-mushrooms-and-spinach/")
     Recipe.objects.create(name="Avocado Mango Chicken Salad",
                           meat="C",
                           website="http://eat-drink-love.com/2013/02/avocado-mango-chicken-salad/")
@@ -75,9 +57,6 @@ def load():
     Recipe.objects.create(name="Sweet Potato Chickpea Veggie Burger",
                           meat="V",
                           website="http://www.cooksmarts.com/cs-blog/2013/05/sweet-potato-chickpea-veggie-burger-patty-recipe/#.U-lVxI1dVPx")
-    Recipe.objects.create(name="Fish with Lemon and Caper Sauce",
-                          meat="F",
-                          website="http://www.williams-sonoma.com/recipe/fish-with-lemon-and-caper-sauce.html")
     Recipe.objects.create(name="Spicy Black Bean Cakes",
                           meat="V",
                           website="http://www.marthastewart.com/332312/spicy-black-bean-cakes")

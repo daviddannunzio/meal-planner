@@ -11,6 +11,9 @@ class RecipeForm(forms.Form):
                                          min_value=1,
                                          max_value=50,
                                          widget=forms.NumberInput(attrs={'onchange': 'this.form.submit();'}))
+    text_search = forms.CharField(label="Text Search",
+                                  required=False,
+                                  widget=forms.TextInput(attrs={'onchange': 'this.form.submit();'}))
 
 
 class OwnedIngredientsForm(forms.Form):
