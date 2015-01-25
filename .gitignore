@@ -19,11 +19,13 @@
 *.rar
 *.tar
 *.zip
+*.pyc
 
 # Logs and databases #
 ######################
 *.log
 *.sql
+*.sqlite3
 *.sqlite
 
 # OS generated files #
