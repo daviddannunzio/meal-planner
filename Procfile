@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi --log-file -
+web: gunicorn meal_planner.meal_planner.wsgi --log-file -
