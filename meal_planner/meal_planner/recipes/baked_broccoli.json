@@ -1,0 +1,69 @@
+{
+    "name" : "Oven Roasted Broccoli",
+    "meat" : "V",
+    "website" : "http://www.foodnetwork.com/recipes/alton-brown/oven-roasted-broccoli-recipe.html",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 425 degrees F."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Cut the broccoli florets into bite size pieces. Cut the stalk into 1/8-inch thick, round slices. Place the broccoli into a mixing bowl and toss with the olive oil, garlic, kosher salt and pepper and set aside."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Spread the panko into a 13 by 9-inch metal cake pan and place into the oven for 2 minutes or until lightly toasted. Remove the panko from the oven and add to the bowl with the broccoli mixture. Toss to combine. Return the mixture to the cake pan, place in the oven and roast just until the broccoli is tender, 8 to 10 more minutes. Remove from the oven, toss in the cheese and serve immediately."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Broccoli",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": "Rinsed and Trimmed"
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Black Pepper",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Panko Bread Crumbs",
+            "amount": 0.66,
+            "unit": "cup",
+            "preparation": ""
+        },
+        {
+            "name": "Parmesan or sharp Cheddar",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sriracha",
+            "amount": 1,
+            "unit": "unit",
+            "preparation": ""
+        }
+    ]
+}

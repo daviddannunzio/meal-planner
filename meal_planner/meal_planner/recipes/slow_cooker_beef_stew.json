@@ -90,6 +90,12 @@
             "amount": 1,
             "unit": "Stalk",
             "preparation": "Chopped"
+        },
+        {
+            "name": "Peas",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
         }
     ]
 }

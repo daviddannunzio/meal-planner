@@ -1,0 +1,111 @@
+{
+    "name" : "Coconut Chicken Salad with Warm Honey-Mustard Vinaigrette",
+    "meat" : "C",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "For the vinaigrette: In a medium bowl, whisk together the mustard, oil, honey, vinegar, and 2 teaspoons water. Set aside."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "For the chicken: Preheat the oven to 375 degrees F. Spray a large nonstick baking sheet with olive oil."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "In a medium bowl, combine the coconut, panko, cornflake crumbs, and a pinch of salt. In a second medium bowl, beat the egg whites."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Season the chicken with the remaining salt. Dip the chicken in the egg whites, then in the coconut-crumb mixture. Place the chicken on the prepared baking sheet. Lightly spray the top of the chicken with olive oil."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Bake for 15 minutes, flip, and cook until the chicken is cooked through, 15 more minutes."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "For the salad: Place 2 cups baby greens on each of 4 serving plates. Divide the carrots, corn, and cucumber. Slice the chicken on an angle and place on top of greens. Heat the dressing in the microwaeve a few seconds and divide among the salads."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Dijon Mustard",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "amount": 4,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Honey",
+            "amount": 4,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "White Vinegar",
+            "amount": 4,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Sweetened Shredded Coconut",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Panko Bread Crumbs",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Crushed Corflake Crumbs",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Egg Whites",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "(3 large eggs)"
+        },
+        {
+            "name": "Chicken Tenders",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": ""
+        },
+        {
+            "name": "Mixed Baby Greens",
+            "amount": 8,
+            "unit": "Cups",
+            "preparation": ""
+        },
+        {
+            "name": "Carrots",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Corn",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Browned"
+        },
+        {
+            "name": "Cucumber",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Sliced"
+        }
+    ]
+}
