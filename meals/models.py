@@ -11,8 +11,8 @@ MEAT = (
 
 
 class Recipe(models.Model):
-    name = models.CharField(max_length=50)
-    website = models.URLField()
+    name = models.CharField(max_length=500)
+    website = models.CharField(max_length=5000)
     meat = models.CharField(max_length=1, choices=MEAT)
 
     def __unicode__(self):
