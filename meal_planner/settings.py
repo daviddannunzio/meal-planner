@@ -67,8 +67,9 @@ WSGI_APPLICATION = 'meal_planner.wsgi.application'
 #        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
 #    }
 #}
-DATABASES['default'] =  dj_database_url.config()
-
+DATABASES = {
+     'default' = dj_database_url.config()
+}
 # Internationalization
 # https://docs.djangoproject.com/en/1.6/topics/i18n/
 
