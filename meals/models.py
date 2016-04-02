@@ -22,7 +22,7 @@ class Recipe(models.Model):
 class RecipeStep(models.Model):
     recipe = models.ForeignKey(Recipe)
     step_number = models.IntegerField()
-    step_description = models.CharField(max_length=400)
+    step_description = models.CharField(max_length=40000)
 
     def __unicode__(self):
         return self.step_description
