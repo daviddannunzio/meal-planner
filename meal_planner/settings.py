@@ -29,7 +29,7 @@ TEMPLATE_DEBUG = True
 ALLOWED_HOSTS = []
 
 TEMPLATE_DIRS = (
-    '/Users/David/Desktop/meal_planner/templates',
+    BASE_DIR + '/templates',
 )
 
 # Application definition

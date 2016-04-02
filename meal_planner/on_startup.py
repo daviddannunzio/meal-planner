@@ -1,13 +1,14 @@
 from meals.models import Recipe
 import json
 import os
+from django.conf import settings
 
 
 def load():
     # Clear the DB
     Recipe.objects.all().delete()
 
-    directory = '/Users/David/Desktop/meal_planner/meal_planner/recipes/'
+    directory = settings.BASE_DIR + '/meal_planner/recipes/'
     for recipe_file in os.listdir(directory):
         if recipe_file == 'recipes.json':
             continue
