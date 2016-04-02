@@ -7,7 +7,7 @@ def load():
     # Clear the DB
     Recipe.objects.all().delete()
 
-    directory = '/Users/David/Desktop/meal_planner/meal_planner/meal_planner/recipes/'
+    directory = '/Users/David/Desktop/meal_planner/meal_planner/recipes/'
     for recipe_file in os.listdir(directory):
         if recipe_file == 'recipes.json':
             continue
