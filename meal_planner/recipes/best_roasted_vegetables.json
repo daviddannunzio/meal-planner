@@ -1,0 +1,87 @@
+{
+    "name" : "The Best Roasted Vegetables Ever",
+    "meat" : "V",
+    "website" : "http://www.thewednesdaychef.com/the_wednesday_chef/2013/07/the-best-roasted-vegetables-ever.html",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat the oven to 375 F (180 C)."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Quarter and slice the onion thinly. Dice all the vegetables into pieces that are approximately the same size (no larger than 1/2 inch)."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Pile the vegetables into a baking dish so that the vegetables lie a few inches thick. Season with salt, pepper and herbs to taste and then pour the olive oil over the vegetables. Mix thoroughly but gently - you don't want to destroy the tomatoes before the dish goes into the oven. Now check the vegetables to make sure they are well-coated and glistening with oil. If need be, add more oil."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Put the dish in the oven and cook for 45 minutes to an hour."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Halfway through the cooking process, remove the dish from the oven and very gently stir the vegetables so that the ones at the bottom come to the top."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Towards the end of the cooking process, stir a second time. Remove from the oven and let cool slightly. Check for seasoning and serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Onion",
+            "amount": 1,
+            "unit": "Medium",
+            "preparation": ""
+        },
+        {
+            "name": "Carrots",
+            "amount": 1,
+            "unit": "Medium",
+            "preparation": ""
+        },
+        {
+            "name": "Zucchini",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Eggplant",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Potatoes",
+            "amount": 2,
+            "unit": "Small",
+            "preparation": ""
+        },
+        {
+            "name": "Tomatoes",
+            "amount": 5,
+            "unit": "Small",
+            "preparation": ""
+        },
+        {
+            "name": "Red Bell Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": ""
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 5,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "name" : "Honey Balsamic Chicken Breasts and Veggies",
+    "meat" : "C",
+    "website" : "http://damndelicious.net/2015/07/10/honey-balsamic-chicken-breasts-and-veggies/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "In a medium bowl, whisk together balsamic vinegar, honey, Dijon, garlic, oregano and basil; season with salt and pepper, to taste."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a gallon size Ziploc bag or large bowl, combine balsamic vinegar mixture and chicken; marinate for at least 30 minutes to overnight, turning the bag occasionally. Drain the chicken from the marinade."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Preheat oven to 400 degrees F. Lightly oil a baking sheet or coat with nonstick spray."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Place potatoes and tomatoes in a single layer onto the prepared baking sheet. Drizzle with olive oil and season with salt and pepper, to taste. Top with chicken in a single layer."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Place into oven and roast until the chicken is completely cooked through, reaching an internal temperature of 165 degrees F, about 25-30 minutes.* Stir in asparagus during the last 10 minutes of cooking time."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Serve immediately, garnished with parsley, if desired."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Baby Red Potatoes",
+            "amount": 16,
+            "unit": "oz",
+            "preparation": "Halved"
+        },
+        {
+            "name": "Cherry Tomatoes",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Asparagus",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": ""
+        },
+        {
+            "name": "Parsley",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Balsamic Vinegar",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Honey",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Dijon Mustard",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "cloves",
+            "preparation": ""
+        },
+        {
+            "name": "Dried Oregano",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Dried Basil",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chicken Breast",
+            "amount": 4,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}

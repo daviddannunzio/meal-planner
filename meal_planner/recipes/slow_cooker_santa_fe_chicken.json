@@ -1,0 +1,105 @@
+{
+    "name" : "Slow-Cooker Santa Fe Chicken",
+    "meat" : "C",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "For the stew: In a slow cooker, combine the broth, beans, corn, tomatoes, cilantro, scallions, garlic powder, onion powder, cumin, and cayenne. Season the chicken with salt and lay it on top. Cover and cook on low for 10 hours or high for 6 hours."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Thirty minutes before serving, remove the chicken, shred it with two forks, and return to the slow cooker."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "For the toppings: To serve, divide the soup among 8 serving bowls and top with the scallions and cilantro."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Chicken Broth",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": "May not use whole can"
+        },
+        {
+            "name": "Black Beans",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": ""
+        },
+        {
+            "name": "Corn",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Diced tomatoes with mild green chiles",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": ""
+        },
+        {
+            "name": "Cilantro",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Scallions",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Garlic Powder",
+            "amount": 1,
+            "unit": "tps",
+            "preparation": ""
+        },
+        {
+            "name": "Onion Powder",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 1.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cayenne",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chicken Breast",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": ""
+        },
+        {
+            "name": "Scallions",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 1,
+            "unit": "Bunch",
+            "preparation": "Chopped"
+        }
+    ]
+}

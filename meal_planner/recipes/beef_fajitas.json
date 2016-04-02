@@ -1,0 +1,155 @@
+{
+    "name" : "Beef Fajitas",
+    "meat" : "B",
+    "website" : "http://thepioneerwoman.com/cooking/2013/03/beef-fajitas/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "In a dish, mix together olive oil, Worcestershire, lime juice, garlic, cumin, chili powder, red pepper flakes, salt, pepper, and sugar until combined. Pour half of the marinade into a separate dish. In one dish, place the flank steak, turning it over to coat. In the second dish, place all the veggies, turning to coat. Cover the dishes with plastic wrap and place in the fridge for at least 2 hours."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Prepare tortillas, salsa, sour cream, and cilantro."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Heat a heavy skillet over medium-high heat and drizzle in some oil. Add the veggies and cook them for a few minutes, until they're cooked but still slightly firm and have nice black/brown pieces. Remove to a plate and set aside."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Heat the same same skillet (or a grill pan if you have it) over high heat and drizzle some oil. Cook the meat for about 2 minutes per side until medium rare. Remove and allow to rest on a cutting board for 5 minutes."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Slice the meat right before serving and serve with all the fixins. Delicious!"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Flank Steak",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Worcestershire Sauce",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 0.66,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 3,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Cumin",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Chili Powder",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Red Pepper Flakes",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Pepper",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Sugar",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Onion",
+            "amount": 2,
+            "unit": "Medium",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Red Bell Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Orange Bell Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Green Bell Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Yellow Bell Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Flour Tortillas",
+            "amount": 6,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Cheese",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Salsa",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Sour Cream",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Cilantro",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}

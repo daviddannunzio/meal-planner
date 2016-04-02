@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Recipe Info
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <a href="/index/">Back To Search</a>
+
+        <h3>{{ recipe.name }}</h3>
+        <ol>
+            {% for step in recipe.recipestep_set.all %}
+            <li>{{ step.step_description }}</li>
+            {% endfor %}
+        </ol>
+
+        <h3 class="ingredients">Ingredients&nbsp&nbsp&nbsp<span id="tableglyph" class="glyphicon glyphicon-chevron-down"></span></h3>
+        <div id="slide-table">
+            <table class="table table-striped">
+                {% for ingredient in recipe.ingredients_set.all %}
+                <tr>
+                    <td class="col-md-2">{{ ingredient.name }}:</td>
+                    <td class="col-md-1">{{ ingredient.amount }}</td>
+                    <td class="col-md-1">{{ ingredient.unit }}</td>
+                    <td class="col-md-1">{{ ingredient.preparation }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <br>
+        {% if recipe.website %}
+            <a href="{{ recipe.website }}">Original Site</a>
+        {% else %}
+            <p>Not From The Web</p>
+        {% endif %}
+
+        <br>
+        <a href="/recipe/export/?id={{ recipe.id }}" style="color: #47A3FF">EXPORT</a>
+    </div>
+{% endblock %}

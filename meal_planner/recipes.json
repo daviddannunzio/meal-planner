@@ -1,0 +1,586 @@
+[
+    {
+        "name" : "The Simple Chickpea Salad I'm Losing My Mind Over",
+        "meat" : "V",
+        "website" : "http://www.howsweeteats.com/2014/06/the-simple-chickpea-salad-im-losing-my-mind-over/",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : "In a large bowl, combine the chickpeas, onions, corn, tomatoes, basil and chives. Toss well with the salt and pepper."
+            },
+            {
+                "step_number" : 2,
+                "step_description" : "In a small saucepan, add the oil, vinegar, honey, garlic, lime juice and zest. Heat over low heat and whisk until the mixture is warm and garlic cloves are sizzling a bit."
+            },
+            {
+                "step_number" : 3,
+                "step_description" : "Pour the liquid over the chickpeas and and toss well to coat. Cover with a piece of plastic wrap and refrigerate for at least 30 minutes before serving."
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "Chickpeas",
+                "amount": 2,
+                "unit": "Cans",
+                "preparation": "Rinsed"
+            },
+            {
+                "name": "Green Onions",
+                "amount": 4,
+                "unit": "",
+                "preparation": "Sliced"
+            },
+            {
+                "name": "Corn",
+                "amount": 2,
+                "unit": "Ears",
+                "preparation": "Grilled"
+            },
+            {
+                "name": "Cherry Tomatoes",
+                "amount": 1,
+                "unit": "Pint",
+                "preparation": "Quartered"
+            },
+            {
+                "name": "Basil",
+                "amount": 3,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Chives",
+                "amount": 2,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Salt",
+                "amount": 0.25,
+                "unit": "tsp",
+                "preparation": ""
+            },
+            {
+                "name": "Pepper",
+                "amount": 0.25,
+                "unit": "tsp",
+                "preparation": ""
+            },
+            {
+                "name": "Olive Oil",
+                "amount": 3,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Red Wine Vinegar",
+                "amount": 2,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Honey",
+                "amount": 1.5,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Garlic",
+                "amount": 3,
+                "unit": "Cloves",
+                "preparation": "Minced or pressed"
+            }
+        ]
+    },
+    {
+        "name" : "Easy Cream of Mushroom Chicken",
+        "meat" : "C",
+        "website" : "http://housewifeglamour.com/chicken/easy-cream-of-mushroom-chicken/",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : "Heat oil in a medium skillet and slice mushrooms."
+            },
+            {
+                "step_number" : 2,
+                "step_description" : "Add chicken to skillet and brown both sides for 5 minutes each over medium heat. Make sure both sides brown equally."
+            },
+            {
+                "step_number" : 3,
+                "step_description" : "Add mushrooms and cook for 2 more minutes.  Add salt and pepper to taste."
+            },
+            {
+                "step_number" : 4,
+                "step_description" : "Add can of cream of mushroom soup.  DO NOT add water! Stir until chicken and mushrooms are well coated."
+            },
+            {
+                "step_number" : 5,
+                "step_description" : "Cover and simmer for 10 minutes (or until chicken is no longer pink,) stirring once or twice."
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "Olive Oil",
+                "amount": 21,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Mushrooms",
+                "amount": 1,
+                "unit": "Cup",
+                "preparation": "Sliced"
+            },
+            {
+                "name": "Chicken",
+                "amount": 4,
+                "unit": "Breasts",
+                "preparation": ""
+            },
+            {
+                "name": "Mushroom Soup",
+                "amount": 1,
+                "unit": "10oz Can",
+                "preparation": ""
+            }
+        ]
+    },
+    {
+        "name" : "Broccoli and Sausage Frittata",
+        "meat" : "P",
+        "website" : "http://oneperfectbite.blogspot.com/2012/03/baked-broccoli-and-sausage-frittata.html#.Um1L1ZTm1Zg",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : "Preheat oven to 350 degrees. Liberally grease a 9 x 13-inch pan with oil."
+            },
+            {
+                "step_number" : 2,
+                "step_description" : "Saute onion in oil over medium-high heat until soft and translucent, about 5 minutes. Lightly season with salt and pepper. Add sausage to pan and cook until lightly brown, about 5 minutes.Add broccoli to pan and cook for 2 minutes. Stir in garlic and jalapeno and cook until fragrant, about 1 minute longer. Scrape mixture into prepared baking pan and set aside."
+            },
+            {
+                "step_number" : 3,
+                "step_description" : "Add milk, 1/2 teaspoon salt and 1/2 teaspoon pepper to eggs and whisk vigorously until smooth. Pour eggs over mixture in baking pan."
+            },
+            {
+                "step_number" : 4,
+                "step_description" : "Bake, uncovered, until eggs are set, about 25 to 30 minutes.Remove from oven and serve immediately."
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "Vegetable Oil",
+                "amount": 2,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "Cup",
+                "preparation": "Chopped"
+            },
+            {
+                "name": "Breakfast Sausage",
+                "amount": 1,
+                "unit": "lb",
+                "preparation": ""
+            },
+            {
+                "name": "Garlic",
+                "amount": 2,
+                "unit": "tsp",
+                "preparation": "Minced"
+            },
+            {
+                "name": "Jalapeño",
+                "amount": 1,
+                "unit": "",
+                "preparation": "Minced"
+            },
+            {
+                "name": "Broccoli",
+                "amount": 1,
+                "unit": "12 oz Bag",
+                "preparation": ""
+            },
+            {
+                "name": "Eggs",
+                "amount": 10,
+                "unit": "",
+                "preparation": ""
+            },
+            {
+                "name": "Milk",
+                "amount": 3,
+                "unit": "Tbs",
+                "preparation": ""
+            }
+        ]
+    },
+    {
+        "name" : "Simple Red Split Lentils",
+        "meat" : "V",
+        "website" : "http://www.wikihow.com/Cook-Red-Split-Lentils",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : "Wash the dry lentils. Place the split red lentils into a sieve or fine-holed colander. Split red lentils are notorious for having debris in them, so be sure to clean well. Rinse under running water and pick out any obvious large pieces of debris."
+            },
+            {
+                "step_number" : 2,
+                "step_description" : "Pour the washed red split lentils into a saucepan for cooking. Add the water to the pan."
+            },
+            {
+                "step_number" : 3,
+                "step_description" : "Bring the water to a boil."
+            },
+            {
+                "step_number" : 4,
+                "step_description" : "Turn down when it reaches boiling point and simmer. Be sure to stir now and then to prevent sticking to the saucepan."
+            },
+            {
+                "step_number" : 5,
+                "step_description" : "Remove the lentils from heat when they're finished. The red split lentils will be cooked in about 25 minutes. You'll know they're done by observation - they turn into a mush or thick puree."
+            },
+            {
+                "step_number" : 6,
+                "step_description" : "Season to taste with salt and pepper."
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "Split Red Lentils",
+                "amount": 1,
+                "unit": "Cup",
+                "preparation": ""
+            },
+            {
+                "name": "Water",
+                "amount": 2.5,
+                "unit": "Cups",
+                "preparation": ""
+            }
+        ]
+    },
+    {
+        "name" : "The Best Roasted Vegetables Ever",
+        "meat" : "V",
+        "website" : "http://www.thewednesdaychef.com/the_wednesday_chef/2013/07/the-best-roasted-vegetables-ever.html",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : "Preheat the oven to 375 F (180 C)."
+            },
+            {
+                "step_number" : 2,
+                "step_description" : "Quarter and slice the onion thinly. Dice all the vegetables into pieces that are approximately the same size (no larger than 1/2 inch)."
+            },
+            {
+                "step_number" : 3,
+                "step_description" : "Pile the vegetables into a baking dish so that the vegetables lie a few inches thick. Season with salt, pepper and herbs to taste and then pour the olive oil over the vegetables. Mix thoroughly but gently - you don't want to destroy the tomatoes before the dish goes into the oven. Now check the vegetables to make sure they are well-coated and glistening with oil. If need be, add more oil."
+            },
+            {
+                "step_number" : 4,
+                "step_description" : "Put the dish in the oven and cook for 45 minutes to an hour."
+            },
+            {
+                "step_number" : 5,
+                "step_description" : "Halfway through the cooking process, remove the dish from the oven and very gently stir the vegetables so that the ones at the bottom come to the top."
+            },
+            {
+                "step_number" : 6,
+                "step_description" : "Towards the end of the cooking process, stir a second time. Remove from the oven and let cool slightly. Check for seasoning and serve."
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "Medium",
+                "preparation": ""
+            },
+            {
+                "name": "Carrots",
+                "amount": 1,
+                "unit": "Medium",
+                "preparation": ""
+            },
+            {
+                "name": "Zucchini",
+                "amount": 1,
+                "unit": "",
+                "preparation": ""
+            },
+            {
+                "name": "Eggplant",
+                "amount": 1,
+                "unit": "",
+                "preparation": ""
+            },
+            {
+                "name": "Potatoes",
+                "amount": 2,
+                "unit": "Small",
+                "preparation": ""
+            },
+            {
+                "name": "Tomatoes",
+                "amount": 5,
+                "unit": "Small",
+                "preparation": ""
+            },
+            {
+                "name": "Red Bell Pepper",
+                "amount": 1,
+                "unit": "",
+                "preparation": ""
+            },
+            {
+                "name": "Garlic",
+                "amount": 2,
+                "unit": "Cloves",
+                "preparation": ""
+            },
+            {
+                "name": "Olive Oil",
+                "amount": 5,
+                "unit": "Tbs",
+                "preparation": ""
+            }
+        ]
+    },
+    {
+        "name" : "Potato Frittata",
+        "meat" : "V",
+        "website" : "http://www.bhg.com/recipe/potato-frittata/",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : "Preheat oven to 375 degrees F. In a 10-inch oven-safe nonstick skillet cook potatoes in hot oil over medium heat for 5 minutes. Add carrots; cook for 5 minutes, until potatoes and carrots are tender and lightly browned, turning occasionally"
+            },
+            {
+                "step_number" : 2,
+                "step_description" : "In a medium bowl whisk together the eggs, half the green onions, salt, and pepper. Pour egg mixture over potatoes. Bake, uncovered, about 18 minutes or until frittata appears dry on top. Remove frittata from oven. Let stand on a wire rack for 5 minutes."
+            },
+            {
+                "step_number" : 3,
+                "step_description" : "Meanwhile, for topper, in a small bowl gently toss together remaining green onions, cherry tomatoes, garlic, and parsley. Set aside."
+            },
+            {
+                "step_number" : 4,
+                "step_description" : "With a spatula, loosen edges of frittata from skillet. Place a large serving platter over skillet. Using two hands, invert platter and skillet to release frittata onto platter. Cut frittata in wedges. Serve with green onion topper."
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "Russet Potatoes",
+                "amount": 1,
+                "unit": "lb",
+                "preparation": "Scrubbed and thinly sliced"
+            },
+            {
+                "name": "Olive Oil",
+                "amount": 2,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Carrots",
+                "amount": 2,
+                "unit": "Large",
+                "preparation": "Thinly sliced"
+            },
+            {
+                "name": "Eggs",
+                "amount": 12,
+                "unit": "",
+                "preparation": "Beaten"
+            },
+            {
+                "name": "Green Onions",
+                "amount": 0.5,
+                "unit": "Cup",
+                "preparation": "Chopped"
+            },
+            {
+                "name": "Salt and Pepper",
+                "amount": 0.25,
+                "unit": "tsp",
+                "preparation": ""
+            },
+            {
+                "name": "Yellow Cherry Tomatoes",
+                "amount": 0.5,
+                "unit": "Cup",
+                "preparation": "Halved"
+            },
+            {
+                "name": "Garlic",
+                "amount": 1,
+                "unit": "Clove",
+                "preparation": "Minced"
+            },
+            {
+                "name": "Parsley",
+                "amount": 1,
+                "unit": "Unit",
+                "preparation": ""
+            }
+        ]
+    },
+    {
+        "name" : "Cast Iron Skillet Spinach Mushroom Frittata",
+        "meat" : "V",
+        "website" : "http://www.honeywhatscooking.com/2013/02/cast-iron-skillet-spinach-mushroom.html",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : "Start by chopping the garlic, onion, and mushrooms."
+            },
+            {
+                "step_number" : 2,
+                "step_description" : "Heat a cast-iron skillet on medium heat, once hot, add EVOO.  Carefully swirl the skillet around so the oil coats all sides of the skillet."
+            },
+            {
+                "step_number" : 3,
+                "step_description" : "Add crushed red pepper and wait to hear a sizzle."
+            },
+            {
+                "step_number" : 4,
+                "step_description" : "Add the garlic and onion.  Stir and sauté for just 1 minute.  The heat of the cast-iron skillet will quickly turn the onions golden."
+            },
+            {
+                "step_number" : 5,
+                "step_description" : "After a minute, this is what you should have."
+            },
+            {
+                "step_number" : 6,
+                "step_description" : "Add the mushrooms and season with salt.  Sauté the mushrooms for 5 minutes.  Keep stirring in between."
+            },
+            {
+                "step_number" : 7,
+                "step_description" : "Now preheat the oven at 350 degrees."
+            },
+            {
+                "step_number" : 8,
+                "step_description" : "While the mushrooms cook, wash and chop the spinach leaves."
+            },
+            {
+                "step_number" : 9,
+                "step_description" : "Add the spinach leaves and season with salt.  Allow the spinach to cook for 5 minutes."
+            },
+            {
+                "step_number" : 10,
+                "step_description" : "In the meantime combine the milk, eggs, and egg whites.  Season with salt, black pepper, and the no-salt seasoning blend.  Use a whisk and mix well."
+            },
+            {
+                "step_number" : 11,
+                "step_description" : "Stir to combine.  REDUCE THE HEAT TO LOW (dial #3)."
+            },
+            {
+                "step_number" : 12,
+                "step_description" : "Pour the egg mixture towards the sides of the pan."
+            },
+            {
+                "step_number" : 13,
+                "step_description" : "Now push the veggies slightly towards the center making sure the edges and the bottom of the pan is covered with eggs."
+            },
+            {
+                "step_number" : 14,
+                "step_description" : "Allow the eggs to cook for 5 minutes on low heat (dial #3)."
+            },
+            {
+                "step_number" : 15,
+                "step_description" : "In the meantime, grate some medium cheddar cheese, or whatever cheese you prefer."
+            },
+            {
+                "step_number" : 16,
+                "step_description" : "Back to the eggs.  Top with cheese."
+            },
+            {
+                "step_number" : 17,
+                "step_description" : "Into the oven – I baked the frittata for 3 minutes and then broiled them for 4 minutes.  JUST MAKE SURE YOU WATCH THE EGGS CLOSELY ONCE YOU PUT THEM ON BROIL – THEY COULD BURN VERY EASILY."
+            },
+            {
+                "step_number" : 18,
+                "step_description" : "End result.  Fluffy.  Allow the frittata to sit for a few minutes before slicing and serving."
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "Extra Virgin Olive Oil",
+                "amount": 1,
+                "unit": "Tbs",
+                "preparation": ""
+            },
+            {
+                "name": "Crushed Red Pepper",
+                "amount": 0.75,
+                "unit": "tsp",
+                "preparation": ""
+            },
+            {
+                "name": "Garlic",
+                "amount": 2,
+                "unit": "Cloves",
+                "preparation": "Chopped"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "Small",
+                "preparation": "Chopped"
+            },
+            {
+                "name": "Eggs",
+                "amount": 5,
+                "unit": "",
+                "preparation": ""
+            },
+            {
+                "name": "Egg Whites",
+                "amount": 3,
+                "unit": "",
+                "preparation": ""
+            },
+            {
+                "name": "2% Milk",
+                "amount": 0.25,
+                "unit": "Cup",
+                "preparation": ""
+            },
+            {
+                "name": "Black Pepper",
+                "amount": 0.5,
+                "unit": "tsp",
+                "preparation": ""
+            },
+            {
+                "name": "Cheddar Cheese",
+                "amount": 1,
+                "unit": "Cup",
+                "preparation": "Freshly Grated"
+            }
+        ]
+    },
+    {
+        "name" : "",
+        "meat" : "",
+        "website" : "",
+        "steps" : [
+            {
+                "step_number" : 1,
+                "step_description" : ""
+            }
+        ],
+        "ingredients" : [
+            {
+                "name": "",
+                "amount": 1,
+                "unit": "",
+                "preparation": ""
+            }
+        ]
+    }
+]

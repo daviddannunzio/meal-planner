@@ -1,0 +1,57 @@
+{
+    "name" : "Make-Ahead Western Omelet Muffins",
+    "meat" : "P",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat the oven to 350 degrees F. Lightly spray a standard 12 cup nonstick or silicon muffin tin with oil."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a medium bowl, beat the whole eggs and egg whites with a fork. Season them with the salt and a pinch of black pepper. Mix in the ham, cheese, and scallions. Pour about 1/4 cup of egg mixture into each muffin cup and carefully place the pan in the oven."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Bake until the eggs set, 20 to 24 minutes."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Large Eggs",
+            "amount": 6,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Egg Whites",
+            "amount": 6,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Ham",
+            "amount": 3,
+            "unit": "Oz",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Cheese (Cheddar?)",
+            "amount": 2,
+            "unit": "Oz",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Scallions",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Spinach",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        }
+    ]
+}

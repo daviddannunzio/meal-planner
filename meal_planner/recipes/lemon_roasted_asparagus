@@ -1,0 +1,35 @@
+{
+    "name" : "Lemon-Roasted Asparagus",
+    "meat" : "V",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat the oven to 400 degrees."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Arrange the asparagus in a roasting pan in a single layer. Spray with olive oil and season with the salt and black pepper. Sprinkle the lemon zest over the asparagus. Roast until crisp-tender, 8 to 10 minutes. Squeeze a little fresh lemon juice on top and serve hot."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Asparagus",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": "Tough Ends Trimmed"
+        },
+        {
+            "name": "Lemon Zest",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Wedge",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}

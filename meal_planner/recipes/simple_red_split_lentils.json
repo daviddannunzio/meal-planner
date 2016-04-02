@@ -1,0 +1,45 @@
+{
+    "name" : "Simple Red Split Lentils",
+    "meat" : "V",
+    "website" : "http://www.wikihow.com/Cook-Red-Split-Lentils",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Wash the dry lentils. Place the split red lentils into a sieve or fine-holed colander. Split red lentils are notorious for having debris in them, so be sure to clean well. Rinse under running water and pick out any obvious large pieces of debris."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Pour the washed red split lentils into a saucepan for cooking. Add the water to the pan."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Bring the water to a boil."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Turn down when it reaches boiling point and simmer. Be sure to stir now and then to prevent sticking to the saucepan."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Remove the lentils from heat when they're finished. The red split lentils will be cooked in about 25 minutes. You'll know they're done by observation - they turn into a mush or thick puree."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Season to taste with salt and pepper."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Split Red Lentils",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 2.5,
+            "unit": "Cups",
+            "preparation": ""
+        }
+    ]
+}
