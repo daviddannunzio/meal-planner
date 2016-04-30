@@ -27,6 +27,9 @@ class RecipeStep(models.Model):
     def __unicode__(self):
         return self.step_description
 
+    class Meta:
+        ordering = ['step_number']
+
 
 class Ingredients(models.Model):
     recipe = models.ForeignKey(Recipe)
