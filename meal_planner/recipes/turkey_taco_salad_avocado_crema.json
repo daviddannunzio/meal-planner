@@ -1,0 +1,147 @@
+{
+    "name" : "Turkey Santa Fe Taco Salad with Avocado Crema",
+    "meat" : "C",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "For the turkey-bean topping: Heat a large skillet over medium-high heat. Add the ground turkey, season with 0.25 teaspoon of salt, and cook, using a wooden spoon to break the meat into small pieces, until no longer pink, 4 to 5 minutes. Add the beans, pickled jalapeno, tomato, garlic, onion, cilantro, and cumin. Stir well, reduce the heat to low, cover, and cook for 20 minutes to blend the flavors. Uncover and add the corn and 0.25 teaspoon salt. Simmer until the liquid reduces and the corn is cooked through, 5 more minutes."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "For the avocado crema: In a blender, combine half the avocado (reserve the other half for the salad), the sour cream, lime juice, 0.25 cup water, the jalapeno, cilantro, salt, and black pepper to taste. Blend until smooth."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "For the salad: Divide the lettuce among 4 serving plates. Add the turkey-bean topping, cheese, tomatoes, olives, scallions, and remaining avocado. Top with the avocado crema and crushed tortilla chips."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "99% Ground Turkey",
+            "amount": 0.5,
+            "unit": "lb",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Canned black beans",
+            "amount": 0.5,
+            "unit": "Can",
+            "preparation": ""
+        },
+        {
+            "name": "Pickled Jalapeno",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Tomato",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": ""
+        },
+        {
+            "name": "Onion",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Cumin",
+            "amount": 1.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Corn",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": "Frozen"
+        },
+        {
+            "name": "Avocado",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Reduced-fat Sour Cream",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Lime",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Juice"
+        },
+        {
+            "name": "Fresh Jalapeno",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 1.5,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Green Leaf Lettuce",
+            "amount": 5,
+            "unit": "Cups",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Reduced-Fat Mexican Cheese Blend",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Tomatoes",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Black Olives",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Scallions",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Tortilla Chips",
+            "amount": 1,
+            "unit": "oz",
+            "preparation": "Crushed"
+        }
+    ]
+}
