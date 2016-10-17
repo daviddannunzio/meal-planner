@@ -1,0 +1,69 @@
+{
+    "name" : "Vegetable, Beef, and Barley Stew",
+    "meat" : "B",
+    "website" : "http://www.marthastewart.com/1034358/beef-barley-and-vegetable-stew",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "In a large skillet, heat 1 tablespoon oil over medium-high. Season beef with salt and cook until pieces are browned on all sides, about 6 minutes. Transfer to a 5-to-6-quart slow cooker."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "To the skillet, add remaining tablespoon oil, the garlic, and thyme and saute until fragrant, 1 minute. Add 2 cups broth and cook, stirring and scraping up browned bits with a wooden spoon. Transfer mixture to slow cooker."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add potatoes, squash, barley, 2 cups water, and remaining 2 cups broth to slow cooker, cover, and cook on high until meat is very tender, 4 hours (or 8 hours on low). Using two forks, shred beef. Season to taste with salt and pepper."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Olive Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Beef Chuck",
+            "amount": 1,
+            "unit": "Lb",
+            "preparation": "Cut into 3 pieces"
+        },
+        {
+            "name": "Garlic Cloves",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Thyme Sprigs",
+            "amount": 4,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Chicken or Beef Broth",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Small Potatoes",
+            "amount": 0.5,
+            "unit": "Lb",
+            "preparation": "Halved"
+        },
+        {
+            "name": "Butternut Squash",
+            "amount": 1,
+            "unit": "Lb",
+            "preparation": "Peeled and diced medium"
+        },
+        {
+            "name": "Pearly Barley",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
