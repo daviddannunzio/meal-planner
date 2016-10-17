@@ -1,0 +1,75 @@
+{
+    "name" : "Pomegranate Chicken with Almond Couscous",
+    "meat" : "C",
+    "website" : "http://www.bbcgoodfood.com/recipes/pomegranate-chicken-almond-couscous",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : ""
+        },
+        {
+            "step_number" : 2,
+            "step_description" : ""
+        },
+        {
+            "step_number" : 3,
+            "step_description" : ""
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Vegetable Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Couscous",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Chicken Stock Cube",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Chicken Tenders",
+            "amount": 1.3,
+            "unit": "Lb",
+            "preparation": ""
+        },
+        {
+            "name": "Tagine (Chili Paste)",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Pomegranate Juice",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Pomegranate Seeds",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Flaked Almond",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Toasted"
+        },
+        {
+            "name": "Mint",
+            "amount": 4,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        }
+    ]
+}
