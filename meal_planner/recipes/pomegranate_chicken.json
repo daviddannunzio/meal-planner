@@ -5,15 +5,15 @@
     "steps" : [
         {
             "step_number" : 1,
-            "step_description" : ""
+            "step_description" : "Boil the kettle and heat the oil in a large frying pan. Put the couscous in a bowl with some seasoning and crumble in half the stock cube. Add the onion to the pan and fry for a few mins to soften. Pour boiling water over the couscous to just cover, then cover the bowl with a tea towel and set aside."
         },
         {
             "step_number" : 2,
-            "step_description" : ""
+            "step_description" : "Push the onion to one side of the pan, add the chicken fillets and brown on all sides. Stir in the tagine paste or harissa and the pomegranate juice, then crumble in the rest of the stock cube and season well. Simmer, uncovered, for 10 mins until the sauce has thickened and the chicken is cooked through. Stir through the pomegranate seeds, saving a few to scatter over before serving."
         },
         {
             "step_number" : 3,
-            "step_description" : ""
+            "step_description" : "After 5 mins, fluff up the couscous with a fork and stir through the almonds and mint. Serve the chicken on the couscous with the sauce spooned over."
         }
     ],
     "ingredients" : [
