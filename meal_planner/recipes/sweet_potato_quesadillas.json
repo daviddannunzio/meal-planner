@@ -1,0 +1,79 @@
+{
+    "name" : "Sweet Potato and Spinach Quesadillas",
+    "meat" : "V",
+    "website" : "http://www.health.com/health/recipe/0,,50400000120341,00.html",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Microwave potatoes on high until tender (about 15 minutes)."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Meanwhile, in a medium saucepan, combine vinegar, sugar, and peppercorns; bring to a boil and stir to dissolve sugar. Place onion slices in a medium heatproof bowl; pour hot vinegar mixture over onion and let stand 10 minutes. Drain onion slices and transfer to a plate to cool."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Split cooked potatoes open with a knife; remove flesh and transfer to a bowl (you should have about 1 cup). Use a fork to mash potato with salt and pepper; divide potato filling among 4 tortillas. Top each with 1 heaping cup spinach, 1/4 cup cheese, and another tortilla."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Heat a large nonstick skillet over medium-high heat. Working in batches, heat 1 teaspoon oil and transfer 1 quesadilla to skillet; cook until quesadilla is crisp and cheese is melted (about 3 minutes per side). Transfer cooked quesadilla to serving plate. Repeat with remaining oil and quesadillas. Cut quesadillas in quarters and serve each with 1/4 cup pickled onions."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Sweet Potatoes",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": ""
+        },
+        {
+            "name": "Red Wine Vinegar",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sugar",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Black Peppercorns",
+            "amount": 4,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Large Red Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "6in Flour Tortillas",
+            "amount": 8,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Baby Spinach",
+            "amount": 5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Part-Skim Mozzarella",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 4,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
