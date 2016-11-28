@@ -1,0 +1,95 @@
+{
+    "name" : "Slow Cooker Coconut Quinoa Curry",
+    "meat" : "V",
+    "website" : "http://www.simplyquinoa.com/slow-cooker-coconut-quinoa-curry/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Add all ingredients to a slow cooker, starting with 1 cup of water. Stir until everything is fully incorporated."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Turn the slow cooker to high and cook for 3 - 4 hours until sweet potato cooks through and the curry has thickened."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Sweet Potato",
+            "amount": 1,
+            "unit": "small",
+            "preparation": ""
+        },
+        {
+            "name": "Broccoli Crown",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Cut"
+        },
+        {
+            "name": "White Onion",
+            "amount": 0.25,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Chickpeas",
+            "amount": 1,
+            "unit": "can",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Milk",
+            "amount": 2,
+            "unit": "cans",
+            "preparation": ""
+        },
+        {
+            "name": "Quinoa",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic Cloves",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Ginger",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Grated"
+        },
+        {
+            "name": "Turmeric",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Wheat Free Tamari Sauce",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Miso",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chili Flakes",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
