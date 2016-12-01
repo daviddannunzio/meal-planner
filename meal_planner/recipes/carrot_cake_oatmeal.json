@@ -1,0 +1,65 @@
+{
+    "name" : "Carrot Cake Oatmeal",
+    "meat" : "V",
+    "website" : "https://www.buzzfeed.com/christinebyrne/2016-clean-eating-day-2?utm_term=.bkE1pzvMP#.jyONl0MoG",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Stir together grated carrot, rolled oats, raisins, and ½ cup almond milk and store in an airtight container in the fridge overnight."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Combine the carrot-oat mixture, the remaining ½ cup almond milk, vanilla, cinnamon, and honey in a small pot over medium heat. Bring the mixture to a simmer and cook, stirring occasionally, until the mixture is thick and the oats are cooked, 4 to 5 minutes. Serve immediately, with almonds."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Carrot",
+            "amount": 0.5,
+            "unit": "Grated",
+            "preparation": ""
+        },
+        {
+            "name": "Rolled Oats",
+            "amount": 0.66,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Raisins",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Almond Milk",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vanilla Extract",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cinnamon",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Honey",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Almonds",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
