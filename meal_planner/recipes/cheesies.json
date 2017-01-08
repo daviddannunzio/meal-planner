@@ -1,0 +1,65 @@
+{
+    "name" : "Cheesies",
+    "meat" : "V",
+    "website" : "N/A",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 350. Cream the butter and margarine."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Mix pepper, salt, and flour together, sift, then add to cheese and margarine."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Mix well then add Rice Krispies."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Roll into balls, flatten with fork."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Bake at 350 for about 15 minutes."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Sharp Cheddar Cheese",
+            "amount": 0.5,
+            "unit": "lb",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Margarine",
+            "amount": 2,
+            "unit": "Sticks",
+            "preparation": ""
+        },
+        {
+            "name": "Flour",
+            "amount": 2,
+            "unit": "Cups",
+            "preparation": ""
+        },
+        {
+            "name": "Red Pepper",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Rice Krispies",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
