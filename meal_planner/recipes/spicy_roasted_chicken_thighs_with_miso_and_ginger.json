@@ -1,0 +1,81 @@
+{
+    "name" : "Spicy Roasted Chicken Thighs with Miso and Ginger",
+    "meat" : "C",
+    "website" : "http://www.thekitchn.com/roasted-miso-chicken-thighs-112000",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Take the chicken thighs out of their packaging and pat dry."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a food processor or small chopper whiz the rest of the ingredients until they form a saucy red paste. Dump this over the chicken in a large bowl or pan and mix well. Refrigerate the chicken overnight — or bake immediately."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "To bake, heat the oven to 425°F. Spread the chicken in a single layer on a large baking sheet or roasting pan. Bake for 30 minutes, flipping the chicken thighs over once halfway through the baking time. When the internal temperature of the chicken is between 160 and 165°F, take the pan out and let the chicken rest for 5 minutes."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Boneless Skinless Chicken Thighs",
+            "amount": 2,
+            "unit": "lb",
+            "preparation": ""
+        },
+        {
+            "name": "Miso Paste",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Ginger",
+            "amount": 2,
+            "unit": "in",
+            "preparation": "Peeled and Chopped"
+        },
+        {
+            "name": "Garlic",
+            "amount": 5,
+            "unit": "Cloves",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Zested"
+        },
+        {
+            "name": "Vegetable oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Sesame Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Rice Vinegar",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Soy Sauce",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Red Chili Paste",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
