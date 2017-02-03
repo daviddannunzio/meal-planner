@@ -22,6 +22,12 @@
     ],
     "ingredients" : [
         {
+            "name": "Avocado",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
             "name": "Onion",
             "amount": 0.5,
             "unit": "Medium",
