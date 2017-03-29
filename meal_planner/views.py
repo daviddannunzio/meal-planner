@@ -63,7 +63,6 @@ FILTER_METHODS = [determine_meat, determine_max_ingredients, text_search]
 
 
 def index(request):
-    raise Exception("OH BOY")
     if request.method == 'POST':
         form = RecipeForm(request.POST)
         if form.is_valid():
