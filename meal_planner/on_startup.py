@@ -6,9 +6,15 @@ from django.conf import settings
 
 def load():
     # Clear the DB
-    Recipe.objects.all().delete()
+    #Recipe.objects.all().delete()
+
+    existing = []
+    for r in Recipe.objects.all():
+        existing.append(r.name)
+
 
     directory = settings.BASE_DIR + '/meal_planner/recipes/'
+    
     for recipe_file in os.listdir(directory):
         if recipe_file == 'recipes.json':
             continue
@@ -16,8 +22,8 @@ def load():
         json_data = open(os.path.join(directory, recipe_file))
         json_recipe = json.load(json_data)
 
-        #if Recipe.objects.all().filter(name=json_recipe["name"]):
-        #    continue
+        if json_recipe["name"] in existing:
+            continue
 
         recipe = Recipe.objects.create(name=json_recipe["name"],
                                        meat=json_recipe["meat"],
