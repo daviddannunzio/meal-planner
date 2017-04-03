@@ -20,6 +20,7 @@
 *.tar
 *.zip
 *.pyc
+env
 
 # Logs and databases #
 ######################
