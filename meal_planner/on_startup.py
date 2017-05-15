@@ -4,9 +4,10 @@ import os
 from django.conf import settings
 
 
-def load():
+def load(reset=False):
     # Clear the DB
-    #Recipe.objects.all().delete()
+    if reset:
+        Recipe.objects.all().delete()
 
     existing = []
     for r in Recipe.objects.all():
