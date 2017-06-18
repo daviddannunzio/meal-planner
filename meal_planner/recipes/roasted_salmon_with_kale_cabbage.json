@@ -1,0 +1,59 @@
+{
+    "name" : "Roasted Salmon, Kale and Cabbage",
+    "meat" : "F",
+    "website" : "http://www.marthastewart.com/1033633/roasted-salmon-kale-and-cabbage",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 450 degrees. On a rimmed baking sheet, toss kale and cabbage with 2 tablespoons oil and spread in an even layer; season with salt and pepper and bake 6 minutes. Stir. Season salmon and add to baking sheet. Bake until salmon is cooked through, about 10 minutes."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Meanwhile, whisk together lemon zest and juice, dill, mustard, and remaining 1/4 cup oil. Season. Drizzle salmon and vegetables with dressing before serving."
+        },
+    ],
+    "ingredients" : [
+        {
+            "name": "Kale",
+            "amount": 1,
+            "unit": "Bunch",
+            "preparation": "Stems Removed thin sliced"
+        },
+        {
+            "name": "Savoy Cabbage",
+            "amount": 0.5,
+            "unit": "Head",
+            "preparation": "Cored and thinly sliced"
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 6,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Salmon",
+            "amount": 4,
+            "unit": "Skinless Fillets",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 2,
+            "unit": "tbsp",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh Dill",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Dijon Mustard",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
