@@ -1,0 +1,65 @@
+{
+    "name" : "Prosciutto, Mozzarella, Fig Salad",
+    "meat" : "P",
+    "website" : "http://www.skinnytaste.com/prosciutto-mozzarella-and-fig-salad-with-arugula/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Combine the oil, balsamic, lemon juice, salt and pepper and whisk."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Place the arugula on a large platter, top with proscuitto, cheese, basil and figs and drizzle with dressing."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "amount": 1,
+            "unit": "tbsp",
+            "preparation": ""
+        },
+        {
+            "name": "Balsamic Vinegar",
+            "amount": 1,
+            "unit": "tbsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 0.5,
+            "unit": "tbsp",
+            "preparation": ""
+        },
+        {
+            "name": "Arugula",
+            "amount": 5,
+            "unit": "cups",
+            "preparation": ""
+        },
+        {
+            "name": "Figs",
+            "amount": 4,
+            "unit": "",
+            "preparation": "Quartered"
+        },
+        {
+            "name": "Mozzarella",
+            "amount": 4,
+            "unit": "oz",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Proscuitto",
+            "amount": 2,
+            "unit": "oz",
+            "preparation": "Torn into pieces"
+        },
+        {
+            "name": "Basil",
+            "amount": 10,
+            "unit": "Leaves",
+            "preparation": ""
+        }
+    ]
+}
