@@ -1,0 +1,69 @@
+{
+    "name" : "Pressure Cooked Honey Balsamic & Onion Chicken",
+    "meat" : "C",
+    "website" : "http://www.thecreativebite.com/10-healthy-chicken-recipes-in-a-pressure-cooker-or-crock-pot/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Add the balsamic vinegar, honey, chicken broth and Dijon to the Instant Pot and whisk until well combined. Add the onion, garlic, thyme and chicken. Cook thawed chicken on high pressure for 12 minutes. (Cook frozen chicken on high pressure for 20 minutes.) Turn the pressure valve to “Vent” to release all of the pressure."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Remove the chicken breasts from the pot and place on a plate or cutting board. Shred the chicken using two forks."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Remove ⅔ cup of liquid from the pot. (Reserve the liquid for cooking rice.) Return the shredded chicken to pot and stir until well combined."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Balsamic Vinegar",
+            "amount": 0.66,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Honey",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Dijon Mustard",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Chicken Broth",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Yellow Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Dried Thyme",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chicken Breast",
+            "amount": 2,
+            "unit": "lb",
+            "preparation": ""
+        }
+    ]
+}

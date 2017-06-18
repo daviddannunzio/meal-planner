@@ -73,7 +73,8 @@ def index(request):
 
             return render(request, 'home.html', {'form': form, 'recipe_list': recipes})
     else:
-        load()
+        reset = request.GET.get('reset', None) != None
+        load(reset=reset)
         form = RecipeForm
 
     return render_to_response('home.html', {'form': form, 'recipe_list': Recipe.objects.all().order_by("name")},
