@@ -1,0 +1,73 @@
+{
+    "name" : "Pickled Cabbage",
+    "meat" : "V",
+    "website": "http://www.edibleperspective.com/home/2015/4/3/quick-pickled-cabbage",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Make at least 4 hours before serving."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Slice cabbage in half. Slice one half in half again. Remove the core. Shred cabbage finely with a mandolin slicer or very sharp knife. Place in a large glass bowl or jar."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Place water, vinegar, and sugar in a bowl and whisk together until the sugar is mostly dissolved. Stir in the smashed cloves, bay leaves, caraway seeds (if using), salt, and a good grind of black pepper. Pour over the cabbage. Seal or tightly cover the jar/bowl and let sit on the counter for 3-4 hours. Stir then seal and place in the fridge until chilled (at least 1 hour)."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Stir before serving and be sure to not grab any of the garlic cloves as you serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Small Head Red Cabbage",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Rinsed and Trimmed"
+        },
+        {
+            "name": "Water",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Red Wine Vinegar",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sugar",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic Cloves",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Smashed"
+        },
+        {
+            "name": "Bay Leaves",
+            "amount": 2,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Salt and Pepper",
+            "amount": 1,
+            "unit": "unit",
+            "preparation": ""
+        }
+    ]
+}
