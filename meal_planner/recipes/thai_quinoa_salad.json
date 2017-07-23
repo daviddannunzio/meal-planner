@@ -1,0 +1,115 @@
+{
+    "name" : "Thai Quinoa Salad",
+    "meat" : "W",
+    "website": "http://carrotsandcake.ca/thai-quinoa-salad/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Prepare quinoa: ensure you've thoroughly rinsed and strained it. Place quinoa in a small pot with 2 cups of water. Bring to a boil and reduce heat to low, cover and simmer until tender and the liquid has been absorbed. About 15-20 minutes. Fluff with a fork. Set aside and cool."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "To the quinoa add in cabbage, bell pepper, carrots and edamae beans. Fold this into the quinoa."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Prepare the dressing by mixing together all eight ingredients. I often use a handheld blender to do this job but you could totally use you rmuscles and a strong fork."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Garnish with cilantro and green onion. Serve chilled (or eat it up right away)."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Uncooked Quinoa",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Red Cabbage",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Orange Bell Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Carrots",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Edamame",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": "Cooked"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Green Onions",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Peanut Butter",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Ginger",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Grated"
+        },
+        {
+            "name": "Soy Sauce",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Honey",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Red Wine Vinegar",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Sesame Oil",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Sesame Seeds",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lime",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Juiced"
+        }
+    ]
+}
