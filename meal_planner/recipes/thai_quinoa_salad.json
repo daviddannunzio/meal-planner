@@ -1,6 +1,6 @@
 {
     "name" : "Thai Quinoa Salad",
-    "meat" : "W",
+    "meat" : "C",
     "website": "http://carrotsandcake.ca/thai-quinoa-salad/",
     "steps" : [
         {
@@ -9,7 +9,7 @@
         },
         {
             "step_number" : 2,
-            "step_description" : "To the quinoa add in cabbage, bell pepper, carrots and edamae beans. Fold this into the quinoa."
+            "step_description" : "To the quinoa add in cabbage, chicken, carrots and edamae beans. Fold this into the quinoa."
         },
         {
             "step_number" : 3,
@@ -34,10 +34,10 @@
             "preparation": "Shredded"
         },
         {
-            "name": "Orange Bell Pepper",
+            "name": "Chicken Breast",
             "amount": 1,
-            "unit": "",
-            "preparation": "Diced"
+            "unit": "lb",
+            "preparation": "Shredded"
         },
         {
             "name": "Carrots",
