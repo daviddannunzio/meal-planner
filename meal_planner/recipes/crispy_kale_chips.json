@@ -1,0 +1,29 @@
+{
+    "name" : "Crispy Kale Chips",
+    "meat" : "V",
+    "website" : "http://www.foodnetwork.com/recipes/melissa-darabian/crispy-kale-chips-recipe-1923723",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 275 degrees F."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Remove the ribs from the kale and cut into 1 1/2-inch pieces. Lay on a baking sheet and toss with the olive oil and salt. Bake until crisp, turning the leaves halfway through, about 20 minutes. Serve as finger food."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Kale",
+            "amount": 1,
+            "unit": "Head",
+            "preparation": "Rinsed and Dried"
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
