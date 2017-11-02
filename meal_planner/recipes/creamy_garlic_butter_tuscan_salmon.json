@@ -1,0 +1,87 @@
+{
+    "name" : "Creamy Garlic Butter Tuscan Salmon",
+    "meat" : "F",
+    "website" : "https://cafedelites.com/creamy-garlic-butter-tuscan-salmon/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Heat the oil in a large skillet over medium-high heat. Season the salmon filets (or fish if using) on both sides with salt and pepper, and sear in the hot pan, flesh-side down first, for 5 minutes on each side, or until cooked to your liking. Once cooked, remove from the pan and set aside."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Melt the butter in the remaining juices leftover in the pan. Add in the garlic and fry until fragrant (about one minute). Fry the onion in the butter. Pour in the white wine (if using), and allow to reduce down slightly. Add the sun dried tomatoes and fry for 1-2 minutes to release their flavours."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Reduce heat to low heat, add the half and half (or heavy cream), and bring to a gentle simmer, while stirring occasionally. Season with salt and pepper to your taste."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add in the spinach leaves and allow to wilt in the sauce, and add in the parmesan cheese. Allow sauce to simmer for a further minute until cheese melts through the sauce. (For a thicker sauce, add the milk/cornstarch mixture to the centre of the pan, and continue to simmer while quickly stirring the mixture through until the sauce thickens.)"
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Add the salmon back into the pan; sprinkle with the parsley, and spoon the sauce over each filet."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Serve over pasta, rice or steamed veg."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Salmon",
+            "amount": 4,
+            "unit": "Fillets",
+            "preparation": ""
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Butter",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 6,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Small Yellow Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Sundried Tomatoes",
+            "amount": 5,
+            "unit": "oz",
+            "preparation": "Drained"
+        },
+        {
+            "name": "Half and Half",
+            "amount": 1.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Spinach",
+            "amount": 3,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Parmesan",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Grated"
+        }
+    ]
+}
