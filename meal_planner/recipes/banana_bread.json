@@ -1,0 +1,117 @@
+{
+    "name" : "Banana Bread",
+    "meat" : "V",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 300 degrees"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Spray 6 mini loaf pans with PAM"
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Put bananas in mixer bowl and blend until soupy. Set aside in another bowl."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Sift together flour and baking soda into a bowl."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Mix melted butter and sugar in large mixer bowl on high till soft and creamy and yellowy white."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Add eggs and beat on high until mixed and creamy."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Add ½ of mashed bananas; and then ½ of the flour mixture."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Add remaining bananas and mix."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Then add remaining flour mixture until mixed well."
+        },
+        {
+            "step_number" : 10,
+            "step_description" : "Fill each small loaf about ¾ full or a little fuller, but not to the top."
+        },
+        {
+            "step_number" : 11,
+            "step_description" : "Place loaves in oven and bake for 55 minutes."
+        },
+        {
+            "step_number" : 12,
+            "step_description" : "Check loaves with wooden skewer (or toothpick if you don’t have skewers)."
+        },
+        {
+            "step_number" : 13,
+            "step_description" : "Add 5 minute increments if not done."
+        },
+        {
+            "step_number" : 14,
+            "step_description" : "When skewer comes out clean and the top of the bread bounces back when you touch it, the bread is done"
+        },
+        {
+            "step_number" : 15,
+            "step_description" : "Some loaves may finish baking before others."
+        },
+        {
+            "step_number" : 16,
+            "step_description" : "Let cool on a cooling rack and then remove from pan and cool completely on rack."
+        },
+        {
+            "step_number" : 17,
+            "step_description" : "Once cool, wrap each individual loaf in plastic wrap OR put in Ziploc bag."
+        },
+        {
+            "step_number" : 18,
+            "step_description" : "Loaves can be frozen."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Sugar",
+            "amount": 2,
+            "unit": "Cups",
+            "preparation": ""
+        },
+        {
+            "name": "Salted Butter",
+            "amount": 2,
+            "unit": "Sticks",
+            "preparation": "Melted"
+        },
+        {
+            "name": "Eggs",
+            "amount": 4,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Bananas",
+            "amount": 9,
+            "unit": "",
+            "preparation": "VERY RIPE"
+        },
+        {
+            "name": "Flour",
+            "amount": 4,
+            "unit": "Cups",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Soda",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
