@@ -1,0 +1,87 @@
+{
+    "name" : "Poke",
+    "meat" : "F",
+    "website" : "https://www.popsugar.com/food/Tuna-Poke-Bowl-Avocado-39646440",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Whisk together the soy sauce, vinegar, sesame oil and seeds, and red pepper flakes in a medium mixing bowl. Add the cubed tuna and scallions, gently stir together to dress the tuna. Marinade for 5 minutes."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Meanwhile, pit and cube the avocado (the chunks should be of a similar size to the tuna. Add to the tuna, and gently mix together to distribute the avocado."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "To serve, scoop rice into bowls, top with tuna poke, seaweed salad, and a few pieces of pickled ginger."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Soy Sauce",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Rice (Wine) Vinegar",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Toasted Sesame Oil",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Sesame Seeds",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Red Pepper Flakes",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Sushi-grade Ahi Tuna",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": "Cubed"
+        },
+        {
+            "name": "Scallions",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Avocado",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Pickled Ginger",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Seaweed Salad",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Brown Rice",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
