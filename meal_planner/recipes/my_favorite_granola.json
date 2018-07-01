@@ -1,0 +1,75 @@
+{
+    "name" : "My Favorite Granola",
+    "meat" : "V",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat the oven to 350F. Line a large rimmed baking sheet with parchment paper. In a large bowl, combine the oats, pecans, pepitas, salt, and cinnamon. Stir to combine."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Pour in the EVOO, maple syrup, vanilla. Mix well, until every oat and nut is lightly coated. Pour the granola onto the prepared baking sheet and use a large spoon to spread it into an even layer. Bake until golden, 21 to 23 minutes, stirring halfway. Don't worry - the granola will continue to crisp up as it cools."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Let the granola cool completely, undisturbed, before breaking it into pieces and stirring in the dried cranberries. Store the granola in an airtight container at room temperature for 1 to 2 weeks, or in a sealed freezer bag in the freezer for up to 3 months."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Old-Fashioned Oats",
+            "amount": 4,
+            "unit": "Cups",
+            "preparation": ""
+        },
+        {
+            "name": "Raw Pecan Halves",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Raw Pepitas",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Fine Sea Salt",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cinnamon",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Maple Syrup (or honey)",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vanilla Extract",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Dried Cranberries",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
