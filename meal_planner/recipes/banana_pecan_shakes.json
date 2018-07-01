@@ -28,8 +28,8 @@
         {
             "name": "Raw Pecans",
             "amount": 0.5,
-            "unit": "Chopped",
-            "preparation": ""
+            "unit": "Cup",
+            "preparation": "Chopped"
         },
         {
             "name": "Almond Milk or milk of choise",

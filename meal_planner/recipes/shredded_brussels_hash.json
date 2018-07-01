@@ -1,0 +1,45 @@
+{
+    "name" : "Shredded Brussels and Kale Hash with Crispy Parmesan",
+    "meat" : "V",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat the oven to 425F with racks in the middle and upper third of the oven. Line 2 large rimmed baking sheets with parchment paper to prevent sticking."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "On one of the prepared sheets, combine all of the shredded veggies. Top with the Parmesan, 2 tablespoons olive oil, and the salt. Toss until all of the veggies are lightly coated in olive oil, adding another tablespoon of oil if necessary. Transfer half of the mixture to the other prepared baking sheet. Spread the mixture evenly over the pans."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Place one pan on the upper rack and the other on the middle rack. Bake until the hash is crisp and golden, 16 to 22 minutes, tossing and switching the pans halfway. Serve immediately. Leftovers keep in the refrigerator for up to 3 days."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Shredded Veggies (cabbage, brussel sprouts, kale, and carrots)",
+            "amount": 8,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Parmesan",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": "Grated"
+        },
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Sea Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
