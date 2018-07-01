@@ -1,0 +1,77 @@
+{
+    "name" : "Banana Pecan Shakes",
+    "meat" : "V",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "In a small skillet, toast the pecans over medium heat, stirring frequently, until just fragrant, about 4 minutes."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a blender, combine the milk, bananas, vanilla, and a dash of salt. Add half of the toasted pecans (set the remainder aside for later)"
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Blend until the mixture is smooth using your blender's smoothie function, if it has one. If it doesn't, start blending on low speed until the mixture gains traction, then switch to high speed until fully blended. (If the mixture is too thick to blend, add a bit more milk, as necessary.)"
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add the ice and blend until smooth. Then, add the pitted dates and blend until they have broken into very small pieces, stopping before they have been completely blended into the shake for a slight caramel effect. Add half of the remaining pecans and pulse the blender for a few times to break them up."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Pour the shakes into 2 small glasses. Top with Coconut Whipped Cream, if desired, and divide the remaining pecans over the 2 shakes. Serve immediately, with straws or spoons, whichever you prefer."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Raw Pecans",
+            "amount": 0.5,
+            "unit": "Chopped",
+            "preparation": ""
+        },
+        {
+            "name": "Almond Milk or milk of choise",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Just-ripe bananas",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Frozen in chunks"
+        },
+        {
+            "name": "Vanilla Extract",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Sea Salt",
+            "amount": 0.5,
+            "unit": "Dash",
+            "preparation": ""
+        },
+        {
+            "name": "Ice cubes",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Medjool dates",
+            "amount": 4,
+            "unit": "",
+            "preparation": "Pitted"
+        },
+        {
+            "name": "Coconut Whipped Cream",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
