@@ -1,0 +1,97 @@
+{
+    "name" : "Slow-Cooker Jerk Chicken Thighs",
+    "meat" : "C",
+    "website" : "https://dinnerthendessert.com/slow-cooker-jerk-chicken/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Add the chicken thighs to a large skillet and brown them on medium high heat on both sides for 3-5 minutes."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a food processor add the green onions, onion, jalapeno, soy sauce, vinegar, vegetable oil, brown sugar, thyme, cloves, nutmeg and allspice and puree until smooth."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add the chicken to the slow cooker skin side up and pour the sauce over the chicken."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Cook on low for 8 hours."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Bone in Skin on Chicken Thighs",
+            "amount": 6,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Green Onion",
+            "amount": 3,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Yellow Onion",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Jalapeño",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Soy Sauce",
+            "amount": 0.66,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "White Vinegar",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Brown Sugar",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Thyme",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Ground Cloves",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Ground Nutmeg",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Ground Allspice",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
