@@ -1,0 +1,209 @@
+{
+    "name" : "Cookie + Kate: Fresh Taco Salad with Creamy Avocado-Lime Dressing",
+    "meat" : "V",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "To make the taco filling: In a medium saucepan, warm the olive oil over medium heat until shimmering. Add the garlic, chili powder, and cumin. Cook until fragrant, stirring constantly, about 30 seconds. Add the tomato paste and sauté for another minute, stirring constantly. Add the rinsed quinoa and water, and stir to combine. Bring the mixture to a gentle boil, then cover the pot and reduce the heat as necessary to maintain a gentle simmer. Cook until the liquid is absorbed, 15 to 20 minutes (the quinoa might not be fluffy yet, but don't worry)."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Remove the pot from the heat and let it rest, still covered, for 5 minutes. Then, uncover and fluff the quinoa with a fork. Gently stir in the black beans and salt. Season to taste with pepper and additional salt, if necessary. Cover and set aside for a couple of minutes to warm up the beans."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "To make the tortilla strips: In a large skillet, warm the olive over medium heat until shimmering. Toss in the tortilla strips, sprinkle them with salt, and stir. Cook until the strips are crispy and turning golden, stirring occasionally, 5 to 10 minutes. Drain the tortilla strips on a plate covered with a piece of paper towel"
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "To make the dressing: In a small food process or blender, combine the lime juice, olive oil, and water. Using a spoon, scoop in half avocado and add the cilantro, jalapeño, garlic, and salt. Process until the dressing is nice and smooth. The dressing should be zippy, but if it's unpleasantly tart or difficult to blend, dilute it with 1 to 2 tablespoons of water and blend again."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "To assemble the salads: Combine the romaine and arugula in a large bowl. Wait to dress the salad until you are ready to serve, as the greens wilt fairly quickly once dressed. (If you won't be consuming all 4 servings of this salad right away, portion off the greens you'd like to save for later, and dress only the greens you intend to eat now.)"
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "When you're ready, drizzle the mixture with just enough dressing to lightly coat the greens (you might have extra). Toss until the dressing is evenly distributed."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Arrange the dressed greens in 4 individual salad bowls (for dinner plates, if your bowls are on the small side). Top each salad with taco filling, tomatoes, radishes, crispy tortilla strips, and feta. Slice the remaining avocado half into long strips and place a couple of strips on each salad. Serve immediately."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "If you have leftover dressing, press plastic wrap against the surface to prevent browning and store it in the refrigerator for later. Leftover tortilla strips tend to become unpalatably tough within a couple of hours, so you might want to skip those and add a few crushed tortilla chips to leftovers."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Avocado",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Crumbled Feta",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Radishes",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": "Thinly Sliced"
+        },
+        {
+            "name": "Grape Tomatoes",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Baby Arugula",
+            "amount": 3,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Romaine",
+            "amount": 5,
+            "unit": "oz",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "SALAD",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Fine Sea Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": "Roughly Chopped"
+        },
+        {
+            "name": "Jalapeño",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Roughly Chopped"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Avocado",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "CREAMY AVOCADO-LIME DRESSING",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Fine Sea Salt",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Corn Tortillas",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Cut into 2 inch strips"
+        },
+        {
+            "name": "EVOO",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "CRISPY TORTILLA STRIPS",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Black Beans",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Water",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Quinoa",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Tomato Paste",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chili Powder",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Clove",
+            "preparation": "Pressed"
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
