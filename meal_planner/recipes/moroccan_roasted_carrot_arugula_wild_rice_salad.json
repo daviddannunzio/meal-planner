@@ -1,0 +1,159 @@
+{
+    "name" : "Cookie + Kate: Moroccan Roasted Carrot, Arugula, and Wild Rice Salad",
+    "meat" : "V",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "To cook the wild rice: Bring a large pot of water to boil. Add the rinsed rice and coninue boiling, reducing the heat as necessary to prevent overflow, until the rice is pleasantly tender but still offers a light resistance to the bite, 40 to 55 minutes. Remove the pot from the heat, drain the rice, and return it to the pot. Cover and let the rice rest for 10 minutes, then uncover and stir in the salt. Set aside."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "To roast the carrots: Preheat the oven to 400F. Line a large rimmed baking sheet with parchment paper for easy cleanup."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Place the carrots on the baking sheet and drizzle them with the olive oil. Sprinkle the chili powder, cinnamon, and salt on top. Toss until the carrots are lightly coated in oil and spices. Arrange in a single layer and roast until they are caramelized on the edges and easily pierced through by a fork, 25 to 40 minutes, tossing halfway."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "To make the lemon citronette: In a small bowl, whisk together the olive oil, lemon juice, mustard, honey, garlic, salt, and pepper to taste."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "To prepare the salad: In a medium skillet, toast the chopped pistachios over medium heat, stirring frequently, until fragrant and turning golden on the edges, 4 to 6 minutes. Set aside to cool."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "In a large serving bowl, combine the cooked wild rice and arugula. When you're ready to serve, drizzle the mixture with just enough dressing to lightly coat the salad (you might have a little extra) and toss to combine. Arrange the roasted carrots down the center and sprinkle the toasted pistachios, crumbled goat cheese, and raisins on top. Serve immediately. This salad is best the day it's prepared, but it keeps well chilled, for 2 to 3 days."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Goat or Feta Cheese",
+            "amount": 2,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Baby Arugula",
+            "amount": 6,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Raw Pistachios",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "SALAD",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Black Pepper",
+            "amount": ,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Fine Sea Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": "Pressed or Minced"
+        },
+        {
+            "name": "Maple or Honey",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Dijon Mustard",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "LEMON CITRONETTE",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Fine Sea Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cinnamon",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chili Powder",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Carrots",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": "Peeled and cut diagonal into 0.5 inch slices"
+        },
+        {
+            "name": "ROASTED CARROTS",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Fine Sea Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Wild Rice",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "WILD RICE",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
