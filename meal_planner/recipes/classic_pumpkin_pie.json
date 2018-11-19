@@ -1,0 +1,89 @@
+{
+    "name" : "Classic Pumpkin Pie",
+    "meat" : "V",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat the oven to 425 degrees F and set a rack to the center position."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Roll out the chilled dough on a well-floured board until it's about 1/8-inch thick and 12 inches in diameter. Wind it around a lightly floured rolling pin and pick it up. Place the dough over a 9 inch pie pan and unroll, gently pressing it into the corners of the pan. Trim any excess dough with a pair of scissors, leaving an overhang of about 3/4 inch. Save the trimmings."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Crimp the dough by rolling under itself so you have a rolled cylinder that sits on the rim of the pie plate. Work with one hand inside the edge of the crust and the other on the outside. Use the index finger of the inside hand to push the dough between the thumb and forefinger of your outside hand, forming a V shape. Continue all around the crust, spacing the Vs about an inch apart. As you crimp, pull the dough out just past the edge of the pan. It'll shrink back as it bakes. Patch any holes with dough trimmings. Prick the dough all over with a fork, then freeze for 15 minutes."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Crack the eggs into a medium bowl and break them up with a whisk. Add the cream, pumpkin puré, sugar, salt, and spices to the bowl and whisk thoroughly to combine. Pour the custard mixture into the frozen shell."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Bake at 425 for 15 minutes, then reduce heat to 325 and bake until the center is just barely set, about 40 minutes more. Allow to cool on a wire rack for an hour before slicing."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Cloves",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": "Ground"
+        },
+        {
+            "name": "Ginger",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": "Ground"
+        },
+        {
+            "name": "Cinnamon",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": "Ground"
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Sugar",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Pumpkin Purée",
+            "amount": 1,
+            "unit": "15oz Can",
+            "preparation": ""
+        },
+        {
+            "name": "Heavy Cream",
+            "amount": 1.5,
+            "unit": "Cups",
+            "preparation": ""
+        },
+        {
+            "name": "Large Eggs",
+            "amount": 2,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Flour",
+            "amount": 1,
+            "unit": "Unit",
+            "preparation": "For rolling"
+        },
+        {
+            "name": "All-Butter Pie Dough",
+            "amount": 1,
+            "unit": "Disk",
+            "preparation": "Chilled"
+        }
+    ]
+}
