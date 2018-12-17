@@ -62,12 +62,6 @@
             "preparation": "Sliced and Quartered"
         },
         {
-            "name": "Onion",
-            "amount": 0.33,
-            "unit": "",
-            "preparation": "Diced"
-        },
-        {
             "name": "Red Curry Paste",
             "amount": 1,
             "unit": "tsp",
