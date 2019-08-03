@@ -1,0 +1,83 @@
+{
+    "name" : "Master Chef Junior: Lemon Risotto",
+    "meat" : "V",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Pour the stock into a saucepan and bring to a low simmer. Keep warm."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a large skillet or pot, heat the olive oil over medium heat. Add the shallot and onion and cook, stirring occasionally, until translucent, about 5 minutes. Add the rice and cook, stirring, until toasted, 2 to 3 minutes. Stir in the vinegar. Ladle about 1/2 cup of the warm stock into the rice and stir continuously until absorbed, about 2 minutes. Continue adding the stock in ladlefuls, stirring until the rice has absorbed all the liquid, before adding the next ladleful of stock. (You may not need to add all the stock.) When the rice is tender and the risotto has a creamy texture, remove the pan from the heat and stir in the lemon zest, lemon juice, cream, and Parmesan. Season with salt. Serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Kosher Salt",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Parmesan",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Grated"
+        },
+        {
+            "name": "Heavy Cream",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Zest of Lemon",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Rice Vinegar",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Arborio rice",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "White Onion",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": "Finely Chopped"
+        },
+        {
+            "name": "Shallot",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Finely Chopped"
+        },
+        {
+            "name": "EVOO",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Chicken Stock",
+            "amount": 6,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}

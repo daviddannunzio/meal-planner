@@ -1,0 +1,131 @@
+{
+    "name" : "Master Chef Junior: Seared Scallops with Jalapeño-Poblano Salsa",
+    "meat" : "F",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Make the jalapeño-poblano salsa: Using tongs, hold the jalapeños and poblano, one at a time, over a direct flame on a gas stovetop and char all sides, turning to cook evenly. (Alternatively, char under a broiler.) Transfer to a plastic bag, close the bag, and let the peppers steam for 5 to 10 minutes. Remove the peppers from the bag, peel off the skins, and discard the stems and seeds. Place the peeled peppers in a blender or food processor. Add the onion, garlic, cilantro, vinegar, coriander, olive oil, and lemon juice. Blend until smooth. Transfer to a medium bowl and season with salt."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Trim the bottoms of the Brussels sprouts and peel each sprout into individual leaves, trimming more of the bottom as needed. In a large pan, heat the olive oil over medium-high heat. Add the Brussels sprout leaves and cook, stirring, until wilted, about 1 minute. Transfer to a plate."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Season the scallops with salt and pepper on both sides. Return the large pan to the stove over high heat. Add the grapeseed oil and about half the scallops. Sear the scallops until browned on two sides, about 3 minutes per side. Transfer to a plate and repeat with the remaining scallops."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Using a vegetable peeler, remove the skin from the beet; discard the skin. Continue peeling to create very thin petals of raw beet."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "To serve, spoon the risotto, if using, into four shallow bowls and top each with 3 scallops and the salsa. Scatter the Brussels sprouts and beet petals over the top."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Optional; Lemon Risotto",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Red, Golden, or Candy Cane Beet",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Grapeseed Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt & Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Large Scallops",
+            "amount": 12,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Large Brussel Sprouts",
+            "amount": 6,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Juice"
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Coriander",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Rice Vinegar",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cilantro",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Clove",
+            "preparation": ""
+        },
+        {
+            "name": "Red Onion",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Poblano",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Jalapeños",
+            "amount": 2,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
