@@ -1,0 +1,165 @@
+{
+    "name" : "Mango Burrito Bowls With Crispy Tofu and Peanut Sauce",
+    "meat" : "T",
+    "website" : "https://cookieandkate.com/mango-burrito-bowls-with-crispy-tofu/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat the oven to 400 degrees Fahrenheit and line a large, rimmed baking sheet with parchment paper to prevent the tofu from sticking."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "To prepare the tofu: Drain the tofu and use your palms to gently squeeze out some of the water. Slice the tofu into thirds lengthwise so you have 3 even slabs. Stack the slabs on top of each other and slice through them lengthwise to make 3 even columns, then slice across to make 5 even rows."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Line a cutting board with a lint-free tea towel or paper towels, then arrange the tofu in an even layer on the towel(s). Fold the towel(s) over the cubed tofu, then place something heavy on top (like another cutting board, topped with a cast iron pan or large cans of tomatoes) to help the tofu drain. Let the tofu rest for at least 10 minutes (preferably more like 30 minutes, if you have the time)."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Meanwhile, bring a large pot of water to boil. Add the rice and boil, uncovered, for 30 minutes. Drain off the remaining cooking water and return the rice to the pot. Cover the pot and let the rice rest, off the heat, for 10 minutes. Fluff with a fork and set aside."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Transfer the pressed tofu to the lined baking sheet and drizzle with the olive oil and tamari. Toss to combine. Sprinkle the starch over the tofu, and toss the tofu until the starch is evenly coated, so there are no powdery spots remaining."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Arrange the tofu in an even layer. Bake for 25 to 30 minutes, tossing the tofu halfway, until the tofu is deeply golden on the edges. Set aside."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Meanwhile, prepare the peanut sauce by whisking all the ingredients together in a bowl. Taste, and if it’s too bold, add another teaspoon of honey to tame it. Set aside."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Then, in a medium mixing bowl, combine the diced mango, bell pepper, green onion, cilantro, jalapeño, lime juice and salt. Stir to combine, and set aside."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "To assemble your bowls, start with a big scoop of cooked rice. Top with a handful (½ cup) shredded cabbage, then a big scoop of mango salsa, a handful of baked tofu, a hefty drizzle of peanut sauce, and a little sprinkle of chopped peanuts. Leftover bowls will keep well in the refrigerator, covered, for about 4 days."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Chopped Peanuts",
+            "amount": 1,
+            "unit": "Handful",
+            "preparation": ""
+        },
+        {
+            "name": "Purple Cabbage",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Sea Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Jalapeño",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Mango",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "MANGO SALSA",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Sesame Oil",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Honey or Maple",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Tamari or Soy Sauce",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Creamy Peanut Butter",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "PEANUT SAUCE",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Brown Basmati Rice",
+            "amount": 1.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cornstarch",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Tamari or Soy Sauce",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Extra Firm Tofu",
+            "amount": 1,
+            "unit": "Block",
+            "preparation": ""
+        }
+    ]
+}
