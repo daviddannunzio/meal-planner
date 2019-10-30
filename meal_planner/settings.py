@@ -30,9 +30,14 @@ ALLOWED_HOSTS = [
     'immense-oasis-17081.herokuapp.com',
 ]
 
-TEMPLATE_DIRS = (
-    BASE_DIR + '/templates',
-)
+TEMPLATES = [
+    {
+        'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        'DIRS': [
+            os.path.join(BASE_DIR, 'templates'),
+        ]
+    },
+]
 
 # Application definition
 
