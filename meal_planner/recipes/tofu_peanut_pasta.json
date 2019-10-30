@@ -17,14 +17,18 @@
         },
         {
             "step_number" : 4,
-            "step_description" : "Cook Tofu and veggies until nicely browned (maybe adding some soy sauce to the skillet)."
+            "step_description" : "Cook Tofu in oven (cornstarch helps!)"
         },
         {
             "step_number" : 5,
-            "step_description" : "Combine the obvious ingredients for the sauce"
+            "step_description" : "Pan fryveggies until nicely browned (maybe adding some soy sauce to the skillet)."
         },
         {
             "step_number" : 6,
+            "step_description" : "Combine the obvious ingredients for the sauce"
+        },
+        {
+            "step_number" : 7,
             "step_description" : "Mix all ingredients together and serve!"
         }
     ],
@@ -72,9 +76,9 @@
             "preparation": ""
         },
         {
-            "name": "Corn",
-            "amount": 0.5,
-            "unit": "Cup",
+            "name": "Zucchini",
+            "amount": 1,
+            "unit": "",
             "preparation": ""
         },
         {
