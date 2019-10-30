@@ -78,7 +78,7 @@ def index(request):
         form = RecipeForm
 
     context = {'form': form, 'recipe_list': Recipe.objects.all().order_by("name")}
-    return render(request, 'home.html', context)
+    return render(request, 'templates/home.html', context)
 
 
 def recipe(request):
