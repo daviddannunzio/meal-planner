@@ -1,4 +1,4 @@
-from django.conf.urls import patterns, include, url
+from django.conf.urls import include, url
 
 from django.contrib import admin
 admin.autodiscover()
@@ -6,7 +6,7 @@ admin.autodiscover()
 from meal_planner.views import index, recipe, export
 from meals import views
 
-urlpatterns = patterns('',
+urlpatterns = [
     # Examples:
     # url(r'^$', 'meal_planner.views.home', name='home'),
     # url(r'^blog/', include('blog.urls')),
@@ -15,4 +15,4 @@ urlpatterns = patterns('',
     url(r'^index/$', index),
     url(r'^recipe/$', recipe),
     url(r'^recipe/export/$', export),
-)
+]
