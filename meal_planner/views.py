@@ -1,4 +1,4 @@
-from django.shortcuts import render, render_to_response, redirect
+from django.shortcuts import render, redirect
 from django.template import RequestContext
 from meals.models import Recipe, Ingredients, RecipeStep
 from on_startup import load
@@ -77,8 +77,8 @@ def index(request):
         load(reset=reset)
         form = RecipeForm
 
-    return render_to_response('home.html', {'form': form, 'recipe_list': Recipe.objects.all().order_by("name")},
-                              context_instance=RequestContext(request))
+    context = {'form': form, 'recipe_list': Recipe.objects.all().order_by("name")}
+    return render(request, 'home.html', context)
 
 
 def recipe(request):
