@@ -26,7 +26,9 @@ DEBUG = True
 
 TEMPLATE_DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'immense-oasis-17081.herokuapp.com',
+]
 
 TEMPLATE_DIRS = (
     BASE_DIR + '/templates',
