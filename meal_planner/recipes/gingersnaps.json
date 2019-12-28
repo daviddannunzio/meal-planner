@@ -1,0 +1,121 @@
+{
+    "name" : "Gingersnaps",
+    "meat" : "V",
+    "website" : "https://memeinge.com/blog/gingersnaps/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "In a medium bowl, whisk together flour, ginger, cinnamon, cloves, nutmeg, baking soda, and salt. Set aside."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In the bowl of an electric mixer, cream together sugars and butter for about 2 minutes. Add in honey, vanilla, and egg. Mix until well combined, about 1-2 minutes."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add half of the flour mixture into the butter mixture, and beat on low for 30 seconds. Add remaining flour mixture and beat until completely incorporated, but don't over-mix."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Wrap dough in wax paper or parchment paper and refrigerate for at least 2 hours or over night if possible."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "When ready to bake, preheat oven to 350°F."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Put remaining 3 TBSP sugar in a shallow bowl. Take tablespoon sized pieces of dough and roll them into balls. Then roll those into the sugar."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Put about 2 inches apart on baking sheets, and transfer to preheated oven. Make 20g spheres. Bake for 11-12 minutes until lightly browned. Let cool on pan for 5 minutes then transfer to cooling racks to cool completely. Enjoy!"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Granulated Sugar",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": "For Rolling"
+        },
+        {
+            "name": "Egg",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Vanilla Extract",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Honey",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Butter",
+            "amount": 7,
+            "unit": "Tbs",
+            "preparation": "Room Temperature"
+        },
+        {
+            "name": "Brown Sugar",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Granulated Sugar",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Soda",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Nutmeg",
+            "amount": 0.125,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cloves",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cinnamon",
+            "amount": 1.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Ground Ginger",
+            "amount": 2.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Whole Grain Flour",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
