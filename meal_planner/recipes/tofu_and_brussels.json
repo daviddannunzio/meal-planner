@@ -1,0 +1,129 @@
+{
+    "name" : "Cookie + Kate: Roasted Brussel Sprouts and Crispy Baked Tofu",
+    "meat" : "T",
+    "website" : "https://cookieandkate.com/roasted-brussels-sprouts-and-crispy-baked-tofu-with-honey-sesame-glaze/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Prep work: Position your oven racks in the lower third and upper third of the oven.Preheat oven to 400 degrees Fahrenheit. Line two large, rimmed baking sheets with parchment paper for easy cleanup (and to prevent the tofu from sticking). Bring a large pot of water to boil for the rice. Rinse the rice in a fine mesh colander under running water and set aside."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Drain the tofu and use your palms to gently squeeze out some of the water. Slice the tofu into thirds lengthwise so you have 3 even slabs. Stack the slabs on top of each other and slice through them lengthwise to make 3 even columns, then slice across to make 5 even rows (see photos)."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Line a cutting board with an absorbent lint-free tea towel or paper towels, then arrange the tofu in an even layer on the towel(s). Fold the towel(s) over the cubed tofu, then place something heavy on top (like another cutting board, topped with a cast iron pan or large cans of tomatoes) to help the tofu drain. Let the tofu rest for at least 10 minutes while you prep the Brussels sprouts."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Trim the nubby ends and any discolored leaves off the Brussels sprouts, then cut the sprouts in halves lengthwise. Toss the sprouts with a light, even layer of olive oil. On a large baking sheet, arrange the sprouts in an even layer, flat sides down, and sprinkle with sea salt."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Transfer the pressed tofu to one of your prepared baking sheets and drizzle with the olive oil and tamari. Toss to combine. Sprinkle the arrowroot starch over the tofu, and toss the tofu until the starch is evenly coated, so there are no powdery spots remaining. Arrange the tofu in an even layer across the pan."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "To cook the rice: Once the water is boiling, add the rice. Let the rice boil for 30 minutes, then remove from heat and drain the rice. Transfer the drained rice back to the cooking pot and cover for 5 minutes. Remove lid, add a dash of sea salt and use a fork to fluff the rice. Set aside, partially covered, until you’re ready to serve."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "To bake the sprouts and tofu: Transfer the pan of Brussels sprouts to the lower oven rack, and the pan of tofu to the top rack. Bake for 25 to 30 minutes, tossing the contents of each pan halfway through cooking, until the sprouts and tofu are deeply golden on the edges."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "To make the glaze: In a small saucepan, whisk together the glaze ingredients (start with 1 teaspoon chili garlic sauce or sriracha and add more to taste). Bring the glaze to a gentle boil over medium heat, stirring often and reducing heat as necessary. Simmer until the glaze is reduced by about half (about 5 to 10 minutes; it’s about done when it starts bubbling up substantially). Remove the glaze from the heat and set aside."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "To assemble: Divide the rice onto four plates. Top each plate with sprouts and tofu and drizzle with glaze. Finish each plate with a very generous sprinkling of sesame seeds and a small handful of chopped cilantro."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Cilantro Leaves",
+            "amount": 1,
+            "unit": "Handful",
+            "preparation": ""
+        },
+        {
+            "name": "Sesame Seeds",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Sriracha",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Toasted Sesame Oil",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Rice Vinegar",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Honey or Maple",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Tamari or Soy Sauce",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Arrowroot or cornstarch",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Tamari or Soy Sauce",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Extra Firm Tofu",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Cut into cubes"
+        },
+        {
+            "name": "Sea Salt",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1.5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Brussel Sprouts",
+            "amount": 1.5,
+            "unit": "lb",
+            "preparation": "Cut in half"
+        },
+        {
+            "name": "Short grain brown rice",
+            "amount": 1.25,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
