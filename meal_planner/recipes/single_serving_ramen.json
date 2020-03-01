@@ -1,0 +1,93 @@
+{
+    "name" : "Single Serve Veggie Ramen",
+    "meat" : "V",
+    "website" : "https://www.mydiaryofus.com/blog/easy-single-serving-veggie-ramen-bowls",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Place veggies, ginger, noodles, soy sauce, hoisin sauce, and egg in a wide mouth mason jar or other glass container and put lid on."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Heat broth until it is piping hot and pour over veggies and noodles and stir to distribute sauces and let sit for 30 seconds."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add chili sauce if desired and eat immediately."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Chicken or Veggie Stock",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Egg",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Soft Boiled"
+        },
+        {
+            "name": "Chili Sauce",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Hoisin Sauce",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Soy Sauce",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Cooked Ramen Noodles",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Ginger",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Grated"
+        },
+        {
+            "name": "Carrots",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Frozen Peas",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Green Onion",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Spinach",
+            "amount": 0.255,
+            "unit": "cup",
+            "preparation": ""
+        },
+        {
+            "name": "Mushrooms",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Sliced"
+        }
+    ]
+}
