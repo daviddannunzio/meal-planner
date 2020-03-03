@@ -1,34 +1,38 @@
 {
-    "name" : "Slow-Cooker Thai Coconut Chicken Wild Rice Soup",
-    "meat" : "C",
+    "name" : "Slow-Cooker Thai Coconut Tofu Wild Rice Soup",
+    "meat" : "T",
     "website" : "http://carlsbadcravings.com/slow-cooker-thai-coconut-chicken-wild-rice-soup/#",
     "steps" : [
         {
             "step_number" : 1,
-            "step_description" : "Rub chicken with oil and place in the bottom of your slow cooker followed by all of the ingredients in Phase 1. Cover and cook on high for 3-4 hours or on low 6-7 hours, or until chicken is tender enough to shred and rice is cooked."
+            "step_description" : "Cook the tofu!"
         },
         {
             "step_number" : 2,
-            "step_description" : "Remove chicken and allow to rest 5 minutes before shredding or chopping if preferred."
+            "step_description" : "Rub chicken with oil and place in the bottom of your slow cooker followed by all of the ingredients in Phase 1. Cover and cook on high for 3-4 hours or on low 6-7 hours, or until chicken is tender enough to shred and rice is cooked."
         },
         {
             "step_number" : 3,
-            "step_description" : "Meanwhile, whisk 1 tablespoon cornstarch with 1/4 cup water and add to slow cooker. Stir in peanut butter and lime juice. Add chicken back to slow cooker and cook on HIGH for 15-20 minutes or until slightly thickened. Stir peanut butter until smooth."
+            "step_description" : "Remove chicken and allow to rest 5 minutes before shredding or chopping if preferred."
         },
         {
             "step_number" : 4,
-            "step_description" : "Taste and add additional salt, pepper, peanut butter, Sriracha as desired. If you would like a less “chunky” soup, stir in additional broth."
+            "step_description" : "Meanwhile, whisk 1 tablespoon cornstarch with 1/4 cup water and add to slow cooker. Stir in peanut butter and lime juice. Add chicken back to slow cooker and cook on HIGH for 15-20 minutes or until slightly thickened. Stir peanut butter until smooth."
         },
         {
             "step_number" : 5,
+            "step_description" : "Taste and add additional salt, pepper, peanut butter, Sriracha as desired. If you would like a less “chunky” soup, stir in additional broth."
+        },
+        {
+            "step_number" : 6,
             "step_description" : "Garnish individual servings with coconut flakes, fresh cilantro, crushed peanuts and freshly squeezed lime juice."
         }
     ],
     "ingredients" : [
         {
-            "name": "Chicken Breast",
-            "amount": 0.33,
-            "unit": "lb",
+            "name": "Tofu",
+            "amount": 1,
+            "unit": "",
             "preparation": ""
         },
         {
