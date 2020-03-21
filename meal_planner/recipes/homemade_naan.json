@@ -1,0 +1,101 @@
+{
+    "name" : "Gingersnaps",
+    "meat" : "V",
+    "website" : "https://memeinge.com/blog/gingersnaps/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Stir together warm water and honey until the honey has dissolved."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add the water mixture to the bowl of a stand mixer with the dough attachment, and sprinkle the yeast on top of the water.  Give the yeast a quick stir to mix it in with the water.  Then let it sit for 5-10 minute until the yeast is foamy."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Turn the mixer onto low speed, and add gradually flour, yogurt, salt, baking powder, and egg.  Increase speed to medium-low, and continue mixing the dough for 2-3 minutes, or until the dough is smooth.  (The dough will still be slightly sticky, but should form into a ball that pulls away from the sides of the mixing bowl.)"
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Remove dough from the mixing bowl, and use your hands to shape it into a ball.  Grease the mixing bowl (or a separate bowl) with olive oil or cooking spray, then place the dough ball back in the bowl and cover it with a damp towel.  Place in a warm location (I set mine by the sunny window) and let it rise for 1 hour until the dough has nearly doubled in size."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Meanwhile, heat the butter in a small saute pan over medium heat until melted.  Add garlic and cook for 1-2 minutes until fragrant.  Then remove butter from heat, strain out and discard the garlic, leaving the infused melted butter behind.  Set aside."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Once the dough is ready, transfer it to a floured work surface.  Then cut the dough into 8 separate pieces. Roll each into a ball with your hands, then place on the floured surface and use a rolling pin to roll out the dough into a large circle (or oval, or whatever shape it takes) until the dough is a little less than 1/4-inch thick.  Brush dough lightly with the garlic-infused butter on both sides."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Heat a large cast-iron skillet or heavy saute pan over medium-high heat.  Add a piece of the rolled-out dough to the pan and cook for 1 minute, or until the dough begins to bubble and the bottom turns lightly golden.  Flip the dough and cook on the second side for 30-60 seconds, or until the bottom is golden.  Then transfer the naan to a separate plate, and cover with a towel.  Repeat with remaining dough until all of the naan pieces are cooked."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Keep the naan covered with the towel until ready to serve, so that it doesn’t dry out.  Serve sprinkled with fresh cilantro, if desired."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Garlic",
+            "amount": 3,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Butter",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "or 4 Tbs"
+        },
+        {
+            "name": "Egg",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Backing Powder",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Plain Yogurt",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "All-Purpose Flour",
+            "amount": 3.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Active dry yeast",
+            "amount": 1,
+            "unit": "Package",
+            "preparation": "About 2.25 tsp"
+        },
+        {
+            "name": "Honey",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Warm Water",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
