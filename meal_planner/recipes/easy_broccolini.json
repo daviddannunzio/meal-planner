@@ -1,0 +1,57 @@
+{
+    "name" : "Easy Broccolini",
+    "meat" : "V",
+    "website" : "https://www.thekitchn.com/easy-broccolini-267553",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Rinse the Broccolini under cool water and shake off the excess water. Trim about 1/2-inch off the bottom of the Broccolini stems."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Heat the oil in a large straight-sided skillet over medium-high heat until shimmering. Add the Broccolini and sauté until the Broccolini is bright green and some of the stems and tips of the florets are lightly charred, 5 to 7 minutes."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add the garlic, salt, and red pepper flakes, if using. Continue to sauté until the garlic is fragrant, about 30 seconds. Add the water, cover, and cook until the Broccolini is vibrant green and crisp-tender, 1 to 2 minutes. Serve immediately, with lemon wedges, if using."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Water",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Red Pepper Flakes",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Cloves",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Broccolini",
+            "amount": 2,
+            "unit": "bunches",
+            "preparation": ""
+        }
+    ]
+}
