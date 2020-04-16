@@ -1,0 +1,89 @@
+{
+    "name" : "Easy No Knead Bread",
+    "meat" : "V",
+    "website" : "https://joyfoodsunshine.com/easy-no-knead-bread/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Combine the flour, yeast, and salt in a large bowl and stir to combine."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add the water and mix until a loose, somewhat sticky ball forms."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Cover the bowl with plastic wrap (sprayed with cooking spray) and a damp tea towel."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Let dough sit covered at room temperature for 18-24 hours."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "After 24 hours (or at least 1 hour before you want to serve) preheat the oven to 450 degrees F."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Place a 2 3/4 quart dutch oven (or a 2.4L baking dish) with a lid in the oven while it is preheating."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "While oven is preheating, transfer the dough from the bowl onto a floured surface."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Form the dough into a ball then cover it with a floured towel while the oven is preheating."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Carefully remove the hot baking dish from the oven. Remove the lid and spray the dish with cooking spray."
+        },
+        {
+            "step_number" : 10,
+            "step_description" : "Gently put the dough ball into the baking dish so it’s evenly distributed."
+        },
+        {
+            "step_number" : 11,
+            "step_description" : "Cover and bake for 30 minutes."
+        },
+        {
+            "step_number" : 12,
+            "step_description" : "Remove the lid and bake for an additional 15 minutes, or until the loaf is golden brown."
+        },
+        {
+            "step_number" : 13,
+            "step_description" : "Remove the loaf from the baking dish and let it cool on a rack before slicing. To keep it warm, cover with a tea towel."
+        },
+        {
+            "step_number" : 14,
+            "step_description" : "Notes: All-purpose flour: You can replace up to 1 cup of the flour with white whole wheat flour, but I don't recommend making any other changes. This dutch oven bread is best when made with all-purpose flour. Sea salt: I recommend pure, fine sea salt for the best outcome! Yeast: Active dry yeast is the best choice for this no knead bread recipe, however you can use rapid rise yeast but you will still need to let it rise overnight. Water: Make sure to use warm water (105 degrees). It should feel warm to the touch but not hot. Optional mix-ins. If you'd like to create fun varieties, try mixing in parmesan cheese, fresh herbs, roasted garlic, etc."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Warm Water 105 degrees",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sea Salt",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Active Dry Yeast",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "All Purpose Flour",
+            "amount": 3,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
