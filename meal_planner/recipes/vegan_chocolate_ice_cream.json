@@ -1,0 +1,79 @@
+{
+    "name" : "Vegan Chocolate Ice Cream",
+    "meat" : "V",
+    "website" : "https://minimalistbaker.com/vegan-chocolate-ice-cream/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "The day before, add your ice cream churning bowl* to the freezer to properly chill."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "The same day, prepare your base. Add the water, coconut milk, cane sugar, cocoa powder, and salt to a large saucepan and whisk to combine. Bring to a low boil over medium-high heat, whisking frequently. Once it reaches a low boil, continue cooking and whisking for 1 minute."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Remove from the heat and add the chocolate and vanilla. Whisk until melted."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Then transfer to a mixing bowl and chill in the fridge for 2 hours or until room temperature or cooler. Optional: To remove any graininess, add to a blender and blend for 30 seconds on high. "
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Add your chilled base to the ice cream maker and churn according to the manufacturer's instructions - about 30 minutes or until it looks like soft serve (see photo)."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Enjoy as soft serve, or transfer to a parchment-lined dish or loaf pan, cover securely, and freeze for 4-6 hours, or until firm."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Let thaw 10-15 minutes before serving to soften. Use a hop scoop to ease scooping. Enjoy within 7-10 days. This is excellent with ripe strawberries and coconut whipped cream!"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Vanilla Extract",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan Dark Chocolate (or regular)",
+            "amount": 6,
+            "unit": "oz",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Sea Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Unsweetened Cocoa Powder",
+            "amount": 0.66,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sugar",
+            "amount": 0.66,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Lite Coconut Milk",
+            "amount": 1.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
