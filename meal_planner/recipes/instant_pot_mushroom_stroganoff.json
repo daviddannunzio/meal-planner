@@ -1,0 +1,121 @@
+{
+    "name" : "Instant Pot Stroganoff",
+    "meat" : "V",
+    "website" : "https://www.feastingathome.com/instant-pot-mushroom-stroganoff/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Heat oil on “sauté” function.  Add onion, garlic, mushrooms, salt and pepper and saute 7-9 minutes or until mushrooms release their liquid."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add sherry wine,  2 cups broth, mustard and flour and stir well, scraping up any browned bits  (to prevent burn error)"
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add the  pasta, stir."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Set instant pot to pressure cook on high for 3-4 minutes. (see notes)"
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Manually release ( placing a towel over the steam)."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Stir in the sour cream, and keep on warm setting for 5-10 minutes. Sauce will thicken slightly, but will remain “saucy” enough for dipping garlic bread."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Garnish with parsley"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Parsley",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Sour Cream",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Whole Wheat Rotini or Penne",
+            "amount": 8,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Flour",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Dijon Mustard",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cooking Sherry",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Pepper",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.75,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Frozen Peas",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Mushrooms",
+            "amount": 24,
+            "unit": "oz",
+            "preparation": "Any type!"
+        },
+        {
+            "name": "Garlic",
+            "amount": 3,
+            "unit": "Cloves",
+            "preparation": "Roughly Chopped"
+        },
+        {
+            "name": "Red Onion",
+            "amount": 0.5,
+            "unit": "Diced",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
