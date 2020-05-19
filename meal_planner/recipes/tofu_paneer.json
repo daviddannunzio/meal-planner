@@ -1,0 +1,135 @@
+{
+    "name" : "Tofu Paneer",
+    "meat" : "T",
+    "website" : "https://www.feastingathome.com/palak-paneer/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Cube the tofu, toss with corn starch, and cook at 400 degrees until crispy."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Cook the rice according to the directions"
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Wipe out the skillet, heat 3 tablespoons ghee over medium heat. Add onion, ginger, garlic and chilies, and sauté until deeply golden and fragrant, stirring often, about 15 minutes, taking your time here.  Add the spices ( coriander, cumin, garam masala and mustard seeds) and sauté 2-3 more minutes.  Add the frozen spinach and cup of water, lower heat and simmer uncovered until the spinach is just thawed."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Place the spinach mixture in a blender, topping with the yogurt and cashews. Add the salt and sugar. Blend well, until silky smooth. If mixture is too dry to blend, add just enough water to get the motor going.  Taste, and adjust heat by adding a little cayenne if you want more of a kick. This will seem slightly salty at first but once you add the paneer, it will soak up the salt."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Place the spinach sauce back on the stove uncovered,  on med- low heat. ( Covering it will lose the lovely vibrant color ). Warm it up slowly, stirring often so it doesn’t burn. Add the pan-seared paneer and continue cooking until the paneer is warmed through."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Enjoy this over Fluffy Basmati Rice, with Naan Bread, over Quinoa or cauliflower rice."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Sugar",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cashews",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Plain Yogurt",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Frozen Spinach",
+            "amount": 12,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Garam Masala",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Coriander",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Jalapeno",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Roughly Chopped"
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Cloves",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Ginger",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Roughly Chopped"
+        },
+        {
+            "name": "White or Yellow Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Ghee (or EVOO)",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Extra Firm Tofu",
+            "amount": 1,
+            "unit": "Pack",
+            "preparation": ""
+        },
+        {
+            "name": "Corn Starch",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Basmati Rice",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
