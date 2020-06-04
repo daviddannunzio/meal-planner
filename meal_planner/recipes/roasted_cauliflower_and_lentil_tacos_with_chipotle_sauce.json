@@ -38,7 +38,7 @@
             "preparation": ""
         },
         {
-            "name": "EVERYTHING ELSE",
+            "name": "----------EVERYTHING ELSE----------",
             "amount": 0,
             "unit": "",
             "preparation": ""
@@ -86,7 +86,7 @@
             "preparation": ""
         },
         {
-            "name": "SAUCE",
+            "name": "----------SAUCE----------",
             "amount": 0,
             "unit": "",
             "preparation": ""
@@ -140,7 +140,7 @@
             "preparation": ""
         },
         {
-            "name": "LENTILS",
+            "name": "----------LENTILS----------",
             "amount": 0,
             "unit": "",
             "preparation": ""
@@ -158,7 +158,7 @@
             "preparation": "Cut into florets"
         },
         {
-            "name": "CAULIFLOWER",
+            "name": "----------CAULIFLOWER----------",
             "amount": 0,
             "unit": "",
             "preparation": ""
