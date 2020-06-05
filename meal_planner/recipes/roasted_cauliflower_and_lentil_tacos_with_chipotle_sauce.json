@@ -26,116 +26,20 @@
     ],
     "ingredients" : [
         {
-            "name": "Cilantro",
-            "amount": 0.5,
-            "unit": "Cup",
-            "preparation": ""
-        },
-        {
-            "name": "Corn Tortillas",
-            "amount": 8,
-            "unit": "",
-            "preparation": ""
-        },
-        {
-            "name": "----------EVERYTHING ELSE----------",
+            "name": "----------CAULIFLOWER----------",
             "amount": 0,
             "unit": "",
             "preparation": ""
         },
         {
-            "name": "Adobo Sauce",
+            "name": "Cauliflower",
             "amount": 1,
-            "unit": "tsp",
-            "preparation": ""
-        },
-        {
-            "name": "Kosher Salt",
-            "amount": 0.25,
-            "unit": "tsp",
-            "preparation": ""
-        },
-        {
-            "name": "Cumin",
-            "amount": 0.5,
-            "unit": "tsp",
-            "preparation": ""
+            "unit": "Head",
+            "preparation": "Cut into florets"
         },
         {
             "name": "EVOO",
             "amount": 2,
-            "unit": "Tbs",
-            "preparation": ""
-        },
-        {
-            "name": "Cholula",
-            "amount": 2,
-            "unit": "Tbs",
-            "preparation": ""
-        },
-        {
-            "name": "Tahini",
-            "amount": 2,
-            "unit": "Tbs",
-            "preparation": ""
-        },
-        {
-            "name": "Lemon Juice",
-            "amount": 3,
-            "unit": "Tbs",
-            "preparation": ""
-        },
-        {
-            "name": "----------SAUCE----------",
-            "amount": 0,
-            "unit": "",
-            "preparation": ""
-        },
-        {
-            "name": "Veggie Broth",
-            "amount": 2,
-            "unit": "Cup",
-            "preparation": ""
-        },
-        {
-            "name": "Brown Lentils",
-            "amount": 0.75,
-            "unit": "Cup",
-            "preparation": "Rinsed"
-        },
-        {
-            "name": "Chili Powder",
-            "amount": 0.5,
-            "unit": "tsp",
-            "preparation": ""
-        },
-        {
-            "name": "Cumin",
-            "amount": 0.5,
-            "unit": "tsp",
-            "preparation": ""
-        },
-        {
-            "name": "Tomato Paste",
-            "amount": 2,
-            "unit": "Tbs",
-            "preparation": ""
-        },
-        {
-            "name": "Garlic",
-            "amount": 2,
-            "unit": "Cloves",
-            "preparation": "Minced"
-        },
-        {
-            "name": "Yellow or White Onion",
-            "amount": 1,
-            "unit": "",
-            "preparation": "Diced"
-        },
-        {
-            "name": "EVOO",
-            "amount": 1,
             "unit": "Tbs",
             "preparation": ""
         },
@@ -147,20 +51,116 @@
         },
         {
             "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Yellow or White Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Tomato Paste",
             "amount": 2,
             "unit": "Tbs",
             "preparation": ""
         },
         {
-            "name": "Cauliflower",
-            "amount": 1,
-            "unit": "Head",
-            "preparation": "Cut into florets"
+            "name": "Cumin",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
         },
         {
-            "name": "----------CAULIFLOWER----------",
+            "name": "Chili Powder",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Brown Lentils",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "----------SAUCE----------",
             "amount": 0,
             "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Tahini",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Cholula",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Adobo Sauce",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "----------EVERYTHING ELSE----------",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Corn Tortillas",
+            "amount": 8,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Cilantro",
+            "amount": 0.5,
+            "unit": "Cup",
             "preparation": ""
         }
     ]
