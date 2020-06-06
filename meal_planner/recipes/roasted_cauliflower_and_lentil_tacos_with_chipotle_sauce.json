@@ -1,0 +1,167 @@
+{
+    "name" : "Cookie & Kate: Roasted Cauliflower and Lentil Tacos with Creamy Chipotle Sauce",
+    "meat" : "V",
+    "website": "https://cookieandkate.com/roasted-cauliflower-and-lentil-tacos/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "To roast the cauliflower: Preheat oven to 425 degrees Fahrenheit. Toss cauliflower florets with enough olive oil to cover them in a light, even layer of oil. Season with salt and pepper and arrange the florets in a single layer on a large, rimmed baking sheet. Roast for 30 to 35 minutes, tossing halfway, until the florets are deeply golden on the edges."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Warm the olive oil in a medium-sized pot over medium heat. Sauté the onion and garlic with a dash of salt for about 5 minutes, until the onions are softened and turning translucent. Add the tomato paste, cumin and chili powder and sauté for another minute, stirring constantly. Add the lentils and the vegetable broth or water. Raise heat and bring the mixture to a gentle simmer. Cook, uncovered, for 20 minutes to 45 minutes, until the lentils are tender and cooked through. Reduce heat as necessary to maintain a gentle simmer, and add more broth or water if the liquid evaporates before the lentils are done. Once the lentils are done cooking, drain off any excess liquid, then cover and set aside."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "To prepare the chipotle sauce, just whisk together the ingredients and set aside (if you have no choice but to use whole chipotle peppers from the can, use a blender to purée it all). I prefer the vegan version of ingredients: https://www.acouplecooks.com/spicy-chipotle-sauce/"
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Warm tortillas individually in a pan over medium heat. Stack the warm tortillas and cover them with a tea towel if you won’t be serving the tacos immediately."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Once all of your components are ready, you can assemble your tacos! Top each tortilla with the lentil mixture, cauliflower, a drizzle of chipotle sauce and a generous sprinkle of chopped cilantro."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Cilantro",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Corn Tortillas",
+            "amount": 8,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "----------EVERYTHING ELSE----------",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Adobo Sauce",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Cholula",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Tahini",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "----------SAUCE----------",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Brown Lentils",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Chili Powder",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Tomato Paste",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Yellow or White Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "----------LENTILS----------",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Cauliflower",
+            "amount": 1,
+            "unit": "Head",
+            "preparation": "Cut into florets"
+        },
+        {
+            "name": "----------CAULIFLOWER----------",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
