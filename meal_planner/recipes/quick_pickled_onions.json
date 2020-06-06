@@ -1,0 +1,83 @@
+{
+    "name" : "Quick Pickled Onion",
+    "meat" : "V",
+    "website": "https://www.feastingathome.com/quick-pickled-onions/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Thinly slice ½ a red onion. ( Feel free to double the batch)"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Place the onion along with the vinegar, water, salt, sugar and whole spices and any optional additions in a small pot on the stove and bring to a simmer. Simmer 2-3 minutes, stirring."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Remove from the stove and let cool."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Place onions and liquid in a clean jar and store in the fridge."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Add fresh herbs if you like."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Dried or fresh oregano",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Bay Leaf",
+            "amount": 2,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic Cloves",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Halved"
+        },
+        {
+            "name": "Whole Spices",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": "one or any combination of peppercorns, fennel seed, cumin, coriander, peppercorns, caraway, star anise, juniper, allspice."
+        },
+        {
+            "name": "Sugar",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 0.75,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "White Vinegar",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Red Onion",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": "Thinly Sliced"
+        }
+    ]
+}

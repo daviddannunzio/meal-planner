@@ -1,0 +1,119 @@
+{
+    "name" : "Indian Frankies",
+    "meat" : "V",
+    "website": "https://www.feastingathome.com/indian-frankie-recipe/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Cut potatoes and place them in a medium pot, covered with water and simmer until very tender, about 15-20 minutes.  At the same time…"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Cut the cauliflower into small florets and place on a parchment lined sheet pan ( to one side). Add the drained chickpeas to the other side. Drizzle both with olive oil. Sprinkle cauliflower and chickpeas with the spices and salt, tossing to coat well. Place in the oven and roast for 20-25 minutes ( tossing halfway throuth) or until cauliflower is tender."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "While the veggies are roasting, make the quick pickled red onions and blend up the flavorful Cilantro Mint Chutney, and place both in jars ( Of course, you could make these ahead). They take about 5 minutes each. Please don’t leave out the chutney- it’s imperative!!!"
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Once the potatoes are very tender, drain but save about 1 cup of the hot water. Place the potatoes back in the pot and mash with some of the hot water ( start with ¼-½ cup ) salt, spices and ghee ( or oil) and mash the potatoes to combine until smooth. You want a fairly loose, spreadable mash so add more hot water if necessary. Scrape down the sides. Stir well.  Taste. You want this to taste flavorful and slightly salty as the tortilla will mute some of the flavor. Feel free to add more ghee or oil as you please for extra richness. Cover and keep warm."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "When the roasted veggies are done, assemble. Warm the tortillas either in the oven, over a gas flame or over grill. Spread generously with the Potato curry, then top with chickpeas, cauliflower making sure to get some of the whole spices that will have dropped to the bottom of the pan. Add a handful of spinach leaves, a few teaspoons of cilantro mint chutney and some pickled onions and roll up like a burrito. Keep warm in the oven until ready to serve, or serve immediately! You can also refrigerate and reheat for meals on the go."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Extra Large Whole Wheat Tortillas",
+            "amount": 4,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Whole Coriander Seed",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Whole Fennel Seed",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chili Flakes",
+            "amount": 1,
+            "unit": "Dash",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Coriander",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Chickpea",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": "Rinsed and Drained"
+        },
+        {
+            "name": "Cauliflower",
+            "amount": 1,
+            "unit": "Head",
+            "preparation": "Cut into florets"
+        },
+        {
+            "name": "Garlic Powder",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Curry Powder",
+            "amount": 3,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 0.75,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO/Ghee/Coco Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Baby Potatoes",
+            "amount": 16,
+            "unit": "oz",
+            "preparation": "Quartered"
+        }
+    ]
+}

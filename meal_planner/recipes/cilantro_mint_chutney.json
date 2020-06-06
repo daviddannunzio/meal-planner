@@ -1,0 +1,73 @@
+{
+    "name" : "Cilantro Mint Chutney",
+    "meat" : "V",
+    "website": "https://www.feastingathome.com/cilantro-mint-chutney-recipe/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Blend all ingredients in a blender or food processor until smooth. Taste and adjust salt and lemon."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Optional Water",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Sugar",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": ""
+        },
+        {
+            "name": "Ginger",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Jalapeno",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Mint",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "1.5oz"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 1,
+            "unit": "Bunch",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Yogurt (vegan or not)",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
