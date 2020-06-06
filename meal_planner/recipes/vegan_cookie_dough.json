@@ -1,0 +1,63 @@
+{
+    "name" : "Vegan Cookie Dough",
+    "meat" : "V",
+    "website": "https://www.joyfulhealthyeats.com/vegan-cookie-dough/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Drain and rinse chickpeas. Place in a paper towel, dry off. If some of the skins start to come off peel them off and discard. (this will help the cookie dough not be as gritty)"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add chickpeas, peanut butter, vanilla extract, maple syrup and cinnamon to a food processor. Blend until smooth and creamy. Add the ground chia seeds to the food processor. (to grind chia seeds add them to a coffee bean grinder or a mortar and pestle) Blend until everything is combined."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add chickpea cookie dough mixture to a small bowl. Fold in the chocolate chips."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Chocolate Chips",
+            "amount": 0.66,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Chia Seeds",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Ground"
+        },
+        {
+            "name": "Cinnamon",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Maple Syrup",
+            "amount": 2.5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Vanilla Extract",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Almond Butter",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Chickpeas",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": "Drained"
+        }
+    ]
+}
