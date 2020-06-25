@@ -7,6 +7,7 @@ MEAT = (
     ('F', 'Fish'),
     ('B', 'Beef'),
     ('P', 'Pork'),
+    ('VEGAN', 'Vegan'),
 )
 
 
