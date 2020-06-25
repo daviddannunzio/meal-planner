@@ -1,0 +1,59 @@
+{
+    "name" : "Cookie & Kate: Spinach and Banana Smoothie",
+    "meat" : "VEGAN",
+    "website": "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "In a freezer safe container, put the spinach, banana, almond butter, flax seed meal, optional hemp seeds, and cinnamon. Freeze for a few hours (it's easiest is to do this the night before)"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Combine frozen ingredients with soy milk in a blender and blend."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Spinach",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Banana",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Almond Butter",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Flax Seed Meal",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Hemp Seeds (optional)",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Cinnamon",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Soy Milk",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
