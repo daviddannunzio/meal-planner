@@ -48,7 +48,7 @@
             "preparation": ""
         },
         {
-            "name": "Plain Yogurt",
+            "name": "Vegan Yogurt",
             "amount": 0.75,
             "unit": "Cup",
             "preparation": ""
@@ -108,7 +108,7 @@
             "preparation": "Diced"
         },
         {
-            "name": "Ghee (or EVOO)",
+            "name": "EVOO",
             "amount": 3,
             "unit": "Tbs",
             "preparation": ""

@@ -1,6 +1,6 @@
 {
     "name" : "Cilantro Mint Chutney",
-    "meat" : "V",
+    "meat" : "VEGAN",
     "website": "https://www.feastingathome.com/cilantro-mint-chutney-recipe/",
     "steps" : [
         {
@@ -64,7 +64,7 @@
             "preparation": ""
         },
         {
-            "name": "Yogurt (vegan or not)",
+            "name": "Coconut Yogurt (vegan)",
             "amount": 0.5,
             "unit": "Cup",
             "preparation": ""

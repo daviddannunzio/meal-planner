@@ -1,6 +1,6 @@
 {
     "name" : "Single Serve Veggie Ramen",
-    "meat" : "V",
+    "meat" : "VEGAN",
     "website" : "https://www.mydiaryofus.com/blog/easy-single-serving-veggie-ramen-bowls",
     "steps" : [
         {
@@ -18,16 +18,10 @@
     ],
     "ingredients" : [
         {
-            "name": "Chicken or Veggie Stock",
+            "name": "Veggie Stock",
             "amount": 1,
             "unit": "Cup",
             "preparation": ""
-        },
-        {
-            "name": "Egg",
-            "amount": 1,
-            "unit": "",
-            "preparation": "Soft Boiled"
         },
         {
             "name": "Chili Sauce",

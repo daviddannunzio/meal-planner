@@ -1,6 +1,6 @@
 {
     "name" : "Mango Burrito Bowls With Crispy Tofu and Peanut Sauce",
-    "meat" : "T",
+    "meat" : "VEGAN",
     "website" : "https://cookieandkate.com/mango-burrito-bowls-with-crispy-tofu/",
     "steps" : [
         {
@@ -29,7 +29,7 @@
         },
         {
             "step_number" : 7,
-            "step_description" : "Meanwhile, prepare the peanut sauce by whisking all the ingredients together in a bowl. Taste, and if it’s too bold, add another teaspoon of honey to tame it. Set aside."
+            "step_description" : "Meanwhile, prepare the peanut sauce by whisking all the ingredients together in a bowl. Taste, and if it’s too bold, add another teaspoon of maple to tame it. Set aside."
         },
         {
             "step_number" : 8,
@@ -102,7 +102,7 @@
             "preparation": ""
         },
         {
-            "name": "Honey or Maple",
+            "name": "Maple",
             "amount": 1,
             "unit": "Tbs",
             "preparation": ""

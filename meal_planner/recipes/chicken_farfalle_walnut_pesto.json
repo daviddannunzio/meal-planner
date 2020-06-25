@@ -1,6 +1,6 @@
 {
-    "name" : "Chicken and Farfalle Salad with Walnut Pesto",
-    "meat" : "C",
+    "name" : "Tofu and Farfalle Salad with Walnut Pesto",
+    "meat" : "VEGAN",
     "website" : "http://www.myrecipes.com/recipe/chicken-farfalle-salad-with-walnut-pesto",
     "steps" : [
         {
@@ -20,9 +20,9 @@
             "preparation": ""
         },
         {
-            "name": "Chicken Breast (cooked)",
-            "amount": 2,
-            "unit": "Cups",
+            "name": "Tofu",
+            "amount": 1,
+            "unit": "Block",
             "preparation": "Cubed"
         },
         {
