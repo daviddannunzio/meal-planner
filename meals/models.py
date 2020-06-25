@@ -41,3 +41,6 @@ class Ingredients(models.Model):
 
     def __unicode__(self):
         return u'%s: %s %s' % (self.name, self.amount, self.unit)
+
+    class Meta:
+        ordering = ["id"]
