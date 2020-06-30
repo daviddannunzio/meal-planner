@@ -1,0 +1,101 @@
+{
+    "name" : "Mushroom Quinoa Burger",
+    "meat" : "VEGAN",
+    "website" : "https://www.goodhousekeeping.com/food-recipes/a38846/mushroom-quinoa-burger-recipe/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Make the Burgers: Preheat oven to 375 degrees F. In 3-quart, shallow baking dish, toss mushrooms with walnuts, garlic, 1 tablespoon oil, 3⁄4 teaspoon salt, and 1⁄4 teaspoon pepper; spread in even layer. Bake 20 minutes or until mushrooms are tender. Set aside to cool. Turn oven off."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In food processor, pulse mushroom mixture, red onion, green onions, and vinegar until mostly smooth, scraping side of bowl if necessary. Transfer mixture to a large bowl and stir in quinoa and cornstarch until well-blended. Cover bowl with plastic wrap and refrigerate 2 hours."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Preheat oven to 375 degrees F. Line baking sheet with foil. Form mixture into 5 patties (about 1/2\" thick and 3\" wide). In a 12\" nonstick skillet, heat remaining 1 tablespoon oil on medium. In 2 batches, cook patties 5 minutes or until well-browned, turning over once. Transfer seared patties to prepared baking sheet. Bake 10 minutes or until hot in centers."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Make the Rosemary Mayo: Meanwhile, combine mayonnaise, rosemary, lemon juice, and a pinch of salt. Keeps up to 5 days, refrigerated."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Serve burgers on buns with Rosemary Mayo, garnished with sprouts, lettuce, and tomato."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Portobello Mushroom Caps",
+            "amount": 4,
+            "unit": "",
+            "preparation": "Gills removed and chopped"
+        },
+        {
+            "name": "Walnuts",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Canola Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Green Onion",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Rice Wine Vinegar",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cooked Quinoa",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cornstarch",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan Mayonnaise",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh Rosemary",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": "Finely Chopped"
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 1,
+            "unit": "dash",
+            "preparation": ""
+        }
+    ]
+}

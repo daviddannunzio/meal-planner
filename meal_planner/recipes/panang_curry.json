@@ -1,0 +1,115 @@
+{
+    "name" : "Cookie & Kate: Thai Panang Curry",
+    "meat" : "VEGAN",
+    "website" : "https://cookieandkate.com/thai-panang-curry-recipe/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Bake the tofu, 400 degrees, with cornstarch"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "If you’d like to serve rice with your curry (optional): Bring a large pot of water to boil. Add the rinsed rice and continue boiling for 30 minutes, reducing heat as necessary to prevent overflow. Remove from heat, drain the rice and return the rice to pot. Cover and let the rice rest for 10 minutes or longer, until you’re ready to serve. Just before serving, season the rice to taste with salt and fluff it with a fork. ALTERNATE COOK METHOD: 1 cup rice, 1 and 1/8 cup water, and a pinch of salt, rinse the rice, pressure cook for 17 minutes, let cool for 10 min then release."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "To make the curry, warm a large skillet with deep sides over medium heat. Once it’s hot, add the oil. Add the onion and a sprinkle of salt and cook, stirring often, until the onion has softened and is turning translucent, about 5 minutes."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add the bell peppers and carrots. Cook until the bell peppers are easily pierced through by a fork, 3 to 5 more minutes, stirring occasionally. Add the garlic and curry paste and cook, while stirring, for 1 minute."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Add the coconut milk and water, and stir to combine. Bring the mixture to a simmer over medium heat. Reduce heat as necessary to maintain a gentle simmer and cook until the peppers and carrots have softened to your liking, about 5 to 10 minutes, stirring occasionally. If you’re adding crispy tofu, stir it in now."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Remove the pot from the heat. Stir in the peanut butter, tamari, sugar and lime juice. Add salt, to taste (I usually add a pinch or two). If the curry needs a little more punch, add ½ teaspoon more tamari, or for more acidity, add ½ teaspoon more lime juice."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Divide rice and curry into bowls and garnish with fresh basil, if using. If you love spicy curries, serve with sriracha or chili garlic sauce on the side."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Tofu",
+            "amount": 1,
+            "unit": "Block",
+            "preparation": "Baked"
+        },
+        {
+            "name": "Brown Jasmine Rice",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Yellow Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Green Beans",
+            "amount": 1,
+            "unit": "Bag",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Panang Curry Paste",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Regular Coconut Milk",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Peanut Butter",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Tamari",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Sugar or Brown Sugar",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
