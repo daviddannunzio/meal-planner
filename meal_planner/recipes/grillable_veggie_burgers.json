@@ -1,0 +1,133 @@
+{
+    "name" : "Easy Grillable Veggie Burgers",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/easy-grillable-veggie-burgers/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Cook your brown rice"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Heat skillet over medium heat. Once hot, add raw walnuts and toast for 5-7 minutes, stirring frequently, until fragrant and golden brown. Let cool and move onto the next step."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "In the meantime, heat the same skillet over medium heat. Once hot, add oil and onion. Season with a bit of salt and pepper and sauté for 3-4 minutes, or until onion is fragrant, soft, and translucent. Remove from heat and set aside."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Once walnuts are cooled, add to blender or food processor with chili powder, cumin, smoked paprika, salt, pepper and coconut sugar and blend until a fine meal (see photo) is achieved. Set aside."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "To a large mixing bowl, add drained, dried black beans and mash well with a fork, leaving only a few whole beans (see photo)."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Next add cooked rice, spice-walnut mixture, sautéed onion, panko bread crumbs, BBQ sauce, and mix thoroughly with a wooden spoon for 1-2 minutes, or until a moldable dough forms. If dry, add extra 1-2 Tbsp (amount as original recipe is written // adjust if altering batch size) BBQ sauce. If too wet, add more panko bread crumbs. Taste and adjust seasonings as needed."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "For larger burgers, divide into 5 patties (1/2 cup in size // amount as original recipe is written), or form 10 smaller burgers (1/4 cup in size // amount as original recipe is written). To help form the patties, line your 1/2 or 1/4 measuring cup with plastic wrap and pack with burger mixture. Press down to pack firmly, then lift out by the plastic wrap’s edge, and slightly flatten with hands to form a 3/4-inch thick patty. Set on a baking sheet or plate for grilling."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "If grilling, heat the grill at this time and brush the grill surface with oil to ease cooking. Otherwise, heat the same skillet you used earlier to medium heat."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Once skillet is hot, add just enough oil to lightly coat the bottom of your skillet, then add your burgers – only as many as will comfortably fit in the pan. Otherwise, add burgers to the grill and close lid."
+        },
+        {
+            "step_number" : 10,
+            "step_description" : "Cook for 3-4 minutes or until well browned on the underside, then flip gently. They aren’t as firm as meat burgers, but will definitely hold their shape. Reduce heat if cooking/browning too quickly. Cook for 3-4 minutes on other side."
+        },
+        {
+            "step_number" : 11,
+            "step_description" : "Remove burgers from heat to let cool slightly, and prepare any other toppings/sides at this time (such as grilling/toasting your buns)."
+        },
+        {
+            "step_number" : 12,
+            "step_description" : "Serve burgers as is, or on toasted buns with desired toppings. Leftovers keep in the refrigerator for 2-3 days. See notes for freezing/reheating instructions."
+        },
+        {
+            "step_number" : 13,
+            "step_description" : "NOTES: *To cook rice, I recommend this method from Saveur. It yields fluffy, perfect rice, which is key to keeping these burgers from becoming too wet or gummy in texture. // Prep time does not include cooking rice. *One 15-ounce (425 g) can of black beans yields only 1 1/4 cups black beans. So if using canned, be sure to grab two cans (amount as original recipe is written // adjust if altering batch size)! Also, if black beans are unsalted, add 1/4 tsp extra salt to burger mixture (amount as original recipe is written // adjust if altering batch size). *For a simple burger sauce mix 2 parts vegan mayo and 1 part ketchup. Add hot sauce or Sriracha for extra heat.` *To freeze for later, cook burgers as instructed on grill or skillet. Then set on a baking sheet or plate and freeze. Once frozen completely, seal in a freezer-safe bag or container and store for up to 3 weeks. Reheat in a 375 degree F oven on a bare baking sheet for 20-30 minutes, or until warmed through and golden brown (or in the microwave for 1-2 minutes)."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Brown Rice",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Cooked"
+        },
+        {
+            "name": "Raw Walnuts (sub bread crumbs)",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Avocado Oil",
+            "amount": 0.5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "White Onion",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Cumin",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Chili Powder",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Smoked Paprika",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Salt & Pepper",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": "Each"
+        },
+        {
+            "name": "Coconut Sugar",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Black Beans",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": "Rinsed, Drained, Patted Dry"
+        },
+        {
+            "name": "Panko Bread Crumbs",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan BBQ Sauce",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
