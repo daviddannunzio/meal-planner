@@ -1,0 +1,159 @@
+{
+    "name" : "Vegan Meyer Lemon Poppy Seed Muffins",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/vegan-meyer-lemon-poppy-seed-muffins/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 375 degrees F (190 C) and line a standard muffin tin with 12 paper liners, or lightly grease (amount as original recipe is written // adjust if altering batch size)."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Prepare flax eggs in a large mixing bowl and let rest for a few minutes. Zest lemon(s) at this time."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add applesauce, lemon zest, lemon juice, oil, almond milk, maple syrup or agave, cane sugar, baking soda, salt and whisk. It will foam up because the lemon juice will react with the baking soda."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add flour, almond meal and oats and stir with a spoon or spatula until just combined, being careful not to over-mix. If the batter appears too thick, add a touch more almond milk. But it should be quite thick and NOT pourable – rather, scoopable. Add the poppy seeds and gently stir once more."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Divide batter evenly between muffin tins (should be enough for between 11-12 as original recipe is written (adjust if altering batch size)."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Bake for 22-28 minutes or until a toothpick inserted into the center comes out clean. Let cool for 5 minutes in the pan, then remove from tins and let cool completely on a cooling rack."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "If glazing, whisk the sifted powdered sugar and lemon juice together in a small bowl until a thin, pourable glaze is formed and brush or drizzle on the muffins."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Will keep covered for several days at room temperature. Freeze for long-term storage (up to 1 month)."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "To make this recipe gluten-free, use GF rolled oats and sub a gluten free flour blend for the whole-wheat pastry flour. If you don’t have almond meal on hand, just replace it with more whole-wheat pastry flour."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "----------MUFFINS----------",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Flax Eggs",
+            "amount": 2,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Unsweetened Applesauce",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Meyer Lemon Zest",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Meyer Lemon Juice",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vanilla or Lemon Extract",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Oil",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Melted"
+        },
+        {
+            "name": "Unsweetened Almond Milk",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Maple or Agave",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cane Sugar",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sea Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Soda",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Poppy Seeds",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Whole Wheat Flour",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Oats",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Almond Meal",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "----------GLAZE----------",
+            "amount": ,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Powdered Sugar",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Sifted"
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
