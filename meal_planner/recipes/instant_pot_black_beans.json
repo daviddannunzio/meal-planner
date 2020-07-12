@@ -1,0 +1,51 @@
+{
+    "name" : "Instant Pot Black Beans",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/instant-pot-black-beans-perfect-beans-every-time/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Add beans, onion (optional), salt, vegetable broth, and water to the Instant Pot. Pressure cook on high for 30 minutes (it will take about 8 minutes for the Instant Pot to pressurize before cooking begins). Then let the beans rest in the pot for 20 minutes so the steam can dissipate naturally (this means you don't push any buttons — we recommend setting another timer so you’ll remember to remove the lid after 20 minutes)."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Carefully remove lid once steam has fully escaped. Remove onion and strain off any excess cooking liquid. Enjoy immediately, or store cooled leftovers in the refrigerator up to 5 days or in the freezer up to 1 month."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Yields 6 half cup servings"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Dry Black Beans",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "White or Yellow Onion (Optional)",
+            "amount": 0.25,
+            "unit": "",
+            "preparation": "Skin on"
+        },
+        {
+            "name": "Sea Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Broth (or water)",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 2,
+            "unit": "Cups",
+            "preparation": ""
+        }
+    ]
+}
