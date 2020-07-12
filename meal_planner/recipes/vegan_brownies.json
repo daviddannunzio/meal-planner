@@ -1,0 +1,107 @@
+{
+    "name" : "Best Ever Vegan Brownies Recipe",
+    "meat" : "VEGAN",
+    "website" : "https://www.noracooks.com/vegan-brownies-recipe/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Make the flax eggs by stirring the ground flax and water in a small bowl. Set aside to thicken. Preheat the oven to 350 degrees F and line a 7 x 11 pan with parchment paper."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Melt the vegan butter (earth balance brand preferred), and measure 1/2 cup. I do this by microwaving the vegan butter in a glass measuring cup, in 30 second intervals, until melted."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "In a large bowl, whisk the melted vegan butter and sugars together. Add the flax eggs and vanilla, whisk until evenly combined."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Over the same large bowl, sift in the flour and cocoa powder. Add the salt and baking powder and stir with a large wooden spoon until just combined, do not over mix. "
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Fold in half of the chocolate chips. Pour the batter into the prepared pan and smooth out the top with a spoon or your hands. Sprinkle the rest of the chocolate chips on top of the batter."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Bake for 35-40 minutes. The brownies may still be bubbling and not look done, but they will firm up a lot as they cool."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Remove from the oven, allow to cool in the pan for 15 minutes, then pull the brownies out, using the parchment paper and let cool for another 15-30 minutes before slicing and serving."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "To sift, either use a sifter or a fine mesh strainer also works. Coconut oil does not work very well in place of the vegan butter; it makes them very oily so I don't recommend it. You could sub applesauce for the vegan butter if you are oil free. If you don't want the brownies as sweet, it is perfectly okay to reduce the sugar, even to 1 cup. They will still turn out well, just not as sweet. When you initially take the brownies out of the oven, they will appear underdone and soft, but give them time to cool. They are even better the next day; fudgy and rich. These are NOT cake-like brownies. You may also use dutch processed cocoa powder for slightly different results. They will be a little less fudgy, and darker in color.To make this recipe gluten-free, use GF rolled oats and sub a gluten free flour blend for the whole-wheat pastry flour. If you don’t have almond meal on hand, just replace it with more whole-wheat pastry flour."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Flax",
+            "amount": 4,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan Butter",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Melted"
+        },
+        {
+            "name": "Sugar",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Brown Sugar",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vanilla Extract",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "All Purpose Flour",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cocoa Powder",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Powder",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Non Dairy Chocolate Chips",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
