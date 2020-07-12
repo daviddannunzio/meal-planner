@@ -1,0 +1,77 @@
+{
+    "name" : "Instant Pot Rice & Beans",
+    "meat" : "VEGAN",
+    "website" : "https://frommybowl.com/instant-pot-rice-beans/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "First, chop your Cilantro, keeping the leaves and stems roughly separated."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add the dried Beans and Rice to the bottom of your Instant Pot."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Gently pour the Vegetable Broth and Water over the Rice and Beans, then give everything a good stir."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Next, add the Salsa and stems of the Cilantro into the pot. Do not mix!"
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Close the Instant Pot, set the valve to Sealing, and use the Manual Mode to cook on High for 28 (based on my experimentation) Minutes."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "One the cook time finishes, let the Instant Pot release pressure for an additional 10 Minutes (leave the “Keep Warm” feature on)."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Finally, move the valve from Sealing to Venting to release all remaining pressure, and serve the Beans and Rice warm. Garnish with the chopped Cilantro leaves, and anything else you desire!"
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "You can also use dried Black Beans for this recipe, but they will make the rice look a little, er, grey. It’ll still taste great though! This recipe is simple, but feel free to add in some extra ingredients if it suits your fancy – I think Corn, Jalapeños, or some extra tomatoes would be great!Yields 6 half cup servings"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Dry Red Kidney Beans",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Brown Rice",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Salsa",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cilantro",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Stems and Leaves Divided"
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
