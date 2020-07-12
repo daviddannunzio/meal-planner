@@ -1,0 +1,89 @@
+{
+    "name" : "Garlic & Turmeric Giant Couscous with Vegetables",
+    "meat" : "VEGAN",
+    "website" : "http://wallflowerkitchen.com/golden-garlic-couscous-with-vegetables-chickpeas/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Bring a pan of water to the boil, add the stock cube and couscous and cook until al dente, for 10-12 minutes. Drain and rinse with cold water then set aside."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a large frying pan, heat the olive oil on a low-medium heat and sauté the onion for 2 minutes until softened. Add the sugar and balsamic vinegar. Cook for a further 3 minutes or until fully soft."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add in the garlic and courgette. Fry for 10 minutes on a medium heat, until the vegetables are cooked. Add a little more olive oil or a splash of water if the pan gets dry."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "In a large bowl, add the cooked cous cous, the turmeric, chickpeas and stir in the fried vegetables. Mix well and season with salt and pepper."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "To serve, drizzle with some extra olive oil (garlic-infused preferably!) and some fresh coriander."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Giant Couscous",
+            "amount": 100,
+            "unit": "g",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Stock Cube",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Red Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Coconut Sugar (or brown sugar)",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Balsamic Vinegar",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 3,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Zuchinni",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Cut into half inch"
+        },
+        {
+            "name": "Turmeric",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chickpeas",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": "Rinsed"
+        }
+    ]
+}
