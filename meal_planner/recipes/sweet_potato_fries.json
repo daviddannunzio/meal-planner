@@ -1,0 +1,123 @@
+{
+    "name" : "Curry Garlic Sweet Potato Fries With Miso Gravy",
+    "meat" : "VEGAN",
+    "website" : "https://thefirstmess.com/2015/04/02/vegan-curry-garlic-sweet-potato-fries-miso-gravy-recipe/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat your oven to 400 degrees F. Line a large baking sheet with parchment paper and set aside."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Peel the sweet potatoes if you like (I don’t) and cut them into 1/2 inch batons (you know, like, fries). Lay the cut sweet potatoes on the lined baking sheet and toss them with the 1 1/2 tablespoons of olive oil, curry powder, garlic cloves, salt, and pepper. Lay the fries out in a singular layer, as spaced out as you can."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Slide the tray into the oven and roast the fries for 20 minutes. Take the fries out, remove the garlic cloves and place them on a cutting board. Flip and toss the fries and return them to the oven for an additional 15 minutes, or until lightly crisped and thoroughly cooked through."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Chop the roasted garlic cloves up roughly."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "While the fries are roasting, make the gravy. In a medium saucepan over medium heat, combine the chopped garlic cloves, 1/2 cup of vegetable stock, the thyme, chili paste, maple syrup, olive oil, and balsamic vinegar. Bring it to a light boil. In a small bowl, whisk together the remaining 2 tablespoons of vegetable stock, white miso, and spelt flour (or arrowroot if using) until no major lumps remain. Add the miso mixture to the lightly simmering stock mixture in the pot."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Whisk the gravy in the saucepan until it’s thickened up enough to coat the back of a spoon, about 4 minutes. Take it off the heat and strain it through a fine mesh sieve. Pour the strained gravy over the curry sweet potato fries and garnish the whole thing with the cooked black beans and sliced green onions."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "----------FRIES----------",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Sweet Potatoes",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": ""
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 1.5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Curry Powder",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 3,
+            "unit": "Cloves",
+            "preparation": "Peeled and Smashed"
+        },
+        {
+            "name": "Black Beans",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "----------MISO GRAVY----------",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Stock",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Plus 2Tbs"
+        },
+        {
+            "name": "Fresh Thyme",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Sriracha",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Maple Syrup",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Balsamic Vinegar",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "White Miso",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Arrowroot Powder",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
