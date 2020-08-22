@@ -1,0 +1,133 @@
+{
+    "name" : "Vegan Pumpkin Pie",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/1-bowl-pumpkin-pie-vegan-gf/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 350 degrees F (176 C) and very lightly grease a 9-inch springform pan with coconut oil (or use a standard pie pan, but we prefer springform for easy serving). Set aside."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Prepare crust by adding raw cashews, oats, dates, sea salt, and ginger to a food processor and pulsing for about 30 seconds to combine. You’re looking for a fine meal — not too chunky, not a powder (see photo)."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Next, add gluten-free flour and pulse again to combine. Then add coconut oil and maple syrup and pulse again until a dough forms. It shouldn’t be too tacky or too crumbly and should hold its shape when squeezed between your fingers (see photo)."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Transfer crust to the greased pan and use clean hands to evenly distribute. Then use a flat-bottomed object (such as a drinking glass) to form into an even, flat crust, pushing the dough up the sides to form the side crust. Then use a fork and poke the crust 6 times to create little holes in the bottom so it doesn’t puff up when baking."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Bake for 10 minutes (this is as a pre-bake to firm up the crust) or until very slightly golden brown (no longer than 12 minutes). Then remove from oven and set aside to cool."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "In the meantime, prepare filling. To the same food processor (wipe clean first if you want but not necessary) add pumpkin purée, arrowroot starch, coconut milk, coconut sugar, maple syrup, and pumpkin pie spice. Blend on high, scraping down sides as needed, until creamy and smooth."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Taste and adjust flavor as needed, adding more pumpkin pie spice for warmth or coconut sugar for sweetness."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Add the filling to the slightly cooled crust and smooth into an even layer (see photo). Then return to oven and bake for 32-40 minutes, or until the edges of the crust appear golden brown and the top appears slightly dried out (it will still feel a little wet to the touch but will firm up more once chilled)."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Remove from oven and let cool at room temperature for 20 minutes. Then transfer to the refrigerator to cool uncovered to continue letting steam escape. Once cooled (~2 hours or overnight), loosely cover to keep fresh."
+        },
+        {
+            "step_number" : 10,
+            "step_description" : "Enjoy at room temperature or — our preference — chilled and topped with whipped coconut cream (optional). Leftovers will keep covered in the refrigerator up to 4-5 days or in the freezer up to 1 month."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Raw Cashews",
+            "amount": 1.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Rolled Oats",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Medjool Dates",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Pitted"
+        },
+        {
+            "name": "Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Ground Ginger",
+            "amount": 2.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Flour",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Oil",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Firm"
+        },
+        {
+            "name": "Maple Syrup",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Pumpkin Purée",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Arrowroot or Cornstarch",
+            "amount": 2.5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Milk",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Sugar",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Maple Syrup",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Pumpkin Pie Spice",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
