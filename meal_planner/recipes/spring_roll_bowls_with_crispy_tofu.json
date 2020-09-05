@@ -1,0 +1,175 @@
+{
+    "name" : "Spring Roll Bowls With Crispy Tofu",
+    "meat" : "VEGAN",
+    "website" : "https://www.crowdedkitchen.com/spring-roll-bowls-with-crispy-tofu/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 375˚F."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Drain the tofu and place it on a clean dish towel or several layers of paper towels.  Slice the tofu in half so you have 2 equal but thinner rectangles of tofu.  Then cube it and cover it with the rest of the dish towel or more layers of paper towels.  Press with a heavy object(cast iron skillet, cookbooks, cutting board) for 30-40 minutes to remove as much moisture as possible. This results in perfectly crispy tofu."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Put tofu in a medium bowl and toss gently in toasted sesame oil to coat.  Then add in the arrowroot or cornstarch and salt and toss again until all of the tofu is coated and there are no powdery spots left.   Spread the tofu out on a parchment lined baking sheet and roast for 25 minutes until it is crispy and lightly browned.  Give the tofu a gentle stir once or twice while it is baking."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Cook rice noodles according to package directions."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "To prepare dressing, whisk all ingredients together. When noodles are finished cooking, toss in about half of dressing."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Assemble bowls with noodles, sliced vegetables, tofu and drizzle with remaining dressing. Garnish with peanuts, sesame seeds, green onion, cilantro and a lime wedge."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "If you'd like to make this for meal prep, swap rice noodles with regular cooked brown or white rice. It will store much better in the refrigerator."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Rice Noodles",
+            "amount": 1,
+            "unit": "Package",
+            "preparation": "Cooked according to directions"
+        },
+        {
+            "name": "Extra Firm Tofu",
+            "amount": 1,
+            "unit": "Unit",
+            "preparation": "12oz"
+        },
+        {
+            "name": "Toasted Sesame Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Corn Starch",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Mini Cucumber",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Thinly Sliced"
+        },
+        {
+            "name": "Radishes",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Thinly Sliced"
+        },
+        {
+            "name": "Large Carrot",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Peeled and Julienned"
+        },
+        {
+            "name": "Purple Cabbage",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Sliced Thinly"
+        },
+        {
+            "name": "Mango",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Peeled & Diced"
+        },
+        {
+            "name": "Avocado",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Peeled & Diced"
+        },
+        {
+            "name": "Peanuts",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Sesame Seeds",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Green Onions",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Cilantro & Lime",
+            "amount": ,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "----------Sesame Miso Dressing----------",
+            "amount": ,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Sesame Oil",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Rice Wine Vinegar",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Low Sodium Tamari",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Mild White Miso",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Sesame Seeds",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Red Pepper Flakes",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
