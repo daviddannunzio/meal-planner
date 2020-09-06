@@ -1,0 +1,141 @@
+{
+    "name" : "Green Kitchen Stories Summer Wraps and Bumps",
+    "meat" : "VEGAN",
+    "website" : "https://greenkitchenstories.com/summer-wraps-bumps-videos/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Place 2 lettuce leaves on each tortilla, then place 2-3 tbsp herby hummus filling in the middle, a couple of spoonfuls green lentil salad and top with strawberry slices and a generous sprinkle of sunflower seeds. Fold the top and bottom edges over the filling. Roll the whole tortilla from left to right to wrap in the filling. Roll some parchment paper around them and tie with a string to hold them together while you transport them."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "For the Hummus. This makes more than you need for the wraps. Save the leftovers in a sealed jar and enjoy as a side throughout the week. Drain and rinse chickpeas and add to a high-speed food processor together with all other ingredients. Mix on high-speed for a few minutes, until smooth. Taste and feel the consistency. Add more salt or water if desired. At this point, you can also add a splash of olive oil for an extra rich hummus, if you prefer. Mix for two more minutes. Store in a sealed jar in the fridge."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "For the Green Lentil Salad. Rinse the cooked lentils and place in a mixing bowl. Cut avocados, cucumber, snow peas and red onion into small cubes. Finely chop parsley and mint and place all ingredients in the mixing bowl. Add a squeeze of lemon juice, a drizzle of olive oil and a pinch of salt. Mix it all and season to taste."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Whole Grain Tortilla",
+            "amount": 4,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Lettuce Leaves",
+            "amount": 8,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Sunflower Seeds",
+            "amount": 1,
+            "unit": "Handful",
+            "preparation": ""
+        },
+        {
+            "name": "Strawberries",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Chickpeas",
+            "amount": 1,
+            "unit": "14oz Can",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Cloves",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Tahini",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Parsley",
+            "amount": 2,
+            "unit": "Sprigs",
+            "preparation": ""
+        },
+        {
+            "name": "Mint",
+            "amount": 1,
+            "unit": "Sprig",
+            "preparation": ""
+        },
+        {
+            "name": "Baby Spinach",
+            "amount": 1,
+            "unit": "Handful",
+            "preparation": ""
+        },
+        {
+            "name": "Cooked Green Lentils",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Avocado",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Cucumber",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Sugar Peas",
+            "amount": 5,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Parsley",
+            "amount": 1,
+            "unit": "Sprig",
+            "preparation": ""
+        },
+        {
+            "name": "Mint",
+            "amount": 1,
+            "unit": "Sprig",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 1,
+            "unit": "Squeeze",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Drizzle",
+            "preparation": ""
+        }
+    ]
+}
