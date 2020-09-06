@@ -1,6 +1,6 @@
 {
     "name" : "Carrot Cake Oatmeal",
-    "meat" : "V",
+    "meat" : "VEGAN",
     "website" : "https://www.buzzfeed.com/christinebyrne/2016-clean-eating-day-2?utm_term=.bkE1pzvMP#.jyONl0MoG",
     "steps" : [
         {
@@ -50,7 +50,7 @@
             "preparation": ""
         },
         {
-            "name": "Honey",
+            "name": "Maple",
             "amount": 1,
             "unit": "tsp",
             "preparation": ""

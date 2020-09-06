@@ -1,0 +1,81 @@
+{
+    "name" : "Minimalist Harissa Marinated Chickpeas",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/harissa-marinated-chickpeas/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "If you’re using canned chickpeas, drain and rinse. If using our Instant Pot Chickpeas, simply ensure your chickpeas are drained of excess cooking liquid and proceed as instructed."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "To make the Harissa Paste, mix 100g of Harissa powder, 1/2 cup water, and 1/2 cup EVOO"
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "To a large mixing bowl add chickpeas, harissa paste, lemon juice, minced garlic, salt, maple syrup, paprika, and olive oil and stir gently to combine."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "If you’re using canned chickpeas, they’ll likely need more seasoning at this point since they weren’t seasoned on the front end (I find canned beans to be less flavorful and fresh than home cooked). If using our Instant Pot Chickpeas or another method from scratch, you likely won’t need much more seasoning. In either case, taste and adjust flavor as needed, adding more garlic for zing, lemon for acidity, harissa for heat, maple syrup to balance the heat, paprika for smokiness, or olive oil for creaminess or herbal, peppery flavor."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "You can use your chickpeas immediately, or (our preferred method) transfer to a storage container and allow to marinate for at least 1-2 hours. Marinated chickpeas will keep covered in the refrigerator for up to 1 week (depending on freshness of ingredients). We haven’t tried freezing them but suspect that they would be fine for up to 1 month."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "These marinated chickpeas are perfect for bowl meals, salads, wraps, sandwiches, topping soup, or anywhere you’re looking for some plant-based protein and fiber with a kick!"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Cooked Chickpeas",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Harissa Paste",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Maple Syrup",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Smoked Paprika",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
