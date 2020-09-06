@@ -1,0 +1,69 @@
+{
+    "name" : "Minimalist Baker Date-Sweetened Horchata",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/date-sweetened-horchata/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Soak rice in 2 cups very hot (not boiling water) for 2 hours (amount as original recipe is written // use 1/3 of the total water if altering batch size). The rice should be soft but still very raw – you should be able to snap a piece in half with your fingernail without much effort. Drain and add to a blender."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add 4 cups water (amount as original recipe is written // use 2/3 of the total water if altering batch size), dates, vanilla, and the cinnamon stick, top with lid and cover with a towel to ensure it doesn’t splash. Blend for about 1 minute until the date specks are very small and the mixture seems well combined. It doesn’t have to be 100% pulverized."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Scoop out a small sample with a spoon to test sweetness. If it’s not sweet enough, add more dates (or honey if not vegan)."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "In two batches, pour the mixture over a bowl or pitcher covered with cheesecloth, a nut milk bag, very thin towel, or a clean t-shirt or clean pair of panty hose (a tip I learned from My New Roots). I wrapped a rubberband around my bowl to ensure it didn’t come loose, but this isn’t necessary."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Strain the mixture until only pulp remains in the cloth, squeezing to get every last drop out. It will take a little effort depending on how pulverized your pulp is. Rinse out cloth and set aside for washing."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Next, stir in almond milk (optional), whisk and transfer to mason jars or a large beverage container with a lid. Chill and serve over ice. Will keep in the fridge for several days."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Long Grain White Rice",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 6,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Unsweetened Nut Milk",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Medjool Dates",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Pitted"
+        },
+        {
+            "name": "Vanilla Extract",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cinnamon Stick",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Or 1/2 tsp"
+        }
+    ]
+}
