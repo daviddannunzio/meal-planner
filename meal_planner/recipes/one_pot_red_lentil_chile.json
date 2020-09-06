@@ -1,0 +1,141 @@
+{
+    "name" : "1-Pot Red Lentil Chili",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/1-pot-red-lentil-chili/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Heat a large pot over medium heat. Once hot, add oil, onion, and red pepper. Season with a healthy pinch each salt and pepper and stir. Sauté for 3-4 minutes, stirring frequently."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add jalapeño and garlic to a mortar and pestle and crush into a rough paste (alternatively, blend in a small food processor, or finely mince). Add to the pot with onion and red pepper, and season with another pinch salt and pepper."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add 2/3 of the chili powder (2 Tbsp as original recipe is written), half of the cumin (1 Tbsp as original recipe is written), paprika, diced tomatoes, tomato paste, and water, and stir to combine. Bring to a low boil over medium high heat."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Once boiling, add lentils and reduce heat to medium-low or low, so it’s at a gentle simmer. You want to see bubbles, but you don’t want it boiling. Cook for 15 minutes, or until lentils are mostly tender. As it’s cooking you may need to add more water if the mixture is looking too dry and the lentils aren’t submerged (I didn’t find that necessary)."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Next add kidney beans, black beans, 1/4 tsp each salt and pepper, and remaining cumin (1 Tbsp as original recipe is written) and chili powder (1 Tbsp as original recipe is written), and stir to combine."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Bring to a simmer over medium heat, then reduce heat slightly to low (or medium-low), add corn (optional), cover, and gently simmer for 20 minutes to meld the flavors together. Stir occasionally."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Taste and adjust seasonings as needed, adding more chili powder or cumin for smokiness, salt for saltiness, or a little coconut sugar to balance the heat and draw out the other flavors."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Serve as is, or garnished with chili cheese fritos, fresh jalapeño, cilantro, red onion, and/or avocado (optional)."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Store leftovers in the refrigerator up to 4 days, and in the freezer up to 1 month. Reheat on the stovetop, or in the microwave."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Coco Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Yellow Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Red Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Salt & Pepper",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Jalapeño",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Chili Powder",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Smoked Paprika",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "15oz Can Diced Tomatoes",
+            "amount": 2,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Tomato Paste",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 1.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Dry Red Lentils",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "15oz Can Kidney Beans",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "15oz Can Black Beans",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Sugar",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
