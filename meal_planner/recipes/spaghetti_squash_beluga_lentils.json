@@ -1,0 +1,87 @@
+{
+    "name" : "Spaghetti Squash with Beluga Lentils, Pesto & Shiitake",
+    "meat" : "VEGAN",
+    "website" : "https://greenkitchenstories.com/spaghetti-squash-with-beluga-lentils-parsley-pesto-shitake/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat the oven to 400°F (200°C)"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Divide the spaghetti squash lengthwise with a large sharp knife. Rub the cut sides with coconut oil and season with salt and pepper. Place both halves on a baking tray, cut side down. Bake in the oven for 40-60 minutes (depending on the size of the squash). The halves are ready when the skin is bubbly and slightly browned. Meanwhile prepare lentils, pesto and shiitake. Place water and lentils in saucepan, cover and bring to a boil, lower the heat and let gently simmer for 30 minutes or until tender and can be mashed easily between two fingers. Drain any excess water and set aside. Place all pesto ingredients in a mortar and grind until creamy, but still chunky, set aside. Remove the squash from the oven, turn it so you’ll have the cut side up and let cool for a couple of minutes. Meanwhile heat the shiitake mushroom in a frying pan with a little coconut oil until soft and browned, set aside. Use a fork to scrape out the spaghetti strands. Place on serving plates, top with beluga lentils, pesto and shiitake."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "For the pesto, we prefer the Wicked Kitchen Pesto. https://wickedhealthyfood.com/2020/01/20/vegan-pesto-recipe-with-pumpkin-seed/ "
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Sphagetti Squash",
+            "amount": 1,
+            "unit": "Large",
+            "preparation": ""
+        },
+        {
+            "name": "Coco Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Beluga Lentils",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Shiitake Mushrooms",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 6,
+            "unit": "Cloves",
+            "preparation": ""
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 1,
+            "unit": "Unit",
+            "preparation": ""
+        },
+        {
+            "name": "Pumpkin Seeds",
+            "amount": 100,
+            "unit": "Grams",
+            "preparation": ""
+        },
+        {
+            "name": "Basil",
+            "amount": 25,
+            "unit": "Grams",
+            "preparation": ""
+        },
+        {
+            "name": "Baby Spinach",
+            "amount": 75,
+            "unit": "Grams",
+            "preparation": ""
+        },
+        {
+            "name": "Nutritional Yeast",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
