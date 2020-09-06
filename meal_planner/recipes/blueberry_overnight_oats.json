@@ -1,0 +1,59 @@
+{
+    "name" : "Blueberry Overnight Oats",
+    "meat" : "VEGAN",
+    "website" : "https://aseasyasapplepie.com/simple-blueberry-overnight-oats/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "In a 16-ounce mason jar, combine the rolled oats, unsweetened Almond Breeze Almondmilk, honey, and vanilla extract."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Stir, then add the blueberries."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Stir again, cover with the lid, and place the jar in the refrigerator overnight or at least 4-5 hours."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "In the morning, stir up the mixture, add a little more liquid if you prefer a thinner consistency, then top with fresh blueberries, a drizzle of honey, and if desired, hemp seeds and flaxseed meal."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Overnight oats will keep in the refrigerator for up to 5 days."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Rolled Oats",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Unsweetened Almond Milk",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Maple Syrup",
+            "amount": 0.75,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Vanilla Extract",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh or Frozen Blueberries",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
