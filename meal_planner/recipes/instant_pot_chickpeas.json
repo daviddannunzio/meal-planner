@@ -1,0 +1,81 @@
+{
+    "name" : "Minimalist Baker Instant Pot Chickpeas",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/instant-pot-chickpeas/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Add chickpeas and baking soda to a bowl and cover with ~3 cups cool water by about 3 inches (ensuring they’re well submerged). Soak overnight, or for at least 6-8 hours at room temperature."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Drain and rinse chickpeas well, then add to Instant Pot and cover with just enough water to submerge (as original recipe is written, we found 1 cup soaked chickpeas to require ~2 – 2 ¼ cups water)."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "For more flavor, add onion, garlic, oil, salt, and pepper."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Pressure cook on high for 15 minutes, or up to 17-18 minutes for super buttery, tender chickpeas. For chickpeas with some bite, try 13-14 minutes. NOTE: If you soaked your chickpeas for longer than 8 hours (for instance, overnight or 10+ hours), you can likely cook your chickpeas even faster (anywhere from 12-14 minutes)."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Quick release* (always being careful of the steam). We prefer picking out the onion, garlic, and herbs before serving. Drain off any excess cooking liquid as well. You can also reserve the cooking liquid as it's quite flavorful and can be added to soups and stews (though we don't believe it would be effective for using as aquafaba)."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "These beans are ready to enjoy! We find them especially well suited for things like our Chickpea Buddha Bowl, Hummus From Scratch, or 1-Pot Curried Chickpea Soup! Store leftovers covered in the refrigerator up to 4-5 days, or in the freezer for up to 1 month."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Dry Chickpeas",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Soda",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 3,
+            "unit": "Cups",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 2,
+            "unit": "Cups",
+            "preparation": ""
+        },
+        {
+            "name": "White Onion",
+            "amount": 0.25,
+            "unit": "",
+            "preparation": "Leave Whole"
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": "Whole"
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh Herbs (Thyme/Rosemary)",
+            "amount": 1,
+            "unit": "Bunch",
+            "preparation": ""
+        }
+    ]
+}
