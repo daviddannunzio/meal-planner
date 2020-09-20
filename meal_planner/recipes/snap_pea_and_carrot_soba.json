@@ -1,0 +1,113 @@
+{
+    "name" : "Cookie & Kate: Sugar Snap Pea and Carrot Soba Noodles",
+    "meat" : "VEGAN",
+    "website" : "https://cookieandkate.com/sugar-snap-pea-and-carrot-soba-noodles/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "To prepare the vegetables: Use a chef’s knife to slice the peas in half lengthwise (or just roughly chop them). Slice the carrots into long, thin strips with a julienne peeler, or slice them into ribbons with a vegetable peeler."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "To make the sauce: whisk together the ingredients in a small bowl until emulsified. Set aside."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Bring two big pots of water to a boil. In the meantime, toast the sesame seeds: Pour the sesame seeds into a small pan. Toast for about 4 to 5 minutes over medium-low heat, shaking the pan frequently to prevent burning, until the seeds are turning golden and starting to make popping noises."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Once the pots of water are boiling: In one pot, cook the soba noodles just until al dente, according to package directions (probably about 5 minutes), then drain and briefly rinse under cool water. Cook the frozen edamame in the other pot until warmed through (about 4 to 6 minutes) but before draining, toss the halved peas into the boiling edamame water and cook for an additional 20 seconds. Drain."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Combine the soba noodles, edamame, snap peas and carrots in a large serving bowl. Pour in the dressing and toss with salad servers. Toss in the chopped cilantro and toasted sesame seeds. Serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Soba Noodles",
+            "amount": 6,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Edamame",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sugar Snap Peas",
+            "amount": 10,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Carrots",
+            "amount": 6,
+            "unit": "",
+            "preparation": "Peeled"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sesame Seeds",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Tamari",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Peanut Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lime",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Juiced"
+        },
+        {
+            "name": "Toasted Sesame Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Agave",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Miso",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Ginger",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": "Fresh Grated"
+        },
+        {
+            "name": "Sriracha",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
