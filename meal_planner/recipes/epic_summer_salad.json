@@ -1,0 +1,107 @@
+{
+    "name" : "Green Kitchen Stories Quinoa Cauli Salad",
+    "meat" : "VEGAN",
+    "website" : "https://greenkitchenstories.com/cauli-quinoa-summer-salad/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preparing the quinoa and cauliflower: Place rinsed quinoa in a saucepan, add water and salt and bring to a boil. Lower the heat immediately and simmer for about 10-15 minutes, set aside and let cool. Coarsely chop the cauliflower and place the florets and stem in a food processor or blender and process until fine rice-like texture. Do it in batches if you have a small food processor. Place the ‘rice’ in a fine mesh strainer and pour over boiling water (use an electric kettle), let drain and cool. Meanwhile make the herb vinaigrette. Finely chop parsley and mint and place in a glass jar. Add the rest of the ingredients and stir to mix. Season to taste. When both quinoa and cauliflower ‘rice’ are completely cold, combine them with peas and half of the herb vinaigrette in a large mixing bowl. Then prepare the rest of the salad ingredients."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Assembling the salad: Steam or cook the asparagus for 1-2 minutes. Thinly shave the radishes and cube the avocados. Heat a dry frying pan and lightly toast the pumpkin seeds for a couple of minutes on medium heat. Slice the strawberries. Assemble the salad by arranging the quinoa cauliflower mixture on a large serving platter. Scatter with asparagus, radishes, avocados, pumpkin seeds, strawberries and lettuce. Arrange labneh balls over the top and place a small jar of the leftover herb vinaigrette."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Quinoa",
+            "amount": 0.5,
+            "unit": "Cups",
+            "preparation": "Uncooked"
+        },
+        {
+            "name": "Water",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Plus Salt"
+        },
+        {
+            "name": "Cauliflower",
+            "amount": 0.5,
+            "unit": "Head",
+            "preparation": ""
+        },
+        {
+            "name": "Sweet Green Peas",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Asparagus",
+            "amount": 1,
+            "unit": "Bunch",
+            "preparation": "Trimmed & Cut into 3 pieces"
+        },
+        {
+            "name": "Radish",
+            "amount": 5,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Avocado",
+            "amount": 2,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Pumpkin Seeds",
+            "amount": 4,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Strawberries",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Mixed Lettuce",
+            "amount": 3,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Flat Leaf Parsley",
+            "amount": 10,
+            "unit": "Sprigs",
+            "preparation": ""
+        },
+        {
+            "name": "Mint",
+            "amount": 10,
+            "unit": "Sprigs",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 0.5,
+            "unit": "Lemon",
+            "preparation": ""
+        },
+        {
+            "name": "Applecider Vinegar",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
