@@ -1,0 +1,125 @@
+{
+    "name" : "Green Kitchen Stories Weekday Cauliflower Dal",
+    "meat" : "VEGAN",
+    "website" : "https://greenkitchenstories.com/weekday-cauliflower-dal/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Notes: You can either serve the soup chunky or mix it smooth with a hand blender. Our favorite way is to just give it a super quick whizz with the blender to make it a little creamier and yet keeping texture from the cauliflower and potatoes. If you want it a little sweeter and creamier, you can replace 400 ml / 14 oz of the water/stock with a tin of coconut milk. We don’t add chili to it because of our kids but that can obviously also go in along with the curry."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Make the Cauliflower Dal: Heat coconut oil, onion and garlic in a large saucepan on low/medium heat. Add the curry, grind the extra spices in a mortar and add those as well (or just add more curry). Stir constantly with a wooden spoon until it smells fragrant, but be careful so the spices do not burn. If it feels too dry add a spoonful, or more, of water."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Break the cauliflower into florets and chop the stem finely. Peel the potatoes and dice them into 1 cm / 1/2 inch bits. Add both to the sauce pan along with the lentils and dates. Stir and sauté for about a minute before adding water or stock. Let simmer for 30 minutes or until the lentils are starting to dissolve and the cauliflower florets are tender. Stir carefully (if you want the cauliflower florets to stay intact) a few times."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add apple cider vinegar and salt to taste. Give the soup 2-3 pulses with a hand blender (if you like, see note above). Serve in bowls with a dollop of yogurt (coconut yogurt or regular yogurt) and top with garlicky spinach and tomato salad."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Make the Garlicky Spinach: Heat coconut oil in a skillet. Sauté mustard seeds and garlic on low/medium heat until golden and fragrant. Add spinach and turn off the heat. Stir until wilted. Ready for serving."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Coconut Oil",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": ""
+        },
+        {
+            "name": "Curry Powder",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Mustard/Coriander/Cardamom",
+            "amount": 0.5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh Ginger",
+            "amount": 2,
+            "unit": "inches",
+            "preparation": ""
+        },
+        {
+            "name": "Cauliflower",
+            "amount": 1,
+            "unit": "Head",
+            "preparation": ""
+        },
+        {
+            "name": "Potatoes",
+            "amount": 1,
+            "unit": "",
+            "preparation": "75g coarsely diced"
+        },
+        {
+            "name": "Red Lentil",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Dates",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Mashed"
+        },
+        {
+            "name": "Veggie Stock",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Mustard Seeds",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Clove",
+            "preparation": ""
+        },
+        {
+            "name": "Spinach",
+            "amount": 4,
+            "unit": "Handfuls",
+            "preparation": ""
+        }
+    ]
+}
