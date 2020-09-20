@@ -1,0 +1,119 @@
+{
+    "name" : "Minimalist Baker Zucchini Fritters",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/easy-zucchini-fritters/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "If you do not already have cooked quinoa, prepare it at this time — 2/3 cup uncooked quinoa will yield ~2 cups cooked."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Shred zucchini using either the coarse side of a box grater or the grater attachment of a food processor. Measure out amount (as original recipe is written, 2 cups). Then transfer to a clean towel and squeeze out excess moisture. Set aside."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Heat a large pot or rimmed skillet over medium heat. Once hot, add oil (or water), onion, and garlic. Season with a pinch of salt and pepper. Sauté for 3-4 minutes, stirring frequently, or until the onion is tender and fragrant. Add zucchini and sauté for another 2 minutes. Lastly, add chopped greens and stir to slightly wilt. Set aside."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Prepare chickpea “eggs” by combining chickpea flour and water in a small bowl. Stir to combine. It should be a runny paste. Adjust texture as needed. Set aside."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "To a large mixing bowl add sautéed vegetables, cooked and cooled quinoa, salt, and fresh dill and stir. Then add chickpea mixture and stir. Lastly, add gluten-free flour and stir until combined. You should have a slightly tacky but moldable mixture. Add more gluten-free flour as needed if too wet to handle."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Form into thin (roughly 1/4-inch-thick) patties the size of the palm of your hand. In the meantime, heat a large rimmed skillet over medium heat. I prefer non stick and then transferring to cast iron if using oven."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Once hot, add a little oil to coat the pan and enough fritters to comfortably fit without crowding. Pan fry until golden brown, ~4 minutes on each side."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Optional: For even crispier fritters, continue baking in a 400-degree F (204 C) oven for 10-15 minutes."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Serve hot with garnishes of choice, such as lemon juice, dairy-free yogurt, hummus, garlic dill sauce, or fresh dill (all optional)."
+        },
+        {
+            "step_number" : 10,
+            "step_description" : "Store leftovers covered in the refrigerator up to 3-4 days, or in the freezer up to 1 month. Reheat on the stovetop over medium heat, in a 350 degree F (176 C) oven, or in the microwave until hot. If frozen, thaw before reheating."
+        },
+        {
+            "step_number" : 11,
+            "step_description" : "Makes ~11 fritters."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Quinoa",
+            "amount": 2,
+            "unit": "Cups",
+            "preparation": "Cooked & Cooled"
+        },
+        {
+            "name": "Zucchini",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Coconut Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Onion",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Finely Diced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Spinach",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Chickpea Flour",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh Dill",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Gluten Free Flour",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic Dill Lemon Hummus Sauce",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
