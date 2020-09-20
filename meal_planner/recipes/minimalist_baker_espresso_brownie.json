@@ -1,0 +1,69 @@
+{
+    "name" : "Minimalist Baker 5-Minute Espresso Walnut Brownies",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/5-minute-espresso-walnut-brownies/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Place 1 cup walnuts and 1 cup almonds in food processor and process until finely ground (amounts as original recipe is written // adjust if altering batch size)."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add the cocoa powder or cacao, espresso powder and sea salt. Pulse to combine and then transfer to bowl and set aside."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add the dates to the food processor and process until small bits remain. Remove from bowl and set aside."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add nut and cocoa mixture back into food processor and while processing, drop small handfuls of the date pieces down into the food processor spout. Process until a dough consistency is achieved, adding more dates if the mixture does not hold together when squeezed in your hand."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Add the brownie mixture to a small parchment lined cake pan or loaf pan and add remaining roughly chopped walnuts (1/2 cup as original recipe is written). Toss to combine and evenly distribute, and then press down with you hands until it is flat and firm."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Place in freezer or fridge to chill before cutting. Store in an airtight container to keep fresh. Will keep in the fridge for at least 2 weeks and in the freezer for at least 2 months."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Walnuts",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Almonds",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Roughly Chopped"
+        },
+        {
+            "name": "Medjool Dates",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cocoa Powder",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Espresso",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 1,
+            "unit": "Pinch",
+            "preparation": ""
+        }
+    ]
+}
