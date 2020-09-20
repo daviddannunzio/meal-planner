@@ -1,0 +1,115 @@
+{
+    "name" : "Jackfruit Sliders",
+    "meat" : "VEGAN",
+    "website" : "https://www.loveandlemons.com/bbq-jackfruit-recipes/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Make the BBQ sauce: In a food processor, blend the chipotle peppers, adobo sauce, ketchup, vinegar, garlic, mustard, paprika, cumin, and a few grinds of pepper until smooth. Set aside."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Prepare the jackfruit by pulling shredding the pieces with your hands (see photo), discarding any harder pieces of the core. In a large skillet, heat 1 tablespoon of olive oil to medium heat. Add the shredded jackfruit and cook 5 minutes, stirring occasionally. If necessary, add a splash of water to keep it from sticking to the pan. Stir in the 1/2 cup water and half of the BBQ sauce. Turn the heat to low, cover, and let simmer for 20 minutes. Remove the cover and stir in half of the remaining BBQ sauce, reserving the rest for serving."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Make the slaw: In a medium-large bowl, combine the cabbage, cilantro, lime juice, olive oil, and pinches of salt and pepper."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Serve the sliders with the jackfruit, the remaining BBQ sauce, the slaw, and desired fixings."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Can Chipotle In Adobo",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": "2 peppers + 2Tbs sauce"
+        },
+        {
+            "name": "Ketchup",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Clove",
+            "preparation": ""
+        },
+        {
+            "name": "Dijon",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Paprika",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "20oz Can Jackfruit",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Purple Cabbage",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 0.5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Buns and Fixings!",
+            "amount": 4,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
