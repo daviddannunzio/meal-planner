@@ -1,0 +1,115 @@
+{
+    "name" : "Cookie & Kate: Colorful Beet Salad with Carrot, Quinoa & Spinach",
+    "meat" : "VEGAN",
+    "website" : "https://cookieandkate.com/raw-beet-salad-with-carrot-quinoa-spinach/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "To cook the quinoa: First, rinse the quinoa in a fine mesh colander under running water for a minute or two. In a medium-sized pot, combine the rinsed quinoa and 1 cup water. Bring the mixture to a gentle boil, then cover the pot, reduce heat to a simmer and cook for 15 minutes. Remove the quinoa from heat and let it rest, still covered, for 5 minutes. Uncover the pot, drain off any excess water and fluff the quinoa with a fork. Set it aside to cool."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "To cook the edamame: Bring a pot of water to boil, then add the frozen edamame and cook just until the beans are warmed through, about 5 minutes. Drain and set aside."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "To toast the almonds or pepitas: In a small skillet over medium heat, toast the almonds or pepitas, stirring frequently, until they are fragrant and starting to turn golden on the edges, about 5 minutes. Transfer to a large serving bowl to cool."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "To prepare the beet(s) and/or carrot: First of all, feel free to just chop them as finely as possible using a sharp chef’s knife OR grate them on a box grater. If you have a spiralizer, you can spiralize them using blade C, then chop the ribbons into small pieces using a sharp chef’s knife. If you have a mandoline and julienne peeler (this is a pain), use the mandoline to julienne the beet and use a julienne peeler to julienne the carrot, then chop the ribbons into small pieces using a sharp chef’s knife."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "To prepare the vinaigrette: Whisk together all of the ingredients until emulsified."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "To assemble the salad: In your large serving bowl, combine the toasted almonds/pepitas, cooked edamame, prepared beet(s) and/or carrot, roughly chopped spinach/arugula (see note above about leftovers), cubed avocado and cooked quinoa."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Finally, drizzle dressing over the mixture (you might not need all of it) and gently toss to combine. You’ll end up with a pink salad if you toss it really well! Season to taste with salt (up to an additional ¼ teaspoon) and black pepper. Serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Quinoa",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Uncooked"
+        },
+        {
+            "name": "Edamame",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Slivered Almonds",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Beet",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Peeled"
+        },
+        {
+            "name": "Carrot",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Peeled"
+        },
+        {
+            "name": "Baby Spinach",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Avocado",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Cubed"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Mint",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Maple",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Dijon",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
