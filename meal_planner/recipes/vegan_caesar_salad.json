@@ -1,134 +1,110 @@
 {
-    "name" : "Minimalist Baker: Vegan Caesar Salad",
+    "name" : "Cookie & Kate: Lemony Kale Pasta",
     "meat" : "VEGAN",
-    "website" : "https://minimalistbaker.com/vegan-caesar-salad-with-bbq-sweet-potato-croutons/",
+    "website" : "https://cookieandkate.com/lemony-kale-pasta-recipe/",
     "steps" : [
         {
             "step_number" : 1,
-            "step_description" : "If you haven’t already, prepare your BBQ Roasted Sweet Potato Croutons or roasted sweet potatoes. Set aside. https://minimalistbaker.com/bbq-roasted-sweet-potato-croutons/"
+            "step_description" : "Bring a large pot (5-quart capacity or greater) of heavily salted water to boil. Meanwhile, prepare your kale by slicing or stripping the leaves from the stems (save them). Discard the rough bottom of the stems, then slice the stems into pieces about ¼-inch wide. Place the stem pieces in a fine-mesh sieve."
         },
         {
             "step_number" : 2,
-            "step_description" : "In the meantime, prepare dressing. To a small mixing bowl, add hummus, spicy mustard, lemon zest + juice, minced capers + brining juice, minced garlic, salt, pepper, maple syrup, and olive oil (optional) and stir to combine. If needed, add a little water to thin until pourable and whisk until creamy and smooth (see photo)."
+            "step_description" : "When the water is boiling, place the sieve in the water, resting the lip against the top of the pot. Cook the stems for 3 minutes, then remove the sieve and add all of the kale leaves to the pot. Put the sieve back in the water on top of the leaves and cook for 5 minutes (do not drain the water)."
         },
         {
             "step_number" : 3,
-            "step_description" : "Taste and adjust flavor as needed, adding more salt and pepper to taste, lemon juice for acidity, lemon zest for vibrant citrus flavor, minced garlic for zing, capers for “sea” flavor, maple syrup for sweetness, or mustard for spice."
+            "step_description" : "Meanwhile, warm the olive oil in a small skillet over medium heat. Add the garlic and cook until the garlic begins to sizzle, then reduce the heat to low. Cook gently, lightly shimmying the pan and turning the garlic every now and then, until the garlic is soften and turning lightly golden, about 5 minutes. Remove the skillet from the heat and pour the contents into a stand blender."
         },
         {
             "step_number" : 4,
-            "step_description" : "Next, prepare remaining ingredients, including the romaine lettuce, parsley, and shredded carrots. Then add all to a serving platter or bowl and top with sweet potatoes and nutritional yeast (optional)."
+            "step_description" : "Add the cooked kale stems to the blender when the time’s up. Use tongs to transfer the kale leaves over to the blender (you actually want to bring some of the water with them). Add most of the zest from the lemon, and 1 tablespoon of the juice. Add ¼ teaspoon salt, the red pepper flakes (if using), plus about 10 twists of freshly ground black pepper."
         },
         {
             "step_number" : 5,
-            "step_description" : "Add dressing and toss, or serve on the side. This salad stores best when the dressing is kept separate from the greens. Store leftovers separately: The salad will keep 2-3 days, the dressing will keep 4-5 days. Not freezer friendly."
+            "step_description" : "Blend until the mixture is completely smooth and silky, adding more spoonfuls of water if necessary to gain traction. Taste, and add more salt, pepper or pepper flakes, and/or another tablespoon of lemon if desired. We want it to taste lemony! Set aside."
         },
         {
             "step_number" : 6,
-            "step_description" : "Yields 2 servings."
+            "step_description" : "Add the pasta to the boiling water and cook until al dente according to the package directions, stirring often. Place the peas in the sieve and cook them in the water until they’re warmed throughout, about 1 to 2 minutes if fresh, or 2 to 3 minutes if frozen. Set the peas aside."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Before draining the pasta, scoop out about ½ cup of the pasta cooking water with a heat-safe measuring cup. Drain the pasta, then return it to the pot. Pour in the green sauce, about ¾ of the Parmesan and the peas, and add a small splash of the reserved cooking water (not the end of the world if you forgot it). Stir gently until the pasta is well coated and bright green, adding another splash or two of pasta water to loosen the sauce and make it almost creamy."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Divide into bowls immediately. Top each with a sprinkle of the remaining Parmesan, a few dollops of ricotta, and a sprinkle of lemon zest and red pepper flakes (both optional). Finish the bowls with a light drizzle of olive oil. Enjoy! Leftovers will keep for up to 2 days in the refrigerator, covered (technically, they’ll last up to 4, but the flavor degrades as time goes on)."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Yields 4 servings."
         }
     ],
     "ingredients" : [
         {
-            "name": "BBQ Sweet Potato",
-            "amount": 1,
-            "unit": "Batch",
-            "preparation": ""
-        },
-        {
-            "name": "Romaine Lettuce Hearts",
-            "amount": 2,
-            "unit": "Heads",
-            "preparation": "Chopped"
-        },
-        {
-            "name": "Parsley",
-            "amount": 1,
-            "unit": "Cup",
-            "preparation": "Roughly Chopped"
-        },
-        {
-            "name": "Carrot",
-            "amount": 1,
-            "unit": "Cup",
-            "preparation": "Shredded"
-        },
-        {
-            "name": "Chickpeas",
-            "amount": 0.5,
-            "unit": "Cup",
-            "preparation": ""
-        },
-        {
-            "name": "Olives",
-            "amount": 0.25,
-            "unit": "Cup",
-            "preparation": ""
-        },
-        {
-            "name": "Nutritional Yeast",
-            "amount": 2,
-            "unit": "Tbs",
-            "preparation": "Optional"
-        },
-        {
-            "name": "Plain Hummus",
-            "amount": 0.5,
-            "unit": "Cup",
-            "preparation": ""
-        },
-        {
-            "name": "Spicy Mustard",
-            "amount": 1.5,
-            "unit": "tsp",
-            "preparation": ""
-        },
-        {
-            "name": "Lemon Zest",
-            "amount": 0.5,
-            "unit": "tsp",
-            "preparation": ""
-        },
-        {
-            "name": "Lemon Juice",
-            "amount": 2,
-            "unit": "Tbs",
-            "preparation": ""
-        },
-        {
-            "name": "Capers",
-            "amount": 2,
-            "unit": "tsp",
-            "preparation": "Chopped"
-        },
-        {
-            "name": "Caper Brining Juice",
-            "amount": 2,
-            "unit": "tsp",
-            "preparation": ""
-        },
-        {
-            "name": "Garlic",
-            "amount": 4,
-            "unit": "Cloves",
-            "preparation": "Minced"
-        },
-        {
-            "name": "Salt & Pepper",
+            "name": "Salt",
             "amount": 1,
             "unit": "",
             "preparation": ""
         },
         {
-            "name": "Maple Syrup",
+            "name": "Kale",
+            "amount": 1,
+            "unit": "Large Bunch",
+            "preparation": "Preferably Lascinato"
+        },
+        {
+            "name": "EVOO",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
             "amount": 2,
+            "unit": "Cloves",
+            "preparation": "Smashed"
+        },
+        {
+            "name": "Lemon",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Zest & Juice"
+        },
+        {
+            "name": "Red Pepper Flakes",
+            "amount": 0.25,
             "unit": "tsp",
             "preparation": ""
         },
         {
-            "name": "EVOO",
+            "name": "Pepper",
             "amount": 1,
-            "unit": "tsp",
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Rigatoni or Pappardelle",
+            "amount": 8,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Frozen Peas",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Parmesan",
+            "amount": 2,
+            "unit": "oz",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Ricotta",
+            "amount": 0.5,
+            "unit": "Cup",
             "preparation": ""
         }
     ]
