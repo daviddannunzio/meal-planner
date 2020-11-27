@@ -1,0 +1,123 @@
+{
+    "name" : "Minimalist Baker: Vegan Caesar Salad",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/vegan-caesar-salad-with-bbq-sweet-potato-croutons/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "If you haven’t already, prepare your BBQ Roasted Sweet Potato Croutons or roasted sweet potatoes. Set aside. https://minimalistbaker.com/bbq-roasted-sweet-potato-croutons/"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In the meantime, prepare dressing. To a small mixing bowl, add hummus, spicy mustard, lemon zest + juice, minced capers + brining juice, minced garlic, salt, pepper, maple syrup, and olive oil (optional) and stir to combine. If needed, add a little water to thin until pourable and whisk until creamy and smooth (see photo)."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Taste and adjust flavor as needed, adding more salt and pepper to taste, lemon juice for acidity, lemon zest for vibrant citrus flavor, minced garlic for zing, capers for “sea” flavor, maple syrup for sweetness, or mustard for spice."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Next, prepare remaining ingredients, including the romaine lettuce, parsley, and shredded carrots. Then add all to a serving platter or bowl and top with sweet potatoes and nutritional yeast (optional)."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Add dressing and toss, or serve on the side. This salad stores best when the dressing is kept separate from the greens. Store leftovers separately: The salad will keep 2-3 days, the dressing will keep 4-5 days. Not freezer friendly."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Yields 2 servings."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "BBQ Sweet Potato",
+            "amount": 1,
+            "unit": "Batch",
+            "preparation": ""
+        },
+        {
+            "name": "Romaine Lettuce Hearts",
+            "amount": 2,
+            "unit": "Heads",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Parsley",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Roughly Chopped"
+        },
+        {
+            "name": "Carrot",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Nutritional Yeast",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Optional"
+        },
+        {
+            "name": "Plain Hummus",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Spicy Mustard",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Zest",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Capers",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Caper Brining Juice",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Salt & Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Maple Syrup",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
