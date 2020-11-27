@@ -1,0 +1,265 @@
+{
+    "name" : "Avantgardevegan: In & Out Burgers",
+    "meat" : "VEGAN",
+    "website" : "https://www.avantgardevegan.com/recipes/vegan-in-out-burgers/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Pre heat a non stick frying pan and add the olive oil."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "When the pan is hot add the onions, celery & mushrooms plus a little seasoning. Turn the heat low and allow them to soften & lightly caramelise for around 3-4 minutes, stirring often."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Remove the pan from the heat and add the mix to a blender cup/food processor with the remaining wet ingredients. Blitz the mixture until it’s super smooth."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "In a large mixing bowl or stand mixer (bread mixer) add the vital wheat gluten."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Pour the wet mixture into the bowl with wheat gluten and stir with a spatula until it’s well combined into a dough. Knead the dough by hand for 10-12 minutes, as firm as you can. The harder you knead the dough, the more meaty the burgers are when cooked. "
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Alternitively use an electric stand mixer with the dough hook attached, knead the dough on low speed for 10 minutes. If I see the machine struggling I turn the dough out and continue kneading by hand. "
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "The tougher you are when kneading the more of a bite/meat like texture your burgers will have when cooked..So be firm!"
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Once kneaded it’s to time form the dough into patties. The easiest way of doing this is to roll the dough out using a rolling pin to approximately 1 cm thick, it’s quite tough to roll so put your all into it. The burgers do expand when cooking so I recommend making sure the dough is no more than 1.5cm thick."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Once your dough is rolled out, using a 11cm ring/cutter cut your dough into burger shapes. You can re-roll & cut any trimmings you may have into extra burgers.   "
+        },
+        {
+            "step_number" : 10,
+            "step_description" : "To cook the burgers steam them for 70 minutes. I use an old fashioned bamboo steamer placed over a wok filled with water – however any steamer will do. See tutorial video by clicking the video above."
+        },
+        {
+            "step_number" : 11,
+            "step_description" : "Once steamed the burgers should feel tender & much firmer."
+        },
+        {
+            "step_number" : 12,
+            "step_description" : "At this point you can either wait for the burgers to cool then refrigerate or freeze. "
+        },
+        {
+            "step_number" : 13,
+            "step_description" : "Or you can cook them straight away. My favourite way of cooking the burgers is to grill them over a high heat. I love the chargrilled lines & flavour. "
+        },
+        {
+            "step_number" : 14,
+            "step_description" : "The burgers are actually best grilled/fried the day after cooking, they firm up more. So often I’d make a batch of these burgers the day or night before using."
+        },
+        {
+            "step_number" : 15,
+            "step_description" : "To make the burger sauce simply mix all the ingredients together in a small mixing bowl."
+        },
+        {
+            "step_number" : 16,
+            "step_description" : "Serve the burgers in a bun, with caramelised onion. vegan cheese, tomatoes, lettuce, burger sauce, & ketchup."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Burger Patties",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Red Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Celery Sticks",
+            "amount": ,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Mushrooms",
+            "amount": 120,
+            "unit": "Grams",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Stock",
+            "amount": 1.25,
+            "unit": "Cup",
+            "preparation": "Hot"
+        },
+        {
+            "name": "Black Beans",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Tomato Puree",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Soy Sauce",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Balsamic Vinegar",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Miso Paste",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Smoked Paprika",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Dried Mixed Herbs",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic Powder",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Chili Flakes",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Black Pepper",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Liquid Smoke",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Vital Wheat Gluten",
+            "amount": 2.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Burger Sauce",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan Mayo",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Ketchup",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "English Mustard",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Gherkins",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Finely Chopped"
+        },
+        {
+            "name": "Onion",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": "Finely Diced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Tabasco",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Burger Garnish",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Burger Buns",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Lettuce",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Caramelised Onions",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Tomato",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan Cheese",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
