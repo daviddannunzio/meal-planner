@@ -1,0 +1,115 @@
+{
+    "name" : "Cookie & Kate Anything-Goes Kale Salad with Green Tahini Dressing",
+    "meat" : "VEGAN",
+    "website" : "https://cookieandkate.com/anything-goes-kale-salad-with-green-tahini-dressing/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "To prepare the kale (skip this step if you’re using any other kind of fresh green), first use a sharp chef’s knife to remove the center ribs from the kale, then discard the ribs. Chop the kale into small, bite-sized pieces. Then, sprinkle the kale lightly with salt, and massage the kale by scrunching handfuls at a time until the kale is darker in color and fragrant. This step reduces the bitterness in the kale and improves its texture."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a bowl, combine the prepared kale, leftover grains (I like to warm mine a bit in the microwave first), carrot, radishes, toasted pepitas, and/or your toppings of choice."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "To make the dressing: Combine all of the ingredients in a blender or food processor and blend until smooth, pausing to scrape down the sides as necessary. Taste, and blend in additional salt if the dressing needs a little more oomph. If you’d like spicier dressing, blend in a pinch of red pepper flakes. If the dressing is too bold for your liking, dilute it with a little more olive oil and blend again."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Drizzle the green tahini dressing generously over the salad (you’ll still have plenty leftover) and enjoy."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Kale",
+            "amount": 0.5,
+            "unit": "Bunch",
+            "preparation": "Tuscan/Lacinato"
+        },
+        {
+            "name": "Leftover Rice",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Carrots",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Julienned"
+        },
+        {
+            "name": "Radish",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Sunflower Seeds",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Other ideas: Cherry Tomatoes, Avocado, Bell Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": "3/4 Limes"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 1,
+            "unit": "Handful",
+            "preparation": ""
+        },
+        {
+            "name": "Jalapeño",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Tahini",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Maple",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Salt",
+            "amount": 1,
+            "unit": "Dash",
+            "preparation": ""
+        }
+    ]
+}
