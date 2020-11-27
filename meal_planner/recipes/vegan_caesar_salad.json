@@ -54,6 +54,18 @@
             "preparation": "Shredded"
         },
         {
+            "name": "Chickpeas",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Olives",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
             "name": "Nutritional Yeast",
             "amount": 2,
             "unit": "Tbs",
