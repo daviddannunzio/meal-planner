@@ -1,0 +1,95 @@
+{
+    "name" : "Green Kitchen Stories: Indian Lentil Soup",
+    "meat" : "VEGAN",
+    "website" : "https://greenkitchenstories.com/indian-lentil-soup/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Prepare the vegetables. Heat the olive oil in a big soup pot. Add onion, garlic, ginger and all the spices. After about a minute add the potatoes, carrots and the lentils, stir it around another minute before adding the vegetable stock. Let it boil on low-medium heat for 30 minutes, stir occasionally, taste the soup and add more salt and spices if needed. Add the tomatoes and let it boil for 5-10 more minutes. The soup is done when the lentils are dissolved. Serve with roasted pumpkin seeds and some fresh coriander."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Serves 4"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "EVOO",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Yellow Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Finely Chopped"
+        },
+        {
+            "name": "Garlic",
+            "amount": 3,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Fresh Ginger",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Finely Chopped"
+        },
+        {
+            "name": "Curry Powder",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Turmeric",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Harissa",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Potatoes",
+            "amount": 3,
+            "unit": "Medium",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Carrots",
+            "amount": 2,
+            "unit": "Sliced",
+            "preparation": ""
+        },
+        {
+            "name": "Red or Yellow Lentils",
+            "amount": 200,
+            "unit": "Grams",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Veggie Stock",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 1,
+            "unit": "Pinch",
+            "preparation": ""
+        },
+        {
+            "name": "Tomato",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Diced"
+        }
+    ]
+}
