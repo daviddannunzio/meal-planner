@@ -1,0 +1,127 @@
+{
+    "name" : "Green Kitchen Stories Beet Bourguignon",
+    "meat" : "VEGAN",
+    "website" : "https://greenkitchenstories.com/beet-bourguignon/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Cooking the stew: Heat the olive oil in a dutch oven or a large cast iron pot over medium heat. Stir in onions and garlic, sauté until soft. Toss beets, carrots, thyme and salt and pepper into the pan, cook for 5 minutes, stirring occasionally. Stir in the tomato paste, red vine, vegetable stock and bay leaves, let simmer on low heat for 40 minutes. Meanwhile prepare the lentils, mushrooms and pearl onions."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Preparing the Puy lentils: Rinse lentils under running water. Bring water to a boil, add lentils and lower to medium heat. Let simmer for 15 to 20 minutes, when almost done add salt. Set aside."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Searing the mushrooms and pearl onion: Heat olive oil in a pan. Lower the heat and sear the portobello, champignon mushrooms and pearl onions, stirring occasionally, until tender and golden in color. Season to taste. Set aside."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Finishing the stew: Taste the stew, add more wine, stock or herbs if you like. If you prefer the stew a little thicker, add arrowroot mixture, but this is optional. Add mushrooms and onions and simmer for 10 more minutes. To serve, spoon the stew over a plate of lentils and sprinkle with fresh thyme."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Yellow Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Beets",
+            "amount": 4,
+            "unit": "",
+            "preparation": "Cut in Quarters"
+        },
+        {
+            "name": "Carrots",
+            "amount": 4,
+            "unit": "",
+            "preparation": "Sliced in Large Pieces"
+        },
+        {
+            "name": "Thyme",
+            "amount": 2,
+            "unit": "Sprigs",
+            "preparation": ""
+        },
+        {
+            "name": "Salt & Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Tomato Paste",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Red Wine",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Stock",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Bay Leaves",
+            "amount": 3,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Cornstarch",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": "In 2 Tbs Water"
+        },
+        {
+            "name": "Puy Lentils",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Portobello",
+            "amount": 4,
+            "unit": "Caps",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Button Mushrooms",
+            "amount": 20,
+            "unit": "",
+            "preparation": "Sliced"
+        }
+    ]
+}
