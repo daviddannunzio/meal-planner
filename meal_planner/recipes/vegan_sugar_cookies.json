@@ -1,0 +1,115 @@
+{
+    "name" : "Minimalist Baker 1-Bowl Vegan Sugar Cookies",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/1-bowl-vegan-sugar-cookies/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Add softened butter to a large mixing bowl and cream with a mixer."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add sugar, brown sugar, vanilla, pumpkin puree, and beat for 1 minute."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Set your sifter over something that will catch fall out and add dry ingredients (flour, cornstarch, salt, baking soda and baking powder). Use a spoon to briefly stir, then sift over butter and sugar mixture."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Mix until until incorporated, being careful not to over mix. Then add almond milk and mix until a soft dough is formed. Switch to a wooden spoon if it gets too thick. If it appears to wet, mix in a bit more flour."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Cover and freeze dough for 15 minutes, or refrigerate for 30-45 minutes (up to overnight)."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Five minutes before baking, preheat your oven to 350 degrees F (176 C) and position a rack in the center of the oven."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Scoop out heaping 1 Tbsp amounts of chilled dough and roll into balls. Alternatively, roll out between two pieces of wax paper, lightly flouring the bottom layer, remove top layer, and cut out shapes. (NOTE: For shapes, to ensure they keep their form while baking, freeze them on the baking sheet for 10 minutes before baking.)"
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Arrange cookies on a clean baking sheet 2 inches apart to allow for spreading. If you’ve rolled the dough into balls, dip a glass into cane sugar and gently smash down into a disc to help them cook more evenly."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Bake on the center rack for 10-12 minutes for (8-10 for cutout shapes // amount as original recipe is written // adjust if altering batch size), or very slightly golden brown."
+        },
+        {
+            "step_number" : 10,
+            "step_description" : "Remove from oven and let rest on pan for a few minutes, then transfer to a cooling rack to cool completely. Prepare frosting in the meantime."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Vegan Butter",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sugar",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Brown Sugar",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Pumpkin Puree",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vanilla",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "All Purpose Flour",
+            "amount": 1.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cornstarch",
+            "amount": 0.5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Powder",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Soda",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Non Dairy Milk",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
