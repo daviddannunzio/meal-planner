@@ -1,0 +1,127 @@
+{
+    "name" : "Minimalist Baker Coconut Curry Ramen",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/coconut-curry-ramen/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Heat a large pot over medium-high heat. Once hot, add oil, garlic, ginger, and onion. Sauté, stirring occasionally for 5-8 minutes or until the onion has developed a slight sear (browned edges)."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add curry paste and sauté for 1-2 minutes more, stirring frequently. Then add vegetable broth and coconut milk and stir to deglaze the bottom of the pan."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Bring to a simmer over medium heat, then reduce heat to low and cover. Simmer on low for at least 1 hour, up to 2-3, stirring occasionally. The longer it cooks, the more the flavor will deepen and develop."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Taste broth and adjust seasonings as needed, adding coconut sugar for a little sweetness, turmeric for more intense curry flavor, or more sesame oil for nuttiness."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "About 10 minutes before serving, prepare any desired toppings/sides, such as noodles, sautéed portobello mushrooms, or green onion (optional)."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Just before serving, scoop out 1/2 cup of the broth and whisk in the miso paste. Once fully dissolved, add back to the pot and turn off the heat. Stir to combine."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Either strain broth through a fine mesh strainer (discarding onions, garlic, and ginger or adding back to the soup) or ladle out the broth and leave the onions, garlic, and ginger behind."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "To serve, divide noodles of choice between serving bowls. Top with broth and desired toppings. Serve with chili garlic sauce or sriracha for added heat."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Best when fresh, though the broth can be stored (separate from sides/toppings) in the refrigerator for up to 5 days or in the freezer for up to 1 month."
+        },
+        {
+            "step_number" : 10,
+            "step_description" : "You can sub sesame oil for coconut, but the sesame adds a nice rich nutty flavor to the ramen that I prefer. Ramen is a popular Japanese dish the originates from China and the addition of coconut milk and curry paste is Thai-inspired. Nutrition information is a rough estimate calculated using brown rice noodles and mushrooms with no additional toppings. If using ramen noodles, this recipe would not be gluten free."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Sesame Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Ginger",
+            "amount": 2,
+            "unit": "Knobs",
+            "preparation": "Sliced Lengthwise"
+        },
+        {
+            "name": "Garlic",
+            "amount": 10,
+            "unit": "Clove",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Onion",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Yellow or Green Curry Paste",
+            "amount": 5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 8,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Light Coconut Milk",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Sugar",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Turmeric",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Miso Paste",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Ramen Noodles",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Portobello",
+            "amount": 4,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Green Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Sliced"
+        }
+    ]
+}
