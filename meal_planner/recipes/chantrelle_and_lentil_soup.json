@@ -1,0 +1,61 @@
+{
+    "name" : "Green Kitchen Stories Chanterelle & Lentil Soup",
+    "meat" : "VEGAN",
+    "website" : "https://greenkitchenstories.com/chanterelle-lentil-soup/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Clean the chanterelles with a soft brush (baking brush or toothbrush), if they are very dirty wash them with a little water and dry well. Slice the stem and the cap lengthwise into large pieces. Prepare the onion, garlic and celery. Heat oil in a large sauce pan on medium heat. Add onion, garlic and celery and fry until fragrant, then add the chanterelle mushrooms and sear for a couple of minutes, stirring occasionally. Add the lentils and broth or water, bring to a boil, then lower the heat and let simmer for 20 minutes or until the lentils and chanterelle are tender, but still with a chewy texture. Seasoning to taste. Serve in bowls and garnish with freshly grated pecorino cheese and finely chopped parsley."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped Finely"
+        },
+        {
+            "name": "Garlic",
+            "amount": 3,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Celery",
+            "amount": 2,
+            "unit": "Stalks",
+            "preparation": "Thinly Sliced"
+        },
+        {
+            "name": "Chantrelles (or mushroom of choice)",
+            "amount": 5,
+            "unit": "Cup",
+            "preparation": "400g"
+        },
+        {
+            "name": "Brown Lentils",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Stock",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Parmesan or Pecorino",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
