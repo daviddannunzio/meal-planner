@@ -1,8 +1,8 @@
 from django.shortcuts import render, redirect
 from django.template import RequestContext
 from meals.models import Recipe, Ingredients, RecipeStep
-from on_startup import load
-from forms import RecipeForm
+from meal_planner.on_startup import load
+from meal_planner.forms import RecipeForm
 
 
 def determine_meat(form, recipes):
