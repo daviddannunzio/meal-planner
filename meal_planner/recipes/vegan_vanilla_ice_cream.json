@@ -1,0 +1,69 @@
+{
+    "name" : "Minimalist Baker Creamy Vegan Vanilla Ice Cream",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/creamy-vegan-vanilla-ice-cream/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "The day before use, place your ice cream churning bowl in the freezer to properly chill."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "To a high-speed blender, add coconut milk, cashew butter, maple syrup, organic cane sugar, vanilla, xanthan gum, and olive or avocado oil (optional). Blend for 1 minute or until completely creamy and smooth, scraping down sides as needed."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Transfer mixture to the refrigerator to chill for ~30 minutes (or up to overnight) or until it’s at least room temperature or cooler (you don’t want to add it to the ice cream maker warm)."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add the slightly chilled mixture to ice cream maker and churn according to manufacturer’s instructions — ours took exactly 30 minutes. It should look like thick soft serve (see photo)."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Once churned, transfer the ice cream to a large freezer-safe container and smooth with a spoon. Top with parchment paper and freeze for at least 2 hours or until firm."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Set out for 10-15 minutes before serving to soften slightly. Store in the freezer well covered for up to 1 month."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Coconut Milk",
+            "amount": 2,
+            "unit": "Can",
+            "preparation": ""
+        },
+        {
+            "name": "Cashew Butter",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Maple or Agave",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sugar",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vanilla Extract",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
