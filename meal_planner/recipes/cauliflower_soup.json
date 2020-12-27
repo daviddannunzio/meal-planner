@@ -1,0 +1,95 @@
+{
+    "name" : "Cookie & Kate: Creamy Roasted Cauliflower Soup",
+    "meat" : "VEGAN",
+    "website" : "https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat the oven to 425 degrees Fahrenheit. If desired, line a large, rimmed baking sheet with parchment paper for easy cleanup."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "On the baking sheet, toss the cauliflower with 2 tablespoons of the olive oil until lightly and evenly coated in oil. Arrange the cauliflower in a single layer and sprinkle lightly with salt. Bake until the cauliflower is tender and caramelized on the edges, 25 to 35 minutes, tossing halfway."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Once the cauliflower is almost done, in a Dutch oven or soup pot, warm the remaining 1 tablespoon olive oil over medium heat until shimmering. Add the onion and ¼ teaspoon salt. Cook, stirring occasionally, until the onion is softened and turning translucent, 5 to 7 minutes."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add the garlic and cook, stirring constantly, until fragrant, about 30 seconds, then add the broth."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Reserve 4 of the prettiest roasted cauliflower florets for garnish. Then transfer the remaining cauliflower to the pot. Increase the heat to medium-high and bring the mixture to a simmer, then reduce the heat as necessary to maintain a gentle simmer. Cook, stirring occasionally, for 20 minutes, to give the flavors time to meld."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Once the soup is done cooking, remove the pot from the heat and let it cool for a few minutes. Then, carefully transfer the hot soup to a blender, working in batches if necessary. (Do not fill past the maximum fill line or the soup could overflow!)"
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Add the butter and blend until smooth. Add the lemon juice and nutmeg and blend again. Add additional salt, to taste (I usually add another ¼ to ¾ teaspoon, depending on the broth). This soup tastes amazing once it’s properly salted! You can also a little more lemon juice, if it needs more zing. Blend again."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Top individual bowls of soup with 1 roasted cauliflower floret and a sprinkle of chopped parsley, green onion and/or chives. This soup keeps well in the refrigerator, covered, for about four days, or for several months in the freezer."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Cauliflower",
+            "amount": 1,
+            "unit": "Head",
+            "preparation": "Cut into Florets"
+        },
+        {
+            "name": "EVOO",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Red Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan Butter",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Nutmeg",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Parsley",
+            "amount": 1,
+            "unit": "Bunch",
+            "preparation": "For Garnish"
+        }
+    ]
+}
