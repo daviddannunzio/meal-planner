@@ -1,0 +1,99 @@
+{
+    "name" : "Green Kitchen Stories Spinach & Kale Soup",
+    "meat" : "VEGAN",
+    "website" : "https://greenkitchenstories.com/spinach-kale-soup/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preparing the soup: Heat oil in large saucepan. Add onion, garlic and chili, lower the heat and let stir for a couple of minutes or until softened. Stir occasionally. Stir in spinach, kale and nutmeg and gently cook for 1 minute. Then add water or broth and cook for 20 more minutes until the spinach and kale has completely wilted down. Season to taste. Serve as it is or blend it silky smooth, both ways are delicious."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Preparing the Chickpeas: Whisk tahini, oil and lemon juice together in a mixing bowl. Add parsley, salt and pepper and stir to combine. Add the chickpeas and mix it all up with your hands, make sure every single chickpea is coated."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Serving: Serve the soup in bowls with a dollop of yogurt and a couple of spoonfuls of Tahini Dressed Chickpeas."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Chili Flakes",
+            "amount": 1,
+            "unit": "Pinch",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh or thawed Spinach",
+            "amount": 500,
+            "unit": "grams",
+            "preparation": ""
+        },
+        {
+            "name": "Kale",
+            "amount": 300,
+            "unit": "grams",
+            "preparation": "Stems Removed"
+        },
+        {
+            "name": "Nutmeg",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Tahini",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 1,
+            "unit": "Lemon",
+            "preparation": ""
+        },
+        {
+            "name": "Flat Leaf Parsley",
+            "amount": 1,
+            "unit": "Handful",
+            "preparation": "Finely Chopped"
+        },
+        {
+            "name": "Chickpeas",
+            "amount": 600,
+            "unit": "grams",
+            "preparation": ""
+        }
+    ]
+}
