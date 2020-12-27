@@ -1,0 +1,83 @@
+{
+    "name" : "Green Kitchen Stories Mushroom Soup",
+    "meat" : "VEGAN",
+    "website" : "https://greenkitchenstories.com/mushroom-soup-avo-toast/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Cooking the rice: Rinse the rice well in water and drain. Place in a saucepan with the 2 cups of water. Bring to a boil, immediately lower the heat to a bare simmer, let simmer for 45 minutes or until tender. Add salt towards the end of the cooking time. Drain any excess water. Meanwhile make the soup."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Making the soup: Finely chop garlic cloves and slice the mushrooms. Heat oil in a large saucepan and add garlic and cook until fragrant but not browned. Add mushrooms and herbs and cook for about 5-8 minutes until soft and slightly browned, stirring occasionally. Reserve some of the cooked mushroom slices for serving. Add a glug of wine to the saucepan and cook for a few minutes. Now add water, bouillon, salt and pepper. Cover with a lid and bring to a simmer. Use an immersion (hand) blender to mix the soup until completely smooth (or a stand-blender). Season to taste. Serve in bowls with a spoonful of cooked rice, some mushroom slices, fresh parsley, olive oil, a dollop of yogurt if using, and an avocado toast."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Uncooked Red Rice",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Coco Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": ""
+        },
+        {
+            "name": "Thyme",
+            "amount": 2,
+            "unit": "Sprigs",
+            "preparation": ""
+        },
+        {
+            "name": "Rosemary",
+            "amount": 2,
+            "unit": "Sprigs",
+            "preparation": ""
+        },
+        {
+            "name": "Portobello",
+            "amount": 4,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Button Mushroom",
+            "amount": 8,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "White Wine",
+            "amount": 1,
+            "unit": "Glug",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Stock",
+            "amount": 3,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Parsley",
+            "amount": 1,
+            "unit": "Handful",
+            "preparation": "For Garnish"
+        }
+    ]
+}
