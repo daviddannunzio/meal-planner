@@ -1,0 +1,111 @@
+{
+    "name" : "Vegan For Everybody: Thai Coconut Soup with Tofu",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Heat oil in Dutch oven over medium heat until shimmering. Add mushrooms, lemon grass, ginger, and garlic and cook, stirring constantly, until fragrant, about 30 seconds. Add curry paste and cook, stirring constantly, until fragrant, about 30 seconds. Whisk 1/2 cup broth into pot, scraping up any browned bits and smoothing out any lumps."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Stir in remaining 5.5 cups broth, fish sauce substitute, and sugar and bring to boil. Reduce heat to low and simmer, partially covered, for 20 minutes."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Stir in coconut milk, tofu, snow peas, and lime juice and bring to simmer. Cook until tofu is warmed through and snow peas are just tender, about 5 minutes. Season with salt and pepper to taste, and serve with cilantro, scallions, and lime wedges."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Veggie Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Shiitake Mushrooms",
+            "amount": 4,
+            "unit": "oz",
+            "preparation": "Cut into 1/2 inch pieces"
+        },
+        {
+            "name": "Lemon Grass",
+            "amount": 2,
+            "unit": "Stalks",
+            "preparation": "Trimmed to bottom 6in and minced (3Tbs)"
+        },
+        {
+            "name": "Fresh Ginger",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Thai Red Curry Paste",
+            "amount": 4,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 6,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Fish Sauce Substitute",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Organic Sugar",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Milk",
+            "amount": 2,
+            "unit": "14oz Can",
+            "preparation": ""
+        },
+        {
+            "name": "Extra Firm Tofu",
+            "amount": 14,
+            "unit": "oz",
+            "preparation": "Cut into 1/2 inch pieces"
+        },
+        {
+            "name": "Snow Peas",
+            "amount": 6,
+            "unit": "oz",
+            "preparation": "Cut into 1/2 inch pieces"
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": "(2 limes)"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Scallions",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Sliced on bias"
+        }
+    ]
+}
