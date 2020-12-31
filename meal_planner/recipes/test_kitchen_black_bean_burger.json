@@ -1,0 +1,107 @@
+{
+    "name" : "Vegan For Everybody: Black Bean Burgers",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Line rimmed baking sheet with triple layer of paper towels, spread beans over towels, and let sit for 15 minutes."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Whisk reserved bean liquid and flour in large bowl until well combined and smooth. Stir in scallions; cilantro; garlic; cumin; hot sauce, if using; coriander; salt; and pepper until well combined. Process tortilla chips in food processor until finely ground, about 30 seconds. Add black beans and pulse until beans are coarsely ground, about 5 pulses. Transfer bean mixture to bowl with flour mixture and mix until well combined."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Adjust oven rack to middle position and heat oven to 200 degrees. Divide mixture into 6 equal portions and pack firmly into 3.5 inch wide patties."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Heat 1 tablespoon oil in 10-inch nonstick skillet over medium heat until shimmering. Gently lay 3 patties in skillet and cook until crisp and well browned on first side, about 5 minutes. Gently flip patties, add 1 tablespoon oil, and cook until crisp and well browned on second side, 3 to 5 minutes."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Transfer burgers to wire rack set in rimmed baking sheet and place in oven to keep warm. Wipe out skillet with paper towels and repeat with remaining 2 tablespoons oil and remaining patties. Transfer to buns and serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Black Beans",
+            "amount": 2,
+            "unit": "15oz cans",
+            "preparation": "Rinsed, reserve 6Tbs bean liquid"
+        },
+        {
+            "name": "All Purpose Flour",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Scallions",
+            "amount": 4,
+            "unit": "",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Cumin",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Hot Sauce",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Coriander",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Pepper",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Tortilla Chips",
+            "amount": 1,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Oil",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Burger Buns",
+            "amount": 6,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
