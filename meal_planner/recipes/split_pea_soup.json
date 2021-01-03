@@ -1,0 +1,131 @@
+{
+    "name" : "Kathy's Vegan Kitchen: Crockpot Split Pea Soup",
+    "meat" : "VEGAN",
+    "website" : "https://www.kathysvegankitchen.com/crockpot-split-pea-soup/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Add all ingredients to the base of the crockpot and stir"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Cover and cook for 8 hours on LOW or 4 hours on HIGH"
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Taste and adjust spices to taste"
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Serve with a sprig of thyme on top"
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Makes ~10 servings"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Veggie Broth",
+            "amount": 8,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Dried Split Peas",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced Small"
+        },
+        {
+            "name": "Carrots",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Diced Small"
+        },
+        {
+            "name": "Celery Stalks",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Diced Small"
+        },
+        {
+            "name": "Jalapeño",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced Small"
+        },
+        {
+            "name": "Baking Potatoes",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Diced Small"
+        },
+        {
+            "name": "Garlic",
+            "amount": 3,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Liquid Smoke",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic Powder",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Onion Powder",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Thyme Sprigs",
+            "amount": 6,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Red Pepper Flakes",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Pepper",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Paprika",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Bay Leaf",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
