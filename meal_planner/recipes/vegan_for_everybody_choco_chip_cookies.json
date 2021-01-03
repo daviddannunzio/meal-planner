@@ -1,0 +1,89 @@
+{
+    "name" : "Vegan For Everybody: Chocolate Chip Cookies",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Whisk flour, baking powder, baking soda, and salt together in a bowl. Whish sugar, melted oil, water, almond butter, and vanilla in a large bowl until well combined and smooth. Using rubber spatula, stir flour mixture into oil mixture until just combined; fold in chocolate chips."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Cover bowl with plastic wrap and let rest at room temp for at least 1 hour or up to 4 hours. (Dough can be refrigerated for up to 24 hours; let sit at room temp for 30 minutes before portioning.)"
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Adjust oven rack to middle position and heat oven to 350 degrees. Line 2 rimmed baking sheets with parchment paper. Divide dough into 16 portions, each about 3 Tablespoons, then arrange dough mounds 2 inches apart on prepared sheets."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Bake, 1 sheet at a time until light golden and edges have begun to set but centers are still soft, 12 to 14 minutes, rotating sheet halfway through baking. Let cookies cool completely on sheet. Serve. (Cookies can be stored at room temp for up to 3 days)"
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "OATMEAL VARIATION: Adjust oven rack to middle position and heat oven to 350. Spread 1 and 1/4 cups old-fashioned rolled oats on rimmed baking sheet and bake until fragrant and lightly browned, about 10 minutes, stirring halfway through baking; let cool complete. Reduce flour to 1 and 2/3 cups and chocolate chips to 3/4 cup. Fold oats into dough with chocolate chips in step 1."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "All Purpose Flour",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": "10oz"
+        },
+        {
+            "name": "Baking Powder",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Soda",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Organic Light Brown Sugar",
+            "amount": 1.33,
+            "unit": "Cup",
+            "preparation": "9.33oz"
+        },
+        {
+            "name": "Coconut Oil",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Melted & Cooled"
+        },
+        {
+            "name": "Water",
+            "amount": 6,
+            "unit": "Tbs",
+            "preparation": "Room Temp"
+        },
+        {
+            "name": "Unsalted Creamy Almond Butter",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vanilla",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chocolate Chips",
+            "amount": 1.25,
+            "unit": "Cup",
+            "preparation": "7.5oz"
+        }
+    ]
+}
