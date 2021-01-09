@@ -1,0 +1,99 @@
+{
+    "name" : "Vegan For Everybody: Pinto Bean-Beet Burgers",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 8"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Bring 1.5 cup water and 1/2 tsp salt to boil in small saucepan. Off heat, stir in bulgur, cover, and let stand until tender, 15 to 20 minutes. Drain bulgur, spread onto rimmed baking sheet, and let cool slightly"
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Meanwhile, pulse beet, walnuts, basil, and garlic in food processor until finely chopped, about 12 pulses, scraping down sides of bowl as needed. Add beans, carrot baby food, 2 tablespoons water, mustard, 1.5 teaspoons salt, and 1/2 teaspoon pepper and pulse until well combined, about 8 pulses. Transfer mixture to large bowl and stir in panko and cooled bulgur."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Adjust oven rack to middle position and heat oven to 200 degrees. Divide mixture into 8 equal portions and pack in 3.5 inch-wide patties."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Heat 3 tablespoons oil in 12-inch nonstick skillet over medium-high heat until shimmering. Gently lay 4 patties in skillet and cook until crisp and well browned on first side, about 4 minutes. Gently flip patties and cook until crisp and well browned on second side, about 4 minutes, adding extra oil if skillet looks dry."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Transfer burgers to wire rack set in rimmed backing sheet and place in oven to keep warm. Wipe out skillet with paper towels and repeat with remaining 3 tablespoons oil and remaining patties, Transfer to buns and serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Medium-Grind Bulgur",
+            "amount": 0.66,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Beet",
+            "amount": 9,
+            "unit": "oz",
+            "preparation": "Shredded"
+        },
+        {
+            "name": "Walnuts",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh Basil",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Pinto Beans",
+            "amount": 1,
+            "unit": "15oz Can",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Carrot Baby Food",
+            "amount": 1,
+            "unit": "4oz Jar",
+            "preparation": ""
+        },
+        {
+            "name": "Whole-Grain Mustard",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Panko",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Oil",
+            "amount": 6,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Burger Buns",
+            "amount": 8,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
