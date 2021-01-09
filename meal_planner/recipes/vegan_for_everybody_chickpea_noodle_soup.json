@@ -1,0 +1,91 @@
+{
+    "name" : "Vegan For Everybody: Chickpea Noodle Soup",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 6"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Heat oil in Dutch oven over medium heat until shimmering. Add onion, carrots, celery, and 1/4 teaspoon pepper and cook, stirring occasionally, until softened, 5 to 7 minutes. Stir in nutritional yeast, thyme, and bay leaves and cook until fragrant, about 30 seconds."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Stir in broth and chickpeas and bring to boil. Reduce heat to medium-low and simmer, partially covered, until flavors meld, about 10 minutes."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Stir in pasta, increase heat to medium-high, and boil until just tender, about 10 minutes. Off heat, discard bay leaves and stir in parsley. Season with salt and pepper to taste, and serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Veggie Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped Fine"
+        },
+        {
+            "name": "Carrot",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Peeled and sliced 1/4 inch"
+        },
+        {
+            "name": "Celery Rib",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Peeled and sliced 1/4 inch"
+        },
+        {
+            "name": "Nutritional Yeast",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh thyme",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": "Or 3/4 tsp dried"
+        },
+        {
+            "name": "Bay Leaves",
+            "amount": 2,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 6,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Chickpeas",
+            "amount": 2,
+            "unit": "Cans",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Ditalini Pasta",
+            "amount": 6,
+            "unit": "oz",
+            "preparation": "1.5 cup"
+        },
+        {
+            "name": "Fresh Parsley",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Minced"
+        }
+    ]
+}
