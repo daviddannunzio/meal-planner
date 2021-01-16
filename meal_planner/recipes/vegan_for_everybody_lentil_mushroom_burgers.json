@@ -1,0 +1,101 @@
+{
+    "name" : "Vegan For Everybody: Lentil and Mushroom Burgers",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 12. NOTE: I cut this in half and it worked great"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Bring 3 cups water, lentils, and 1 teaspoon salt to boil in medium saucepan over high heat. Reduce heat to medium-low and simmer until lentils just begin to fall apart, about 25 minutes. Drain lentils, transfer to paper towel-lined baking sheet and pat dry."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Meanwhile, heat 2 tablespoons oil in 12-inch nonstick skillet over medium heat until shimmering. Add mushrooms and cook until golden, about 12 minutes. Stir in onions, celery, leek, and garlic, and cook until browned, 10 to 15 minutes. Transfer to sheet with lentils and let cool completely, about 30 minutes."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Combine 2 cups water, bulgur, and 1/4 tsp salt in large bowl and microwave, covered, until softened, about 5 minutes. Drain bulgur in fine-mesh strainer and press with rubber spatula to remove excess moisture, let cool slightly. Pulse cashews in food processor until finely ground, about 25 pulses."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Combine lentil mixture, bulgur, ground cashews, and aquafaba in bowl. Pulse half of bulgur mixture in now-empty food processor until coarsely ground but cohesive, about 15 pulses. Transfer mixture to large bowl. Repeat with remaining bulgur mixture and transfer to bowl. Stir in panko and 1 tsp salt. Note if cutting recipe in half, this can be done in one fell swoop."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Adjust oven rack to middle position and heat oven to 200 degrees. Divide mixture into 12 equal portions and pack into 4-inch-wide patties."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Heat 2 tablespoons oil in now-empty skillet over medium heat until shimmering. Gently lay 4 patties in skillet and cook until crisp and well browned on first side, about 4 minutes. Gently flip patties and cook until crisp, and well browned on second side, about 4 minutes, adding extra oil if skillet looks dry."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Transfer burgers to wire rack set in rimmed baking sheet and place in oven to keep warm. Wipe out skillet with paper towels and repeat in 2 batches with remaining oil and remaining patties. Transfer to buns and serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Brown lentils",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Veggie Oil",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cremini (baby bella) mushrooms",
+            "amount": 1,
+            "unit": "Lb",
+            "preparation": "Trimmed and Sliced Thin"
+        },
+        {
+            "name": "Onion",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Chopped Fine"
+        },
+        {
+            "name": "Celery Rib",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Small Leek",
+            "amount": 1,
+            "unit": "",
+            "preparation": "White and light green parts only, chopped fine and washed thoroughly (~1/2 cup)"
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Medium-Grind Bulgur",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Aquafaba",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Panko Bread Crumbs",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
