@@ -1,0 +1,101 @@
+{
+    "name" : "Vegan For Everybody: Tofu Banh Mi",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 4"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Spread tofu on paper towel-lined baking sheet and let drain for 20 minutes. Gently press dry with paper towels and season with salt and pepper."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Meanwhile, combine carrots, cucumbers, lime juice, and fish sauce substitute in bowl and let sit for 15 minutes. Whisk mayonnaise, Sriracha, and lime zest together in second bowl."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Spread cornstarch in a shallow dish. Dredge seasoned tofu in cornstarch and transfer to plate. Heat oil in 12-inch nonstick skillet over medium-high heat until just smoking. Add tofu and cook until crisp and browned, about 4 minutes per side; transfer to paper towel-lined plate."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Spread mayonnaise mixture evenly over cut sides of each roll. Layer tofu, pickled vegetables (leave liquid in the bowl), and cilantro evenly in rolls. Press gently on sandwiches to set. Serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Firm Tofu",
+            "amount": 14,
+            "unit": "oz",
+            "preparation": "Sliced crosswise into 1/2 inch slices"
+        },
+        {
+            "name": "Carrots",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Peeled and Shredded"
+        },
+        {
+            "name": "Cucumber",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": "Peeled, halved lengthwise, seeded, sliced thin"
+        },
+        {
+            "name": "Lime Zest",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Fish Sauce Substitute",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan Mayo",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sriracha",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Cornstarch",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Oil",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Italian Rolls",
+            "amount": 4,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Cilantro",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
