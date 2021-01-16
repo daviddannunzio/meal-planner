@@ -1,0 +1,67 @@
+{
+    "name" : "Minimalist Baker Cheesy Baked Potato Fries",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/cheesy-chili-baked-potato-fries-oil-free/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 425 degrees F (218 C) and line two (or more as needed) baking sheets with parchment paper."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Slice potatoes into small wedges about 1/4- to 1/2-inch wide. Place in a steamer basket or large colander set over a pot of boiling water. Cover and then steam approximately 5 minutes until slightly tender but not cooked."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Transfer to baking sheets and top with nutritional yeast, chili powder, garlic powder, sea salt, cayenne pepper (optional), and any other desired seasonings (see photo). Toss gently to coat."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Arrange in an even layer on baking sheet, trying not to overlap, so that fries can get crispy. The more room they have, the crispier they will become. Use two baking sheets if needed."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Bake for 15 minutes. Then remove from oven and increase heat to 450 degrees F (232 C). Flip to ensure even baking on both sides and bake for an additional 10-15 minutes or until crispy and golden brown."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Serve hot! They're delicious as is, but they're elevated tossed in fresh herbs and garlic (optional) and served with ketchup or guacamole. Best fresh. Store leftovers covered in the refrigerator up to 4 days. Reheat in a 375-degree F (190 C) oven until hot."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Serves 6. Note I cut this in half and that was fine!"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Yellow or Russet Potatoes",
+            "amount": 3,
+            "unit": "Lb",
+            "preparation": ""
+        },
+        {
+            "name": "Nutritional Yeast",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Chili Powder",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic Powder",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cayenne",
+            "amount": 1,
+            "unit": "Dash",
+            "preparation": ""
+        }
+    ]
+}
