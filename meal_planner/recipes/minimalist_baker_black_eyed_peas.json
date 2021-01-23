@@ -1,0 +1,109 @@
+{
+    "name" : "Minimalist Baker: Smoky Instant Pot Black Eyed Peas & Greens",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/smoky-instant-pot-black-eyed-peas-greens-vegan/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 4"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Press “SAUTE” on the Instant Pot. See instructions below if you don't have an Instant Pot. Once hot, add oil and onion and sauté for 4-5 minutes, stirring occasionally, until onion is tender and translucent."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add bell pepper and minced garlic and sauté for 1 additional minute, then press “CANCEL”."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add all remaining ingredients except collard greens and stir to combine. Then top with collard greens, but don’t stir (this helps keep the beans submerged in the liquid rather than some winding up on top of the greens)."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Cover with lid, press “PRESSURE COOK”, and cook on high for 17 minutes. Allow to naturally release pressure for 15 minutes, then manually release any remaining pressure."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Remove bay leaves and stir. Taste and adjust seasonings as needed, adding more paprika and/or liquid smoke for smokiness, cayenne pepper for heat, salt to taste, or coconut aminos for depth of flavor. We added a bit more of each!"
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Serve beans and greens on their own, over rice, baked/roasted sweet potato, or with cornbread (linked above). Store leftovers covered in the refrigerator up to 3-4 days, or in the freezer for 1 month."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Avocado/EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Yellow Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Red Bell Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 3,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Dry Black Eyed Peas",
+            "amount": 1.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 3.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Bay Leaves",
+            "amount": 2,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Smoked Paprika",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cayenne",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Aminos",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Liquid Smoke",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Collard Greens",
+            "amount": 1,
+            "unit": "Bunch",
+            "preparation": "Chopped"
+        }
+    ]
+}
