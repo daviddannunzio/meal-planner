@@ -1,0 +1,113 @@
+{
+    "name" : "Vegan For Everybody: Baja-Style Cauliflower Tacos",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 4 to 6"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Adjust oven rack to middle position and heat oven to 450 degrees. Combine coleslaw mix, mango, cilantro, lime juice, jalapeño, and 1/4 tsp salt in bowl, cover, and refrigerate."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Spray rimmed baking sheet with veggie oil spray. Combine coconut and panko in shallow dish. Whisk coconut milk, garlic powder, cumin, cayenne, and 1 tsp salt together in bowl. Add cauliflower to coconut milk mixture; toss to coat well. Working with 1 piece cauliflower at a time, remove from coconut milk, letting excess drip back into bowl, then coat well with coconut-panko mixture, pressing gently to adhere; transfer to prepared sheet."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Bake until cauliflower is tender, golden, and crisp, 20 to 25 minutes, flipping cauliflower and rotating sheet halfway through baking."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Divide slaw evenly among warm tortillas and top with cauliflower. Drizzle with cilantro sauce and serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Coleslaw mix",
+            "amount": 3,
+            "unit": "Cup",
+            "preparation": "7.5oz"
+        },
+        {
+            "name": "Mango",
+            "amount": 0.5,
+            "unit": "",
+            "preparation": "Peeled and cut into 1/4 inch pieces"
+        },
+        {
+            "name": "Cilantro",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Jalapeño",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Unsweetened Shredded Coconut",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Panko",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Milk",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic Powder",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Ground Cumin",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cayenne",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cauliflower",
+            "amount": 0.5,
+            "unit": "Head",
+            "preparation": "Trimmed"
+        },
+        {
+            "name": "Corn Tortillas",
+            "amount": 12,
+            "unit": "",
+            "preparation": "Warmed"
+        },
+        {
+            "name": "Vegan For Everybody: Cilantro Sauce",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
