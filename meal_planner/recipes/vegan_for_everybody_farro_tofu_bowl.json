@@ -1,0 +1,109 @@
+{
+    "name" : "Vegan For Everybody: Farro Bowl with Tofu, Mushrooms, and Spinach",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 4 to 6."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Bring 4 quarts water to boil in large pot. Stir in farro and 1 tablespoon salt, return to boil, and cook until grains are tender with slight chew, 15 to 30 minutes. Drain farro and return to now-empty pot. Drizzle with sesame oil and vinegar, toss to coat, and cover to keep warm."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "While farro cooks, spread tofu on paper towel-lined baking sheet and let drain for 20 minutes. Gently press dry with paper towels and season with salt and pepper."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Spread cornstarch in shallow dish. Coat tofu thoroughly in cornstarch, pressing gently to adhere; transfer to plate. Heat 1 tablespoon veggie oil in 12-inch nonstick skillet over medium-high heat until just smoking. Add tofu and cook until both sides are crisp and browned, about 4 minutes per side, adding more oil as necessary to prevent charring. Transfer to paper towel-lined plate to drain and tent with aluminum foil."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "In now-empty skillet, heat 2 tablespoons veggie oil over medium-high heat until shimmering. Stir in mushrooms, shallot and 1/8 teaspoon salt and cook until vegetables begin to brown, 5 to 8 minutes. Stir in sherry and cook, scraping up any browned bits, until skillet is nearly dry, about 1 minute; transfer to bowl."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Heat remaining 1 tablespoon veggie oil over medium-high heat in now-empty skillet until shimmering. Add spinach, 1 handful at a time, and cook until just wilted, about 1 minute."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Divide farro among invdividual bowls, then top with tofu, mushrooms, and spinach. Drizzle with miso-ginger sauce, sprinkle with scallions, and serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Whole Farro",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Toasted Sesame Oil",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Sherry Vinegar",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Firm Tofu",
+            "amount": 14,
+            "unit": "oz",
+            "preparation": "Sliced into 8 equal slabs"
+        },
+        {
+            "name": "Cornstarch",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Oil",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cremini Mushrooms",
+            "amount": 10,
+            "unit": "oz",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Shallot",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Dry Sherry",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Baby Spinach",
+            "amount": 10,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan for Everybody: Miso-Ginger Sauce",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Scallions",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Sliced Thin"
+        },
+    ]
+}
