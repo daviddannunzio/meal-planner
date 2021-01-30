@@ -1,5 +1,5 @@
 {
-    "name" : "Vegan For Everybody: Cilantro Sauce",
+    "name" : "Vegan For Everybody: Miso Ginger Sauce",
     "meat" : "VEGAN",
     "website" : "",
     "steps" : [
@@ -16,28 +16,40 @@
             "preparation": ""
         },
         {
-            "name": "Vegan Sour Cream",
-            "amount": 0.25,
-            "unit": "Cup",
+            "name": "Red Miso",
+            "amount": 3,
+            "unit": "Tbs",
             "preparation": ""
         },
         {
             "name": "Water",
-            "amount": 3,
+            "amount": 2,
             "unit": "Tbs",
             "preparation": ""
         },
         {
-            "name": "Fresh Cilantro",
-            "amount": 3,
+            "name": "Maple Syrup",
+            "amount": 1,
             "unit": "Tbs",
-            "preparation": "Minced"
+            "preparation": ""
         },
         {
-            "name": "Salt",
-            "amount": 0.25,
+            "name": "Sesame Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Sherry Vinegar",
+            "amount": 1.5,
             "unit": "tsp",
             "preparation": ""
+        },
+        {
+            "name": "Fresh Ginger",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": "Grated"
         }
     ]
 }
