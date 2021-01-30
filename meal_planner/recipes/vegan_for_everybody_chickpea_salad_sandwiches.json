@@ -1,0 +1,91 @@
+{
+    "name" : "Vegan For Everybody: Chickpea Salad Sandwiches",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 6"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Process 3/4 cup chickpeas, mayonnaise, water, lemon juice, and 1/2 tsp salt in food processor until smooth, about 30 seconds, scraping down sides of bowl as needed."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add remaining chickpeas to food processor and pulse until coarsely chopped with some larger pieces remaining, about 4 pulses."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Combine chickpea mixture, celery, pickles, scallions, and parsley in large bowl and season with salt and pepper to taste. Spread chickpea salad evenly over 6 bread slices. Top with remaining bread slices and serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Chickpeas",
+            "amount": 2,
+            "unit": "Cans",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Vegan Mayo",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Celery",
+            "amount": 2,
+            "unit": "Ribs",
+            "preparation": "Finely Chopped"
+        },
+        {
+            "name": "Dill Pickles",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": "Finely Chopped"
+        },
+        {
+            "name": "Scallions",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Sliced Thin"
+        },
+        {
+            "name": "Parsley",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Multigrain Bread",
+            "amount": 1,
+            "unit": "Loaf",
+            "preparation": ""
+        },
+        {
+            "name": "Tomato",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Greens",
+            "amount": 1,
+            "unit": "Bunch",
+            "preparation": ""
+        }
+    ]
+}
