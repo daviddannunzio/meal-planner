@@ -1,0 +1,101 @@
+{
+    "name" : "Vegan For Everybody: Barley Bowl with Roasted Carrots and Snow Peas",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 4 to 6"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Whisk 2.5 tablespoons oil, 2 tablespoons mint, and lemon zest and juice together in large bowl, set aside. Bring 4 quarts water to boil in large pot. Add barley and 1 tablespoon salt, return to boil, and cook until tender, 20 to 40 minutes. Drain barley, transfer to bowl with lemon-mint mixture, and toss to combine. Season with salt and pepper to taste and cover to keep warm."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "While barley cooks, halve carrots crosswise, then halve or quarter lengthwise to create uniformly sized pieces. Heat 1 tablespoon oil in 12-inch nonstick skillet over medium-high heat until just smoking. Add carrots and 1/2 teaspoon coriander and cook, stirring occasionally until lightly charred and just tender, 5 to 7 minutes. Stir in snow peas and cook until spotty brown, 3 to 5 minutes; transfer to second bowl."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Heat remaining 1.5 teaspoons oil in now-empty skillet over medium heat until shimmering. Add sunflower seeds, cumin, cardamom, remaining 1/4 teaspoon coriander, and 1/4 teaspoon salt. Cook, stirring constantly, until seeds are toasted, about 2 minutes; transfer to third bowl."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Divide barley among individual bowls, then top with carrot-snow pea mixture and sunflower seeds. Drizzle with tahini sauce, sprinkle with remaining 1 tablespoon mint, and serve."
+        }
+    ]
+    "ingredients" : [
+        {
+            "name": "EVOO",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh Mint",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Lemon Zest",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Pearl Barley",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Carrots",
+            "amount": 5,
+            "unit": "",
+            "preparation": "Peeled"
+        },
+        {
+            "name": "Ground Coriander",
+            "amount": 0.75,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Snow Peas",
+            "amount": 8,
+            "unit": "oz",
+            "preparation": "Strings removed, halved lengthwise"
+        },
+        {
+            "name": "Raw Sunflower Seeds",
+            "amount": 0.66,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Ground Cumin",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Ground Cardamom",
+            "amount": 0.125,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan For Everybody: Tahini Sauce",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}

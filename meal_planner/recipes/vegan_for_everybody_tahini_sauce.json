@@ -1,0 +1,37 @@
+{
+    "name" : "Vegan For Everybody: Tahini Sauce",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Whisk tahini, water, lemon juice, and garlic in bowl until smooth. Season with salt to taste. Sauce can be refrigerated up to 4 days. Bring to room temp and stir to combine before serving."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Tahini",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        }
+    ]
+}
