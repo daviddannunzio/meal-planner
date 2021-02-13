@@ -1,0 +1,95 @@
+{
+    "name" : "Vegan For Everybody: Almost Hands-Free Mushroom Risotto",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 6"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Bring broth, water, and miso to boil in large saucepan over high heat; reduce heat to medium-low and simmer, whisking occasionally, until miso is disolved, about 5 minutes. Cover and keep warm over low heat."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Meanwhile, heat 1 Tbs oil in Dutch oven over medium heat until shimmering. Add cremini mushrooms and 1/4 tsp salt, cover, and cook until mushrooms have released their liquid, about 5 minutes. Uncover and continue to cook until well browned, 10 to 12 minutes longer; transfer to bowl."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Heat 2 Tbs oil in now-empty pot over medium heat until shimmering. Stir in onion and 1/4 tsp salt and cook until softened, about 5 minutes. Add garlic and porcini mushrooms and cook until fragrant, about 30 seconds. Add rice and cook, stirring frequently, until grains are translucent around edges, about 3 minutes. Add wine and cook, stirring constantly, until fully absorbed, about 2 minutes. Stir in 5 cups hot broth mixture; reduce heat to medium-low, cover, and simmer until almost all liquid has been absorbed and rice is just al dente, 16 to 19 minutes, stirring twice during cooking."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Add 3/4 cup hot broth mixture and browned cremini mushrooms and stir gently and constantly until risotto becomes creamy, about 3 minutes. Remove pot from heat, cover, and let stand for 5 minutes. Stir in parsley and remaining 1 Tbs oil and season with salt and pepper to taste. Before serving, adjust consistency with additional broth mixture as needed."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Veggie Broth",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 3,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "White Miso",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cremini Mushrooms",
+            "amount": 1,
+            "unit": "lb",
+            "preparation": "Trimmed and sliced 1/4 in thick"
+        },
+        {
+            "name": "Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped Fine"
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Dried Porcini Mushrooms",
+            "amount": 1,
+            "unit": "oz",
+            "preparation": "Rinsed and Minsed"
+        },
+        {
+            "name": "Arborio rice",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Dry White Wine",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Parsley",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
