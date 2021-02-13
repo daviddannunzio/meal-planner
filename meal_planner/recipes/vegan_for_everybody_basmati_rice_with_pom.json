@@ -1,0 +1,107 @@
+{
+    "name" : "Vegan For Everybody: Basmati Rice Bowl with Spiced Cauliflower and Pomegranate",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 4 to 6"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Adjust oven rack to lowest position and heat oven to 475 degrees. Heat 2 tablespoons oil in instant pot on saute until shimmering. Add onion and 1/4 teaspoon salt and cook until softened and lightly browned, 5 to 7 minutes. Stir in rice, garlic, cinnamon, turmeric, and 1/4 teaspoon cumin and cook until edges of rice begin to turn translucent, about 3 minutes."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Stir in 1 and 7/8 cup of water. Pressure cook for 22 minutes and let natural release for 10 minutes."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "While rice cooks, toss cauliflower with remaining 2 tablespoons oil, 1/2 teaspoon salt, 1/2 teaspoon pepper, and remaining 1/4 teaspoon cumin. Spread cauliflower on rimmed baking sheet and roast until just tender, 10 to 15 minutes; set aside."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Divide rice among individual bowls, then top with roasted cauliflower and pomegranate seeds. Drizzle with cilantro sauce, sprinkle with cilantro and mint, and serve."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "EVOO",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped Coarse"
+        },
+        {
+            "name": "Brown Basmati Rice",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Cloves",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Cinnamon",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Turmeric",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 1.875,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cauliflower",
+            "amount": 1,
+            "unit": "Head",
+            "preparation": "2lb"
+        },
+        {
+            "name": "Pomegranate Seeds",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan For Everybody: Cilantro Sauce",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Cilantro",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Mint",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Chopped"
+        }
+    ]
+}

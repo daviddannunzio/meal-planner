@@ -1,42 +1,114 @@
 {
-    "name" : "Vegan For Everybody: Cilantro Sauce",
+    "name" : "Vegan For Everybody: Thai Red Curry with Cauliflower",
     "meat" : "VEGAN",
     "website" : "",
     "steps" : [
         {
             "step_number" : 1,
-            "step_description" : "Whisk all ingredients. Makes about 3/4 cup."
+            "step_description" : "Serves 4"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Whisk coconut milk, fish sauce substitute, sugar, curry paste, lime zest and juice, and pepper flakes together in bowl. Combine 1 teaspoon oil, garlic, and ginger in second bowl."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Heat remaining 2 tablespoons oil in 12-inch nonstick skillet over high heat until shimmering. Add cauliflower, water, and salt, cover, and cook until cauliflower is just tender and translucent, about 5 minutes. Uncover and continue to cook, stirring occasionally, until liquid is evaporated and cauliflower is tender and well browned, 8 to 10 minutes."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Push cauliflower to sides of skillet. Add garlic mixture to center and cook, mashing mixture into pan, until fragrant, about 30 seconds. Stir garlic mixture into cauliflower and reduce heat to medium-high. Whisk coconut milk mixture to recombine, then add to skillet and simmer until slightly thickened, about 4 minutes. Off heat, stir in basil and serve."
         }
     ],
     "ingredients" : [
         {
-            "name": "Vegan Mayo",
-            "amount": 0.25,
-            "unit": "Cup",
+            "name": "Coconut Milk",
+            "amount": 1,
+            "unit": "Can",
             "preparation": ""
         },
         {
-            "name": "Vegan Sour Cream",
-            "amount": 0.25,
-            "unit": "Cup",
+            "name": "Fish Sauce (liquid amino)",
+            "amount": 3,
+            "unit": "Tbs",
             "preparation": ""
+        },
+        {
+            "name": "Light Brown Sugar",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Thai red curry paste",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Zest",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Red Pepper Flakes",
+            "amount": 0.125,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Veggie Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Fresh Ginger",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": "Grated"
+        },
+        {
+            "name": "Cauliflower",
+            "amount": 1,
+            "unit": "Head",
+            "preparation": "3lb"
         },
         {
             "name": "Water",
-            "amount": 3,
-            "unit": "Tbs",
+            "amount": 0.25,
+            "unit": "Cup",
             "preparation": ""
-        },
-        {
-            "name": "Fresh Cilantro",
-            "amount": 3,
-            "unit": "Tbs",
-            "preparation": "Minced"
         },
         {
             "name": "Salt",
             "amount": 0.25,
             "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh Basil",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Torn into 1/2 inch pieces"
+        },
+        {
+            "name": "Snow Peas",
+            "amount": 8,
+            "unit": "oz",
             "preparation": ""
         }
     ]
