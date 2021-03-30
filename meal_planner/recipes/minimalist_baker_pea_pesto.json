@@ -1,0 +1,133 @@
+{
+    "name" : "Minimalist Baker: Pea Pesto Pasta with Sun-Dried Tomatoes & Arugula",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/pea-pesto-pasta-with-sun-dried-tomatoes-arugula-vegan-gf/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Fill a large saucepan 3/4 full with water, salt generously, and bring to a boil."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In the meantime, prepare pesto. To a food processor, add basil, parsley, peas, garlic, pine nuts, lemon juice, vegan parmesan cheese and sea salt. Mix to combine. While the machine is running, stream in olive oil through the spout."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Continue blending, scraping down sides as needed, until creamy and fully combined. If it has trouble blending add a bit more olive oil or water."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Taste and adjust seasonings as needed, adding more lemon juice for acidity/brightness, vegan parmesan for cheesy flavor, salt for saltiness, or peas for sweetness."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Next add pasta to boiling water and cook according to package instructions. Be sure not to overcook, and drain when noodles are ‘al dente’ and still have a slight bite to them. Return to pan off heat and set aside."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Once your pasta is drained, heat a large saucepan or cast iron skillet over medium heat. Once hot, add olive oil, garlic, and sun-dried tomatoes. Sauté for 1-2 minutes, or until the garlic is fragrant but not yet browned."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Turn off heat and remove skillet from burner, then add cooked pasta and toss to coat."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Transfer to a serving platter or mixing bowl and add 3/4 of pea pesto and the arugula. Toss to combine."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Serve warm with additional pesto on the side, and garnish generously with additional parsley, pine nuts, and vegan parmesan cheese."
+        },
+        {
+            "step_number" : 10,
+            "step_description" : "Best when fresh, though leftovers will keep in the refrigerator up to 2-3 days. Enjoy chilled or at room temperature."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Basil",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Parsley",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Green Peas",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "If frozen, thawed"
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Cloves",
+            "preparation": ""
+        },
+        {
+            "name": "Pine Nuts",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Toasted"
+        },
+        {
+            "name": "Lemon",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Juiced"
+        },
+        {
+            "name": "Vegan Parm",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 1,
+            "unit": "Pinch",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Pasta",
+            "amount": 10,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 2,
+            "unit": "Cloves",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Sun Dried Tomatoes",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Choppsed"
+        },
+        {
+            "name": "Arugula",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
