@@ -1,0 +1,129 @@
+{
+    "name" : "Minimalist Baker: Vegan Pasta Al Limone",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/vegan-pasta-al-limone/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Soak cashews in very hot water for 30 minutes, uncovered."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In the meantime, add 3 quarts (~3 liters) of water and 1 Tbsp salt to a large pot (adjust amounts if adjusting serving size). Bring to a boil. Once boiling, add pasta, stir, and set a timer for the lower end of your package’s al dente recommendation."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "While pasta cooks, blend soaked cashews, lemon zest, lemon juice, garlic powder, garlic clove, chickpea miso, nutritional yeast, salt, and olive oil with 1 cup (240 ml) water (amount as recipe is written // adjust if altering batch size) until completely smooth — about 1 minute. Sauce should be somewhat thin and watery, like the texture of non-dairy milk. It should taste quite tart from the lemon juice, and savory from the garlic powder. If it seems too tart, don’t worry! It will balance out once it’s on the pasta. Adjust to taste by adding more lemon juice for brightness, or nutritional yeast for a more savory cheesy flavor."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Transfer sauce to a large shallow pan, such as a Dutch oven or rimmed skillet (at least 10 inches in diameter and 3 inches deep). Test pasta for doneness. It should be just a little firmer than you want it to be, as it will finish cooking in the sauce."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Carefully scoop out about 1 cup (240 ml) of the pasta water (amount as recipe is written // adjust if altering batch size) to reserve for thinning the sauce. Then drain pasta."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Off the heat, add 1/2 cup (120 ml) pasta water (amount as recipe is written // adjust if altering batch size) to the sauce and whisk to combine. Add drained pasta to sauce."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Turn heat to medium low and begin stirring and tossing the pasta in the sauce. It will seem watery and loose, but don’t worry! After 3-5 minutes, the sauce will thicken and begin clinging to the pasta. Stir until the sauce fully coats the pasta."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Add vegan parmesan and give the pasta one final toss. If sauce appears too thick, add some of the remaining pasta water until you reach the desired consistency. Serve immediately and garnish with red pepper flakes, parsley, and more vegan parmesan, if desired."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Best when fresh. Leftovers will keep up to 5 days in the refrigerator. Reheat in the microwave or in a skillet with a splash of non-dairy milk to bring back the sauciness! Not freezer friendly."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Raw Cashews",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Zest",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic Powder",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": ""
+        },
+        {
+            "name": "Chickpea Miso",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Nutritional Yeast",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Sea Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan Parm",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Dry Spaghetti",
+            "amount": 12,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Red Pepper Flakes",
+            "amount": 1,
+            "unit": "Dash",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh Parsley",
+            "amount": 1,
+            "unit": "Bunch",
+            "preparation": ""
+        }
+    ]
+}
