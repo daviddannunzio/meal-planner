@@ -1,0 +1,173 @@
+{
+    "name" : "Minimalist Baker: Kimchi Fried Rice",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/kimchi-fried-rice-plant-based/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "RICE: For the rice, if not using leftover, bring 12 cups (~3 liters) of water (yes, we really mean that much) to a boil in a large pot. Once boiling, add rinsed rice and stir. Boil on high uncovered for 30 minutes, then strain in a fine-mesh strainer. Let the rice sit in the strainer while you proceed with the recipe."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "TOFU: Preheat the oven to 400 degrees F (204 C) and line a baking sheet with parchment paper."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Drain the tofu and wrap it in a clean dish towel, then place something heavy on top (or use a tofu press) to press the tofu for 10 minutes. Cut and prepare your veggies while your tofu is draining."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Once drained, cut the tofu into 1/2-inch (13 mm) cubes and place on the parchment-lined baking sheet. Add 1 Tbsp (15 ml) toasted sesame oil and 2 Tbsp (36 g) gochujang and toss to coat (amounts as original recipe is written). Spread into an even layer and bake for 25-30 minutes, flipping halfway through or until golden brown with crispy edges. While the tofu bakes, start cooking the veggies."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "VEGGIES: In a large nonstick or cast iron skillet, heat 1 Tbsp (15 ml) toasted sesame oil over medium-high heat. Once hot, add diced onion and sauté until translucent, about 2 minutes. Add the minced garlic, stir fry veggies (such as carrots and snap peas), and 1 Tbsp (15 ml) tamari (amount as original recipe is written). When veggies are vibrantly colored and beginning to soften — about 4 minutes — turn off the heat and add your kimchi and kimchi juice. Toss the veggies one last time and then place them into a medium mixing bowl and set aside."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "FRIED RICE: With your pan still OFF heat, add 1 Tbsp (15 ml) sesame oil, 1 Tbsp (15 ml) tamari, the finely chopped ginger, and 2 cups (316 g) cooked rice (amounts as original recipe is written). Toss to fully coat the rice and then turn the heat on to medium-high. Spread the rice out into one even layer and cook, undisturbed, for about 2 minutes. You should hear it sizzling and popping a bit. If it’s quiet, turn your heat up a little. After 2 minutes, toss your rice and add 1/4 cup (72 g) gochujang (amount as original recipe is written). Toss to coat the rice fully and then spread into an even layer again, and cook undisturbed for 2 minutes."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Give your rice one final toss and then add the cooked veggies and baked tofu. Toss everything together and taste! Add more gochujang for spice or more tamari for saltiness."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Option to garnish with sesame seeds, crumbled nori, and green onions. Store in an airtight container in the refrigerator for up to 3-4 days. Not freezer friendly."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "---RICE---",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 12,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Rice",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "---TOFU---",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Extra Firm Tofu",
+            "amount": 14,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Sesame Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Gochujang",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "---VEGGIES---",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Sesame Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Yellow Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Carrot",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Snap Peas",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Tamari",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Kimchi",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Kimchi Juice",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "---FRIED RICE---",
+            "amount": ,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Sesame Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Tamari",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh Ginger",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Cooked Brown Rice",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": "Cooled"
+        },
+        {
+            "name": "Gochujang",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
