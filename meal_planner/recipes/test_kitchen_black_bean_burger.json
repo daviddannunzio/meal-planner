@@ -9,7 +9,7 @@
         },
         {
             "step_number" : 2,
-            "step_description" : "Whisk reserved bean liquid and flour in large bowl until well combined and smooth. Stir in scallions; cilantro; garlic; cumin; hot sauce, if using; coriander; salt; and pepper until well combined. Process tortilla chips in food processor until finely ground, about 30 seconds. Add black beans and pulse until beans are coarsely ground, about 5 pulses. Transfer bean mixture to bowl with flour mixture and mix until well combined."
+            "step_description" : "Whisk reserved bean liquid and flour in large bowl until well combined and smooth. Stir in cilantro; garlic; cumin; hot sauce, if using; coriander; salt; and pepper until well combined. Process tortilla chips in food processor until finely ground, about 30 seconds. Add black beans and pulse until beans are coarsely ground, about 5 pulses. Transfer bean mixture to bowl with flour mixture and mix until well combined."
         },
         {
             "step_number" : 3,
@@ -36,12 +36,6 @@
             "amount": 2,
             "unit": "Tbs",
             "preparation": ""
-        },
-        {
-            "name": "Scallions",
-            "amount": 4,
-            "unit": "",
-            "preparation": "Minced"
         },
         {
             "name": "Cilantro",
