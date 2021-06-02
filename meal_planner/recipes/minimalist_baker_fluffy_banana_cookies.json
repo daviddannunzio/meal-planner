@@ -1,0 +1,109 @@
+{
+    "name" : "Minimalist Baker Fluffy 1-Bowl Banana Chocolate Chip Cookies",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/fluffy-1-bowl-banana-chocolate-chip-cookies/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 350 degrees F (176 C) and line a baking sheet with parchment paper."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a large bowl, combine flaxseed and water and let sit for a few minutes to achieve “eggy” texture."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add the banana and mash. Then add almond butter, melted coconut oil, brown sugar, vanilla, baking soda, baking powder, and salt and whisk to combine."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add almond meal and oat flour and mix again with a wooden spoon. Add chocolate chips and stir again. If batter appears very wet, add 1 Tbsp additional almond flour. Refrigerate for 5-10 minutes to harden."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Drop cookies in uniform 1 ½ Tbsp spoonfuls (I like using this scoop) onto prepared baking sheet. They won’t expand much so spacing isn’t a concern."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Bake for 15-17 minutes or until the cookies are slightly golden brown."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Let rest on baking sheet for a few minutes before transferring to a cooling rack. After completely cooled, store in an air-tight container at room temperature (or in the refrigerator) up to 3-4 days, or in the freezer up to 1 month."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Flax Egg",
+            "amount": 1,
+            "unit": "",
+            "preparation": "1Tbs Flax 2.5Tbs Water"
+        },
+        {
+            "name": "Ripe Banana",
+            "amount": ,
+            "unit": "1",
+            "preparation": "Mashed"
+        },
+        {
+            "name": "Almond Butter",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Coco Oil or Non-Dairy Butter",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Melted"
+        },
+        {
+            "name": "Brown Sugar",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Vanilla Extract",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Soda",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Powder",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Sea Salt",
+            "amount": 1,
+            "unit": "Pinch",
+            "preparation": ""
+        },
+        {
+            "name": "Almond Meal",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Oat Flour",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Chocolate Chips",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
