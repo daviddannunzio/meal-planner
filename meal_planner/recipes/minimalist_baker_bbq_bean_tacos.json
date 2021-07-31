@@ -1,0 +1,99 @@
+{
+    "name" : "Minimalist Baker: Smoky BBQ Bean Tacos",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/smoky-bbq-bean-tacos-vegan-gf/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Heat the avocado oil in a large skillet over medium heat. Add the onion and sauté for 4 minutes, until translucent and beginning to soften."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add the chopped chipotles in adobo (use the lesser amount if sensitive to spice), cumin, and smoked paprika, and cook until fragrant — about 1 minute."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add the drained pinto beans, water (or vegetable broth), maple syrup, and salt and stir to combine. Cook for 7-8 minutes, until warmed through and slightly thickened. Add the lime juice, stir, and season to taste, adding more paprika for smokiness, minced chipotle pepper for heat, or lime juice for brightness."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "When the beans are ready (tender and well seasoned), warm tortillas by wrapping in a damp paper towel (or kitchen towel) and microwaving for 30 seconds to 1 minute. If using fresh or homemade tortillas, you can warm them one at a time in a cast iron skillet over high heat for 10-20 seconds on each side (or until just warmed), then wrap in a towel to keep warm until serving."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Divide beans between warmed corn tortillas and serve with toppings of your choice (jicama slaw and guacamole are our favorites!). Leftover beans will keep in the refrigerator for 3 days or in the freezer for 1 month."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Makes roughly 5 tacos"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Avocado Oil",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "White Onion",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Chipotle peppers in adobo",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Roughly Chopped"
+        },
+        {
+            "name": "Cumin",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Smoked Paprika",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Pinto Beans",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": "Drained/Rinsed"
+        },
+        {
+            "name": "Water/Veggie Broth",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Maple Syrup",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Juice",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Corn Tortillas",
+            "amount": 5,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
