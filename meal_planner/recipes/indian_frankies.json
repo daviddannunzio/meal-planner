@@ -26,6 +26,18 @@
     ],
     "ingredients" : [
         {
+            "name": "Quick Picked Red Onions",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Cilantro Mint Chutney",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
             "name": "Extra Large Whole Wheat Tortillas",
             "amount": 4,
             "unit": "",
