@@ -1,0 +1,151 @@
+{
+    "name" : "Minimalist Baker: Roasted Red Pepper Chickpea Curry",
+    "meat" : "VEGAN",
+    "website" : "https://minimalistbaker.com/roasted-red-pepper-chickpea-curry-instant-pot-friendly/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "If making homemade roasted red peppers, prepare them at this time using this recipe. Otherwise, proceed to the next step."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "To a high-speed blender, add roasted red peppers, diced tomatoes, coconut milk, curry powder, salt, and pepper (optional). Blend on high until smooth and creamy. Set aside."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Turn on the sauté function on your Instant Pot (to the default Normal — not high or low). Add the water (or oil) and onion and sauté until softened — about 4-5 minutes. Add the cubed sweet potatoes and sauté another 3-4 minutes. Then add garlic and ginger and sauté 1 more minute or until fragrant. Turn off the sauté function by pressing Cancel."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Add the roasted red pepper sauce and chickpeas and stir to combine. Seal the lid and pressure cook on normal for 2 minutes. When the timer goes off, allow the pressure to naturally release for 10 minutes, then manually release any remaining pressure. Remove the lid, add the spinach, and stir until it’s wilted — about 1-2 minutes."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Taste and adjust as needed, adding more salt for overall flavor or curry powder for warmth and spice."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Optionally, serve with rice of choice (coconut rice, brown rice, or white rice), cilantro, lime wedges, and sliced jalapeño."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Store leftovers covered in the refrigerator for up to 3-4 days or in the freezer for 1 month."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "-----SAUCE------",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Roasted Red Peppers (jar)",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Diced Tomatoes",
+            "amount": 1,
+            "unit": "14.5oz Can",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Milk",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": ""
+        },
+        {
+            "name": "Curry Powder",
+            "amount": 1.5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Pepper",
+            "amount": 1,
+            "unit": "Pinch",
+            "preparation": ""
+        },
+        {
+            "name": "-----------CURRY------------",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "White Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Sweet Potato",
+            "amount": 5,
+            "unit": "Cup",
+            "preparation": "Cubed into 1/2 inch blocks"
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Ginger",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Chickpeas",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": "Drained and Rinsed"
+        },
+        {
+            "name": "Spinach",
+            "amount": 1,
+            "unit": "Handful",
+            "preparation": ""
+        },
+        {
+            "name": "----------FOR SERVING------------",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Jalapeño",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Rice",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Lime Wedge",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
