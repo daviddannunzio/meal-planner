@@ -1,0 +1,167 @@
+{
+    "name" : "Mostly Plants: Sheet Pan Tacos with Crispy Brussel Sprouts",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 425. Line a rimmed baking sheet with parchment paper"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a medium saucepan over medium heat, toast the quinoa, stirring frequently, until lightly browned and fragrant, 3 to 5 minutes. Add the broth and 1/2 cup water. Raise the heat to high to bring to a boil. Reduce the heat to low, cover, and cook until the liquid has been absorbed, 15 to 20 minutes."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Meanwhile, in a large bowl, combine the Brussel sprouts, 2 tablespoons of the olive oil, 1/2 teaspoon salt, and 1/4 teaspoon black pepper and mix well. Spread the Brussel sprouts over a rimmed baking sheet and roast for 15 minuets. Remove from the oven and set aside."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Reduce the oven to 400."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "In a large bowl, combine the nutritional yeast, chili powder, cumin, paprika, garlic powder, cayenne, 1/4 teaspoon salt, and 1/4 teaspoon pepper. Mix well until blended. Add the cooked quinoa, black beans, shallot, pico de gallo, and remaining 1 Tablespook olive oil. Spread the quinoa mixture over the parchment lined baking sheet. Roast for 15 minutes, then remove from the oven, flip the quinoa mixture with a spatula, and return both it and the baking sheet with the brussels to the oven for an additional 15 minutes."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Heat the tortillas"
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Combine all the Sriracha May ingredients in a small bowl."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Top each tortilla with three or four spoonfuls of the quinoa and Brussels. Serve with additional pico de gallo, the Sriracha mayo, and pickled red onions."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "-----------Tacos--------------",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Quinoa",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Brussels Sprouts",
+            "amount": 1.5,
+            "unit": "lb",
+            "preparation": "Trimmed and halved or quartered"
+        },
+        {
+            "name": "EVOO",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Nutritional Yeast",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Chili Powder",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Paprika",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic Powder",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cayenne",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Black Beans",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Shallot",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Salsa",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Tortilla",
+            "amount": 12,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "-----------Mayo--------------",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan Mayo",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sriracha",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lime",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Pepper",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        }
+    ]
+}
