@@ -1,0 +1,165 @@
+{
+    "name" : "Mostly Plants: Buddha Bowl with Roasted Sweet Potatoes, Spiced Chickpeas, and Chard",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "In a blender or food processor, combine the poblano, garlic, tahini, lemon juice, olive oil, and 1/4 cup water and blend until smooth. (If the sauce is too thick, add water as needed to reach the desired consistency.) Season with 1/2 teaspoon salt and 1/8 teaspoon pepper. Set aside. (The dressing can be made ahead and stored in an airtight container in the refrigerator for up to 1 week.)"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Preheat oven to 425"
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "In a medium saucepan, cook the quinoa, rice, or farro according to the directions on the package."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "In a medium bowl, combine the sweet potatoes, melted coconut oil, maple syrup, orange zest, and 1/4 teaspoon salt. Mix well until the potatoes are evenly coated."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Spread the sweet potatoes on a rimmed baking sheet and roast for 20 minutes. Flip them with a spatula and roast until the potatoes are tender and beginning to brown, an additional 10 to 15 minutes."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Meanwhile, in a small bowl, combine the chickpeas, 2 teaspoons of olive oil, the paprika, cumin, cayenne, 1/4 teaspoon salt, and 1/8 teaspoon pepper. Mix well until the chickpeas are thoroughly coated."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Spread the chickpeas on a rimmed baking sheet and roast with the sweet potatoes until golden brown, 15 to 20 minutes, stirring them once halfway through."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "In a large skillet over medium-high heat, heat the remaining 1 tablespoon of the olive oil until shimmering. Add the garlic and red pepper flakes. Cook until the garlic is fragrant, 3 to 4 minutes. Add the chard, cover, and cook stirring occasionally, until the chard begins to wilt, 2 to 3 minutes. Uncover, add 1/4 teaspoon salt and 1/8 teaspoon pepper, and cook, stirring frequently, until the chard is completely wilted and cooked through, an additional 1 to 2 minutes. Discard the garlic cloves."
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Put 1/2 cup of the cooked grain in the bottom of each of four serving bowls. Top each bowl with equal portions of the roasted sweet potatoes, roasted chickpeas, and sautéed chard. Drizzle with the poblano tahini sauce and serve wtih extra sauce passed separately."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "-----------Sauce--------------",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Poblano Pepper",
+            "amount": 1.5,
+            "unit": "Cup",
+            "preparation": "Roughly Chopped"
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": "Quartered"
+        },
+        {
+            "name": "Tahini",
+            "amount": 0.33,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "-----------Bowls--------------",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Farro, rice, or quinoa",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Sweet Potato",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Cut into 1-inch cubes"
+        },
+        {
+            "name": "Coco Oil",
+            "amount": 1.5,
+            "unit": "Tbs",
+            "preparation": "Melted"
+        },
+        {
+            "name": "Maple",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Orange Zest",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chickpeas",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": "Drained and Rinsed"
+        },
+        {
+            "name": "EVOO",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Paprika",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 0.125,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cayenne",
+            "amount": 0.125,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Clove",
+            "preparation": "Peeled"
+        },
+        {
+            "name": "Red Pepper Flakes",
+            "amount": 0.125,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Swiss chard, red, green, or rainbow",
+            "amount": 1,
+            "unit": "Bunch",
+            "preparation": "Stemmed, leaves cut into 1 inch strips"
+        }
+    ]
+}
