@@ -1,0 +1,129 @@
+{
+    "name" : "Nutriciously: Vegan Lentil Soup",
+    "meat" : "VEGAN",
+    "website" : "https://nutriciously.com/vegan-lentil-soup/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Serves 3 to 4"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Place a large pot over medium heat and add the onion, garlic, carrot, celery, potato and spices. Sauté everything in a splash of water for 5 minutes, stirring frequently."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add the vegetable broth, tomato paste and diced tomatoes. Stir and bring to a boil before adding the dry lentils and mixing everything well."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Turn the heat to low, cover the pot and let your soup simmer for 15 minutes until the lentils are cooked and the potatoes are tender, but not overcooked."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Season your carrot lentil soup with salt and pepper, then add the spinach and let it simmer for five more minutes."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Turn off the heat, add the chopped parsley and lemon juice and serve your homemade anti-inflammatory soup warm."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Red or Brown Lentils",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": "Rinsed"
+        },
+        {
+            "name": "Russet Potato",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Peeled and Cut into Cubes"
+        },
+        {
+            "name": "Carrots",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Celery",
+            "amount": 3,
+            "unit": "Stalks",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Yellow Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Diced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 3,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Veggie Broth",
+            "amount": 4,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Parsley",
+            "amount": 1,
+            "unit": "Bunch",
+            "preparation": "Finely Chopped"
+        },
+        {
+            "name": "Tomato Paste",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Kale",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": "60g"
+        },
+        {
+            "name": "Cumin",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Turmeric",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Paprika",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Coriander Seeds",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Ginger",
+            "amount": 1,
+            "unit": "inch",
+            "preparation": "Grated"
+        }
+    ]
+}
