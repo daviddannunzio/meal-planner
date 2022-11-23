@@ -1,0 +1,151 @@
+{
+    "name" : "Avantgardevegan: Chickpea Curry",
+    "meat" : "VEGAN",
+    "website" : "https://www.avantgardevegan.com/recipes/chickpea-curry/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Place a large saucepan over a medium heat and add the oil. When the pan is hot add the onion, garlic, chilli & ginger, cook for 10 minutes – stirring often. This is the most important part of making the curry, getting your base ingredients lovely and golden will insure the finished curry has a powerful flavour."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Add the all the spices & cook whilst stirring for another 3-4 minutes to let the spices roast & release their aromatics. Throw in the tomato puree and cook for 1 more minute before adding the chickpeas & stir well so they are coated in all the beautiful flavours."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Deglaze the pan with the coconut milk and stir well then allow it to come to a simmer."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Let your curry bubble away gently for around 12 minutes."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Meanwhile, add the rinsed rice, water, turmeric & cinnamon stick to a small saucepan, pop the lid on and place the pan over a low heat to cook gently for around 12 minutes or until the liquid has been absorbed by the rice and it’s perfectly cooked."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "When the rice is cooked, just before serving stir the coconut flour into the curry to thicken it up."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Serve up your curry with the rice, chutney, side salad, a sprinkle of black onion seeds and poppadoms."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Basmati Rice",
+            "amount": 200,
+            "unit": "g",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Turmeric",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cinnamon Stick",
+            "amount": 1,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Onion",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Garlic",
+            "amount": 3,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Hot Red Chili",
+            "amount": 1,
+            "unit": "",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Fresh Ginger",
+            "amount": 1,
+            "unit": "inch",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Turmeric",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Mustard Seeds",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Coriander",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Curry Leaves",
+            "amount": 4,
+            "unit": "",
+            "preparation": "Or 2tsp curry powder"
+        },
+        {
+            "name": "Fenugreek",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Tomato Puree",
+            "amount": 3,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Chickpea",
+            "amount": 2,
+            "unit": "Can",
+            "preparation": ""
+        },
+        {
+            "name": "Coconut Milk",
+            "amount": 1,
+            "unit": "Can",
+            "preparation": ""
+        },
+        {
+            "name": "Flour",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        }
+    ]
+}
