@@ -33,7 +33,7 @@ class RecipeStep(models.Model):
 
 
 class Ingredients(models.Model):
-    recipe = models.ForeignKey(Recipe)
+    recipe = models.ForeignKey(Recipe, on_delete=models.CASCADE)
     name = models.CharField(max_length=100)
     amount = models.FloatField()
     unit = models.CharField(max_length=100)
