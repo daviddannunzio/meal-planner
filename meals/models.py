@@ -21,7 +21,7 @@ class Recipe(models.Model):
 
 
 class RecipeStep(models.Model):
-    recipe = models.ForeignKey(Recipe)
+    recipe = models.ForeignKey(Recipe, on_delete=models.CASCADE)
     step_number = models.IntegerField()
     step_description = models.CharField(max_length=40000)
 
