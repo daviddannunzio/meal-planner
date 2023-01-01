@@ -1,0 +1,55 @@
+{
+    "name" : "Vegan For Everybody: Pub Sauce",
+    "meat" : "VEGAN",
+    "website" : "",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Whisk all ingredients. Can be stored for up to 4 days"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Vegan Mayo",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Soy Sauce",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Brown Sugar",
+            "amount": 5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Vegan Worcestershire",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Chives",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Black Pepper",
+            "amount": 0.75,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
