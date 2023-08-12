@@ -1,0 +1,69 @@
+{
+    "name" : "Mushroom Leek Soup",
+    "meat" : "VEGAN",
+    "website" : "https://www.munchkintime.com/30-minute-mushroom-leek-soup-recipe-instant-pot/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Turn Instant Pot (this is the one I have https://amzn.to/3nPbJB0 the 6q.) on saute mode, then add butter & mushrooms. Saute for 3 minutes, stirring few times. After 3 minutes add leeks, carrots & celery, saute for 7 minutes. Stirring few times."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Now, add potato, chicken broth, bay leave, thyme, salt & pepper to taste. Cover the lid and place the steam release handle on a sealing position. Cook on soup/broth mode for 10 minutes."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Quick release the pressure & open the lid. Serve Mushroom Leek Soup with fresh parlsey and homemade bread. Enjoy!"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Butter",
+            "amount": 5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Mushrooms",
+            "amount": 8,
+            "unit": "oz",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Leeks",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Sliced"
+        },
+        {
+            "name": "Carrots",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Grated"
+        },
+        {
+            "name": "Celery",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Broth",
+            "amount": 6,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Potato",
+            "amount": 3,
+            "unit": "Medium",
+            "preparation": "Cubed"
+        },
+        {
+            "name": "Dried Thyme",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
