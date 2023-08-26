@@ -1,0 +1,125 @@
+{
+    "name" : "Gongura Pappu",
+    "meat" : "VEGAN",
+    "website" : "https://chiliinapod.com/gongura-pappu-in-instant-pot-sorrel-leaves-dal-recipe/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Rinse Gongura leaves to remove any dirt or dust, use cutting board to chop them finely"
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a bowl take toor dal (split pigeon peas), wash and rinse for 2 to 3 times."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "To the inner pot, add drained toor dal, 2 cups of finely chopped gongura leaves, 1/2 cup chopped onion, 3 to 5 medium size green chilies, 1/4 tsp turmeric powder and 2.5 cups water. Give a good mix"
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Close instant pot with lip and set pressure valve to sealing and pressure cook at high for 15 mins."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Followed by quick pressure release"
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Carefully open instant pot lid, with a potato masher, mash the dal thoroughly."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "Now to temper the dal, heat a small pan with 2 tablespoon oil."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "Add mustard seeds, cumin (jeera), urad dal, red chilies, crushed garlic, asafoetida (hing) powder, and curry leaves and roast them for few seconds"
+        },
+        {
+            "step_number" : 9,
+            "step_description" : "Switch off and remove from heat."
+        },
+        {
+            "step_number" : 10,
+            "step_description" : "Switch on Instant pot to saute mode high. Add 1 teaspoon of salt, 1/2 cup of water (to adjust the consistency of dal) and mix well."
+        },
+        {
+            "step_number" : 11,
+            "step_description" : "Now add the tempered ingredients on top of the dal, mix it well and cook for 1 minute."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Gongura Leaves",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Red Lentils",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Turmeric",
+            "amount": 0.25,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Onion",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Green Chiles",
+            "amount": 3,
+            "unit": "",
+            "preparation": "Halved"
+        },
+        {
+            "name": "Salt",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Water",
+            "amount": 2.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Oil",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Mustard Seed",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Cumin",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Dry Red Chile",
+            "amount": 2,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 4,
+            "unit": "Cloves",
+            "preparation": "Crushed"
+        }
+    ]
+}
