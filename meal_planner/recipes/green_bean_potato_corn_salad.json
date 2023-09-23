@@ -1,0 +1,141 @@
+{
+    "name" : "Love & Lemons: Greenbean Potato & Corn Salad",
+    "meat" : "VEGAN",
+    "website" : "https://www.loveandlemons.com/green-bean-potato-corn-salad/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat the oven to 400 degrees. Toss the potatoes with a drizzle of olive oil, the minced garlic, and pinches of salt and pepper. Roast potatoes in the oven for 25-30 minutes, until browned and crispy."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Make the dressing: Whisk together the olive oil, lemon juice, vinegar, Dijon, garlic, agave, and pinches of salt and pepper. Taste and adjust seasonings."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Set a bowl of ice water aside a large pot of boiling water. Drop the chopped green beans into the boiling water and blanch for about 1 minute. Transfer to the bowl of ice water and let them cool for a few minutes. Drain and set aside."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Boil the Israeli couscous in salted water for 6-8 minutes, or until al dente. Drain and rinse."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Combine the potatoes, green beans, couscous, cherry tomatoes, corn, basil, oregano, and capers and toss with the dressing. Taste and adjust seasonings, adding salt and pepper as desired."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Serve warm or at room temperature. (it would probably also be good cold...but we didn’t have any leftover to test that out the next day)."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "-----Ingredients-----",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Potatoes",
+            "amount": 2,
+            "unit": "",
+            "preparation": "Cubed 0.5in"
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Green Beans",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "1in pieces"
+        },
+        {
+            "name": "Israeli Couscous",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Cherry Tomato",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Halved"
+        },
+        {
+            "name": "Corn",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Basil",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Chopped"
+        },
+        {
+            "name": "Fresh Oregano",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Capers",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Protein! (Chickpeas)",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "-----Dressing-----",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Lemon Juice",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Champagne Vinegar",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Dijon",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Garlic",
+            "amount": 1,
+            "unit": "Clove",
+            "preparation": "Minced"
+        },
+        {
+            "name": "Agave",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}

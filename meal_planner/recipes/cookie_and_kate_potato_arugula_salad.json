@@ -1,0 +1,131 @@
+{
+    "name" : "Cookie & Kate: Sweet Potato Arugula Salad",
+    "meat" : "VEGAN",
+    "website" : "https://cookieandkate.com/sweet-potato-arugula-wild-rice-salad-recipe/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "To cook the wild rice: Bring a large pot of water to boil (or see Instant Pot option provided in notes). Add the rinsed rice and continue boiling, reducing heat as necessary to prevent overflow, for 40 minutes to 55 minutes, until the rice is pleasantly tender but still offers a light resistance to the bite. Remove from heat, drain the rice and return the rice to pot. Cover and let the rice rest for 10 minutes, then remove the lid, stir in ¼ teaspoon of the salt, and set aside."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Meanwhile, to roast the sweet potatoes: Preheat the oven to 425 degrees Fahrenheit. Line a large, rimmed baking sheet with parchment paper for easy cleanup. Place the cubed sweet potato on the pan, drizzle with the olive oil and sprinkle with ¼ teaspoon of the salt. Toss until the sweet potatoes are lightly and evenly coated in oil. Arrange the sweet potatoes in a single layer and roast for 25 to 30 minutes, tossing halfway, until they are caramelized on the edges and tender when pierced through with a fork. Leave the oven on and let the sweet potatoes cool for a few minutes."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "To make the dressing, simply combine all of the ingredients in a small bowl and whisk until thoroughly combined. Set aside."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Combine the arugula, wild rice and roasted sweet potatoes (keep the parchment paper) in a large serving bowl or platter."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Spread the seeds and/or chopped nuts on your parchment-covered baking sheet. Bake for 3 to 4 minutes, until lightly golden and fragrant (be sure to set a timer; we’re toasting at high heat here)."
+        },
+        {
+            "step_number" : 6,
+            "step_description" : "Spread the toasted seeds/nuts over the salad. Top with the crumbled feta, green onion and dried cranberries."
+        },
+        {
+            "step_number" : 7,
+            "step_description" : "If you’re serving the salad immediately, go ahead and drizzle most of the dressing on top (you probably won’t use it all). Gently toss to combine, and let the salad rest for a few minutes so the rice has time to absorb some of the dressing. Serve."
+        },
+        {
+            "step_number" : 8,
+            "step_description" : "If you’re planning to have leftovers, divide the salad into portions and store the dressing separately. The salad and dressing will keep well, each covered in the refrigerator, for up to 5 days. Leftover dressing is great to keep on hand for future salads!"
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "-----SALAD-----",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "Wild Rice",
+            "amount": 1,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Sweet Potato",
+            "amount": 1.5,
+            "unit": "lb",
+            "preparation": "Cubed 1''"
+        },
+        {
+            "name": "EVOO",
+            "amount": 1.5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Pumpkin Seeds",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Arugula",
+            "amount": 5,
+            "unit": "oz",
+            "preparation": ""
+        },
+        {
+            "name": "Goat Cheese",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Dried Cranberries",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "-----DRESSING-----",
+            "amount": 0,
+            "unit": "",
+            "preparation": ""
+        },
+        {
+            "name": "EVOO",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Dijon",
+            "amount": 2,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Maple",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Fresh Ginger",
+            "amount": 2,
+            "unit": "tsp",
+            "preparation": ""
+        }
+    ]
+}
