@@ -1,0 +1,65 @@
+{
+    "name" : "Roasted Brussel Sprouts",
+    "meat" : "VEGAN",
+    "website" : "https://cjeatsrecipes.com/roasted-brussels-sprouts/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Preheat oven to 450F. Place an empty baking sheet in the oven to preheat."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "Cut Brussels Sprouts lengthwise into halves and transfer to a bowl. Season with 1/4 cup of the olive oil along with kosher salt, black pepper, garlic powder, and honey. Mix until all the brussels sprouts are evenly coated."
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Once the baking sheet is hot, carefully set it on a heatproof surface and drizzle about 1/4 cup of olive oil evenly across the baking sheet."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Carefully add the mixed brussels sprouts and place them flat side down on the tray."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Roast the brussels sprouts in the oven for 25-30 minutes until crispy, flipping occasionally over once about halfway through cooking."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Brussels",
+            "amount": 1.5,
+            "unit": "lb",
+            "preparation": "Washed and Halved"
+        },
+        {
+            "name": "Garlic Powder",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Kosher Salt",
+            "amount": 0.5,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Black Pepper",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Honey/Agave",
+            "amount": 1,
+            "unit": "Tbs",
+            "preparation": ""
+        },
+        {
+            "name": "Olive Oil",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
