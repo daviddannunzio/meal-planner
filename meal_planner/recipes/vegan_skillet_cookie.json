@@ -1,0 +1,89 @@
+{
+    "name" : "Vegan Skillet Cookie",
+    "meat" : "VEGAN",
+    "website" : "https://foodwithfeeling.com/vegan-skillet-cookie/",
+    "steps" : [
+        {
+            "step_number" : 1,
+            "step_description" : "Pre-heat the oven to 350 degrees F and grease a 10-12 inch oven safe skillet with butter or cooking spray."
+        },
+        {
+            "step_number" : 2,
+            "step_description" : "In a stand mixer using the paddle attachment (you can also do this in a large bowl with a hand mixer), cream together the butter, sugar, and brown sugar. Once fully combined, add in the milk and vanilla and mix until just combined. The mixture will look a little curdled but it’s okay!"
+        },
+        {
+            "step_number" : 3,
+            "step_description" : "Add in the four, baking powder, baking soda, and salt and stir until just combined. Fold in the chocolate until mixed in. The dough will be a little sticky but should not stick to your hands excessively. If it’s too sticky, mix in a little extra flour."
+        },
+        {
+            "step_number" : 4,
+            "step_description" : "Pour the dough into your prepared skillet and spread it out so that it’s evenly in the skillet. Pat the edges down a little so everything is as even as possible. Optional to top with additional chocolate (do it!)."
+        },
+        {
+            "step_number" : 5,
+            "step_description" : "Bake for 25-30 minutes or until the cookie set, puffed up around the edges, and just starting to get a golden brown color. Top with ice cream and ENJOY! Note, 30 minutes was ALMOST overcooked."
+        }
+    ],
+    "ingredients" : [
+        {
+            "name": "Vegan Butter",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": "Softened, does not need to be room temp"
+        },
+        {
+            "name": "Light Brown Sugar",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "White Sugar",
+            "amount": 0.5,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Plant Milk",
+            "amount": 0.25,
+            "unit": "Cup",
+            "preparation": "Room Temp"
+        },
+        {
+            "name": "Vanilla",
+            "amount": 1,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "AP Flour",
+            "amount": 2,
+            "unit": "Cup",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Powder",
+            "amount": 1.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Baking Soda",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.5,
+            "unit": "tsp",
+            "preparation": ""
+        },
+        {
+            "name": "Chocolate Chips",
+            "amount": 0.75,
+            "unit": "Cup",
+            "preparation": ""
+        }
+    ]
+}
